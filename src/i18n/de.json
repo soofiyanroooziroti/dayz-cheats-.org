@@ -1,0 +1,1480 @@
+{
+  "site": {
+    "name": "DayZ cheats",
+    "domain": "dayz-cheats.org",
+    "title": "DayZ cheats",
+    "description": "Aimbot, player ESP, infected ESP, world ESP, item ESP, and config for DayZ on Windows PC.",
+    "discord": "/go/dayz/"
+  },
+  "nav": [
+    {
+      "href": "/",
+      "label": "Startseite"
+    },
+    {
+      "href": "/products/dayz-cheats/",
+      "label": "Produkte"
+    },
+    {
+      "href": "/products/dayz-cheats/dayz-cheats/#features",
+      "label": "Funktionen"
+    },
+    {
+      "href": "/blog/",
+      "label": "Blog"
+    },
+    {
+      "href": "/forum/",
+      "label": "Forum"
+    },
+    {
+      "href": "/faq/",
+      "label": "FAQ"
+    },
+    {
+      "href": "/support/",
+      "label": "Support"
+    }
+  ],
+  "headerNavLabels": {
+    "home": "Startseite",
+    "products": "Store",
+    "features": "Funktionen",
+    "blog": "Blog",
+    "forum": "Forum",
+    "faq": "FAQ",
+    "support": "Hilfe"
+  },
+  "navMore": "Mehr",
+  "navShort": {
+    "home": "Start",
+    "products": "Produkte",
+    "features": "Funktionen",
+    "blog": "Blog",
+    "forum": "Forum",
+    "faq": "FAQ",
+    "support": "Support"
+  },
+  "hero": {
+    "status": "DayZ — Module online",
+    "eyebrow": "Steam · Windows PC",
+    "titleLine1": "DayZ Cheats für Windows PC",
+    "titleLine2": "Cheats",
+    "subtitle": "DayZ cheats für Steam auf Windows PC: aimbot, Spieler-ESP, Infizierten-ESP, Welt-ESP, Gegenstands-ESP und Konfiguration, mit sofortiger Lieferung und Discord-Support.",
+    "ctaPrimary": "Produkte ansehen",
+    "ctaDiscord": "Jetzt kaufen",
+    "modesLabel": "Modi",
+    "modes": [
+      "Survival",
+      "PvP",
+      "Basen-Raids",
+      "Loot-Runs"
+    ],
+    "marqueeAria": "Features und Plattformunterstützung",
+    "metrics": [
+      {
+        "label": "Anti-Cheat",
+        "strong": "BattlEye"
+      },
+      {
+        "label": "Plattform",
+        "strong": "Windows PC"
+      },
+      {
+        "label": "Tarife",
+        "strong": "$35 / $150"
+      },
+      {
+        "label": "Support",
+        "strong": "24/7"
+      }
+    ]
+  },
+  "features": {
+    "eyebrow": "Funktionen",
+    "title": "Alles, was du brauchst, in einem Paket",
+    "subtitle": "Das loader-Menü: aimbot, Spieler ESP, Infizierte ESP, Welt ESP, Gegenstände ESP, Verschiedenes und Konfiguration.",
+    "items": [
+      {
+        "title": "Aimbot-Optionen",
+        "subtitle": "FOV, Distanz, Knochen, ignorieren.",
+        "desc": "Umschalten, FOV, Zieldistanz, Spieler, Infizierte oder Tiere ignorieren, Knochen, FOV-Stil und eine Linie zum Ziel.",
+        "bullets": [
+          "Aimbot umschalten",
+          "Anpassbare FOV und Zieldistanz",
+          "Knochen: nBSchster, Kopf, Hals, Becken"
+        ],
+        "tags": [
+          "aimbot",
+          "fov",
+          "Knochen"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-6"
+      },
+      {
+        "title": "Spieler-ESP-Optionen",
+        "subtitle": "Box, Skelett, Inventar.",
+        "desc": "Aktivieren, Freunde, Box, gefüllte Box, Kopfpunkt, Skelett, Gesundheit, Name, Distanz, Inventar, Gegenstand in der Hand, Traces und max. Distanz.",
+        "bullets": [
+          "Box oder Eckbox",
+          "Inventar und Gegenstand in der Hand",
+          "Maximale Distanz"
+        ],
+        "tags": [
+          "Spieler-esp",
+          "Skelett",
+          "Inventar"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-6"
+      },
+      {
+        "title": "Infizierten-ESP-Optionen",
+        "subtitle": "Zombie-Overlays.",
+        "desc": "Aktivieren, Box, gefüllte Box, Kopfpunkt, Skelett, Gesundheit, Name, Distanz, Traces und maximale Distanz für Infizierte.",
+        "bullets": [
+          "Aktivieren und Box-Optionen",
+          "Skelett, Gesundheit und Distanz",
+          "Maximale Distanz"
+        ],
+        "tags": [
+          "Infizierte",
+          "Zombie",
+          "esp"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-4"
+      },
+      {
+        "title": "Welt-ESP-Optionen",
+        "subtitle": "Tiere, Fahrzeuge, Hubschrauberabstürze.",
+        "desc": "Tier-ESP, Gesundheit als Text oder Balken, Fahrzeug-ESP und Markierungen für Absturzstellen.",
+        "bullets": [
+          "Tier-ESP",
+          "Fahrzeug-ESP",
+          "Hubschrauberabsturz"
+        ],
+        "tags": [
+          "Welt",
+          "Fahrzeug",
+          "Absturzstelle"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-4"
+      },
+      {
+        "title": "Gegenstands-ESP-Optionen",
+        "subtitle": "Qualität und Kampfmodus.",
+        "desc": "Gegenstandsqualität, Qualität als Text oder Balken, Kampfmodus und nur beim Überfahren anzeigen.",
+        "bullets": [
+          "Gegenstandsqualität",
+          "Kampfmodus",
+          "Nur beim Überfahren anzeigen"
+        ],
+        "tags": [
+          "Gegenstände",
+          "Qualität"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-4"
+      },
+      {
+        "title": "Verschiedene Optionen",
+        "subtitle": "No-Clip, Tag, Gras, Fadenkreuz.",
+        "desc": "No-Clip, immer Tag, lokale Position, Third-Person-Freischaltung, kein Gras und ein Fadenkreuz.",
+        "bullets": [
+          "No-Clip und immer Tag",
+          "Third-Person-Freischaltung",
+          "Kein Gras und Fadenkreuz"
+        ],
+        "tags": [
+          "Verschiedenes",
+          "Fadenkreuz"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-6"
+      },
+      {
+        "title": "Konfigurationsoptionen",
+        "subtitle": "FPS, Sprache, Speichern und Laden.",
+        "desc": "FPS limitieren, Menüsprache auf Englisch oder Chinesisch, Konfiguration speichern und laden.",
+        "bullets": [
+          "FPS limitieren",
+          "Englisches oder chinesisches Menü",
+          "Konfiguration speichern und laden"
+        ],
+        "tags": [
+          "Konfiguration",
+          "FPS"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-6"
+      }
+    ]
+  },
+  "whyUs": {
+    "eyebrow": "Warum wir",
+    "title": "Einstufungs-Tools mit fundierten Patches statt leerer Versprechungen",
+    "subtitle": "Ein Cheat-Produkt, ein HWID spoofer und ein UGC-Wiederherstellungsbereichace. Cheat und UGC sind $35 monthly oder $150 lifetime; der Spoofer kostet $50 monthly oder $150 lifetime. Ein Ausschluss ist unter BattlEye weiterhin möglich.",
+    "usLabel": "DayZ cheats",
+    "otherLabel": "Typischer Anbieter",
+    "rows": [
+      {
+        "title": "Patch-Tag-Software-Aktualisierungen",
+        "desc": "Überprüfe dayz-cheats.org nach einem DayZ- oder BattlEye-Update, bevor du das loader öffnest."
+      },
+      {
+        "title": "Getrennte Ziel-Regler",
+        "desc": "FOV, Zielentfernung, Ignorieren und Knochen sind separate aimbot-Einstellungen. Ändere jeweils eine nach der anderen und verwende dann Konfiguration speichern."
+      },
+      {
+        "title": "Hilfe für Loader und Konfigurationen",
+        "desc": "Einrichtungsfragen betreffen das Windows loader, gespeicherte Konfigurationen und welches Produkt zu einer Hardware-Markierung im Vergleich zu einem Account-Fall passt."
+      },
+      {
+        "title": "Getrennte Produktkassen",
+        "desc": "Der Cheat, der HWID spoofer und die UGC-Wiederherstellung bleiben separate Bezahlvorgänge. Lifetime für den Cheat fügt nicht automatisch den Spoofer hinzu."
+      },
+      {
+        "title": "Gespeicherte Konfigurationen",
+        "desc": "Konfiguration speichern und Konfiguration laden behalten die aimbot-, ESP-, Sonstiges- und Menüsprachen-Einstellungen für den nächsten Start bei."
+      },
+      {
+        "title": "HWID ist ein eigenes Produkt",
+        "desc": "Ein Computer, bei dem neue Accounts fehlschlagen, ist ein Spoofer-Fall. Eine reine Account-Einschränkung ist der UGC-Fall. Keines von beiden ist im Cheat-Schlüssel enthalten."
+      }
+    ],
+    "metrics": [
+      {
+        "value": "BattlEye",
+        "title": "Nach einem Patch überprüfen",
+        "desc": "Überprüfe die Website nach einem DayZ- oder BattlEye-Update erneut, bevor du startest."
+      },
+      {
+        "value": "2",
+        "title": "Tarife auf jeder Karte",
+        "desc": "Cheat- und UGC-monthly kostet $35 für 31 Tage. Spoofer-monthly kostet $50. Lifetime beträgt $150 pro Produkt. Es gibt keinen wöchentlichen Tarif."
+      },
+      {
+        "value": "3",
+        "title": "Getrennte Produkte",
+        "desc": "DayZ cheats, der HWID spoofer und die UGC-Wiederherstellung. Jedes davon ist ein eigener Schlüssel."
+      }
+    ]
+  },
+  "setup": {
+    "eyebrow": "Einrichtungsanleitung",
+    "titleLead": "Vom Checkout zum ersten Server in nur",
+    "titleHighlight": "drei einfachen Schritten",
+    "intro": "Der Einstieg erfolgt über den Checkout, das Portal loader und anschliessend eine gespeicherte Konfiguration. Überprüfe die Website nach einem BattlEye-Update, bevor du DayZ startest.",
+    "ctaPrimary": "Produkte ansehen",
+    "ctaSecondary": "Setup-FAQ",
+    "ctaPrimaryHref": "/products/dayz-cheats/",
+    "ctaSecondaryHref": "/faq/",
+    "statusStrip": {
+      "aceStatusCta": "BattlEye-Status prüfen",
+      "aceStatusHref": "/status/",
+      "perks": [
+        {
+          "icon": "instantDelivery",
+          "label": "Sofortige Lieferung"
+        },
+        {
+          "icon": "support247",
+          "label": "24/7-Support"
+        },
+        {
+          "icon": "refresh",
+          "label": "Lifetime-Updates"
+        }
+      ]
+    },
+    "steps": [
+      {
+        "step": "Schritt 1",
+        "title": "Portal freischalten & loader herunterladen",
+        "desc": "Schliesse den Checkout ab, öffne dein Operator-Dashboard und lade den neuesten Patch-Build loader für Windows herunter."
+      },
+      {
+        "step": "Schritt 2",
+        "title": "Module starten & konfigurieren",
+        "desc": "Führe die loader aus und lege dann aimbot, Spieler-ESP, Infizierten-ESP, Welt-ESP, Item-ESP und sonstige Optionen gruppenweise fest."
+      },
+      {
+        "step": "Schritt 3",
+        "title": "Status prüfen und starten",
+        "desc": "Vergewissere dich, dass die Website für diesen Client aktuell ist, und öffne dann DayZ mit deiner gespeicherten Konfiguration."
+      }
+    ]
+  },
+  "compatibility": {
+    "eyebrow": "Plattformunterstützung",
+    "title": "Läuft auf deinem System.",
+    "subtitle": "Überprüfe die Website nach einem DayZ- oder BattlEye-Update, bevor du startest.",
+    "items": [
+      "Windows 10 & 11",
+      "Intel oder AMD",
+      "HVCI aktiv",
+      "Kernisolierung aktiv",
+      "TPM aktiv",
+      "Secure boot aktiv",
+      "Discord-Unterstützung",
+      "Konfiguration speichern"
+    ]
+  },
+  "cheats": {
+    "eyebrow": "Game-Cheat",
+    "title": "DayZ Cheats",
+    "subtitle": "Aimbot, Spieler ESP, Infizierte ESP, Welt ESP, Gegenstand ESP und Konfiguration.",
+    "viewAll": "Details ansehen",
+    "explore": "Entdecken",
+    "items": [
+      {
+        "badge": "Aktiv",
+        "tier": "Komplettpaket",
+        "name": "DayZ",
+        "title": "DayZ Cheats",
+        "desc": "DayZ Cheats für Steam – aimbot, Spieler ESP, Infizierte ESP, Welt ESP, Gegenstand ESP und Konfiguration.",
+        "features": [
+          "Aimbot Optionen",
+          "Spieler-Optik-Optionen",
+          "Infizierten-Optik-Optionen",
+          "Welt-Optik-Optionen",
+          "Gegenstands-Optik-Optionen",
+          "Verschiedene Optionen",
+          "Konfigurationsoptionen"
+        ],
+        "more": 0,
+        "href": "/products/dayz-cheats/dayz-cheats/",
+        "variant": "popular"
+      }
+    ]
+  },
+  "products": {
+    "eyebrow": "Produkte",
+    "title": "Produkte & Preise",
+    "subtitle": "DayZ Cheats und UGC: $35/mo oder $150 lifetime. HWID spoofer: $50/mo oder $150 lifetime.",
+    "viewAll": "Details ansehen",
+    "get": "Jetzt kaufen",
+    "explore": "Entdecken",
+    "items": [
+      {
+        "badge": "Aktiv",
+        "category": "HWID spoofer",
+        "title": "HWID Spoofer",
+        "subtitle": "Hardware-ID-Wiederherstellung",
+        "desc": "HWID spoofer mit Cleaner – Festplatten-, MAC- und GPU-IDs vor dem Neustart nach Hardwaresperren rotieren.",
+        "features": [
+          "Hardware-Spoofer + Cleaner",
+          "Kompatibilitätsprüfung",
+          "Verifizierungsschritte",
+          "Portal-Workflow"
+        ],
+        "more": 4,
+        "href": "/products/dayz-cheats/hwid-spoofer/"
+      },
+      {
+        "badge": "Aktiv",
+        "category": "UGC Account recovery",
+        "title": "UGC Account recovery",
+        "subtitle": "Einsprüche & Wiederherstellung",
+        "desc": "UGC Account recovery Workspace – benutzerdefinierte Einspruchs-Workflows, Vorlagen und Einschränkungsverfolgung.",
+        "features": [
+          "Benutzerdefinierte Einspruchs-Workflows",
+          "Plattformübergreifende Profile",
+          "Vorlagenbibliothek",
+          "Status-Dashboard"
+        ],
+        "more": 4,
+        "href": "/products/dayz-cheats/ugc/"
+      }
+    ]
+  },
+  "blog": {
+    "eyebrow": "Blog",
+    "title": "Anleitungen und Updates",
+    "subtitle": "Einrichtungs-Hinweise, aimbot- und ESP-Leitfäden sowie Preisfragen für DayZ auf Windows PC.",
+    "latestTitle": "DayZ-Anleitungen für Aim, ESP, Loot, das Menü und BattlEye",
+    "latestSubtitle": "Veröffentlichte Hinweise zum Steam loader-Menü, Abo-Preisen, HWID-Flags und BattlEye-Bannrisiko.",
+    "filterAll": "Alle Artikel",
+    "sortLabel": "Sortieren nach",
+    "sortNewest": "Neueste zuerst",
+    "sortOldest": "Älteste zuerst",
+    "sortShortRead": "Kürzeste Lesezeit",
+    "sortLongRead": "Längste Lesezeit",
+    "emptyFilter": "Keine Artikel entsprechen diesem Filter.",
+    "emptyCatalog": "In dieser Ansicht sind keine Anleitungen aufgelistet. Wähle einen Themenfilter oder öffne die Produktseite.",
+    "viewAll": "Alle Artikel anzeigen",
+    "read": "Lesen",
+    "items": [],
+    "minRead": "Min. Lesezeit",
+    "filterByTopicAria": "Artikel nach Thema filtern",
+    "continueReadingAria": "Weiterlesen",
+    "tagLabels": {
+      "Review": "Testbericht",
+      "Install": "Installation",
+      "Safety": "Sicherheit",
+      "Plans": "Tarife",
+      "Aim": "Aim",
+      "ESP": "ESP",
+      "Loot": "Loot",
+      "Visuals": "Visuals",
+      "Camera": "Kamera",
+      "Guide": "Anleitung",
+      "Features": "Funktionen",
+      "Setup": "Einrichtung"
+    }
+  },
+  "toolkit": {
+    "eyebrow": "Software",
+    "title": "Übersichtlich und einfach anzupassen",
+    "subtitle": "Jedes Modul ist so gruppiert, dass du während des Matches schnell Anpassungen vornehmen kannst, ohne im Chaos das Fenster zu wechseln.",
+    "items": [
+      {
+        "num": "01",
+        "label": "Aimbot",
+        "title": "Aimbot Optionen",
+        "desc": "Umschalten, FOV, Zielerfassungsdistanz, Spieler, Infizierte oder Tiere ignorieren, Knochen, FOV-Stil und eine Linie zum Ziel."
+      },
+      {
+        "num": "02",
+        "label": "Spieler",
+        "title": "Spieler ESP Optionen",
+        "desc": "Aktivieren, Freunde, Box, gefüllte Box, Kopfpunkt, Skelett, Gesundheit, Name, Distanz, Inventar, Gegenstand in den Händen, traces und maximale Distanz."
+      },
+      {
+        "num": "03",
+        "label": "Infizierte",
+        "title": "Infizierte ESP Optionen",
+        "desc": "Aktivieren, Box, Skelett, Gesundheit, Name, Distanz, traces und maximale Distanz für Infizierte."
+      },
+      {
+        "num": "04",
+        "label": "Welt",
+        "title": "Welt ESP Optionen",
+        "desc": "Tier ESP, Gesundheit als Text oder Balken, Fahrzeug ESP und Heli-Absturz."
+      },
+      {
+        "num": "05",
+        "label": "Gegenstände",
+        "title": "Gegenstand ESP Optionen",
+        "desc": "Gegenstandsqualität, Qualität als Text oder Balken, Kampfmodus und nur beim Darüberfahren anzeigen."
+      },
+      {
+        "num": "06",
+        "label": "Verschiedenes",
+        "title": "Diverse Optionen",
+        "desc": "No-Clip, immer Tag, lokale Position, Third-Person-Freischaltung, kein Gras und ein Fadenkreuz."
+      },
+      {
+        "num": "07",
+        "label": "Konfiguration",
+        "title": "Konfigurationsoptionen",
+        "desc": "FPS limitieren, Menüsprache auf Englisch oder Chinesisch, Konfiguration speichern und Konfiguration laden."
+      }
+    ]
+  },
+  "workflow": {
+    "eyebrow": "So funktioniert es",
+    "badge": "4 einfache Schritte",
+    "titleBefore": "Vom Statuscheck zum",
+    "titleHighlight": "gespeicherten Profil.",
+    "subtitle": "Ein direkter Weg von der Statusprüfung zu einer gespeicherten DayZ-Konfiguration.",
+    "ctaLabel": "Produkte ansehen",
+    "ctaHref": "/products/dayz-cheats/",
+    "ctaSecondary": "Setup-FAQ",
+    "ctaSecondaryHref": "/faq/",
+    "items": [
+      {
+        "num": "01",
+        "phase": "Vor dem Kauf",
+        "title": "BattlEye-Status prüfen",
+        "desc": "Lies dayz-cheats.org nach einem Client- oder BattlEye-Update, bevor du kaufst oder startest."
+      },
+      {
+        "num": "02",
+        "phase": "Zur Kasse",
+        "title": "Produkt auswählen",
+        "desc": "DayZ Cheats oder UGC: $35 monthly oder $150 lifetime. HWID Spoofer: $50 monthly oder $150 lifetime. Separate Keys."
+      },
+      {
+        "num": "03",
+        "phase": "Loader",
+        "title": "Starten & konfigurieren",
+        "desc": "Lade es vom Portal herunter. Lasse HVCI, Core Isolation, TPM und secure boot eingeschaltet."
+      },
+      {
+        "num": "04",
+        "phase": "Im Spiel",
+        "title": "Profil speichern",
+        "desc": "Wenn der Streubereich und die ESP-Beschriftungen passen, speichere die Konfiguration."
+      }
+    ]
+  },
+  "fieldNotes": {
+    "eyebrow": "Praxishinweise",
+    "title": "Entwickelt für DayZ auf Windows PC.",
+    "items": [
+      {
+        "num": "01",
+        "title": "Patchday-Check",
+        "desc": "Lies die Website nach einem BattlEye- oder Client-Update. Ein Banner von gestern ist kein aktueller Build."
+      },
+      {
+        "num": "02",
+        "title": "Einen Regler nach dem anderen",
+        "desc": "Ändere FOV, Zielentfernung oder Knochen einzeln, damit du weißt, welche Einstellung das Ziehen oder die Unruhe verursacht hat."
+      },
+      {
+        "num": "03",
+        "title": "Separate Produkte",
+        "desc": "Der Cheat, das HWID spoofer und die UGC-Wiederherstellung sind drei verschiedene Käufe. Lifetime bei einem schaltet die anderen nicht frei."
+      }
+    ]
+  },
+  "support": {
+    "eyebrow": "Support",
+    "title": "DayZ-Support",
+    "subtitle": "Teile uns mit, wie wir dir helfen können.",
+    "channels": [
+      {
+        "icon": "users",
+        "title": "Chat vor dem Kauf",
+        "desc": "Frage vor der Bezahlung nach dem Cheat, dem Spoofer oder UGC.",
+        "linkLabel": "Zur Kasse",
+        "href": "/go/dayz/"
+      },
+      {
+        "icon": "messageCircle",
+        "title": "Community-Forum",
+        "desc": "Einrichtung, Aim, ESP und Fragen zu Plänen mit markierten Entwicklerantworten.",
+        "linkLabel": "Forum öffnen",
+        "href": "/forum/"
+      },
+      {
+        "icon": "navFaq",
+        "title": "FAQ lesen",
+        "desc": "Kompatibilität, Sperren und Einrichtung – bevor du kaufst.",
+        "linkLabel": "Alle FAQs anzeigen",
+        "href": "/faq/"
+      },
+      {
+        "icon": "clock",
+        "title": "Live-Support",
+        "desc": "Discord-Techniker rund um die Uhr im Einsatz /7.",
+        "linkLabel": "Kontaktseite öffnen",
+        "href": "/support/"
+      }
+    ],
+    "ticketTitle": "Für dein Ticket erforderlich",
+    "ticketItems": [
+      {
+        "title": "Bestell-E-Mail",
+        "desc": "Die beim Kauf auf dayz-cheats.org verwendete Adresse."
+      },
+      {
+        "title": "Plattform",
+        "desc": "Windows 10 oder 11 sowie Angaben darüber, ob HVCI, Kernisolierung, TPM und secure boot aktiviert sind."
+      },
+      {
+        "title": "Fehlerdetails",
+        "desc": "Die exakte loader-Meldung, keine Umschreibung."
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Klare Antworten vor dem Kauf.",
+    "subtitle": "Kompatibilität, Sperren und Zugriff – ohne vage Versprechungen.",
+    "items": [
+      {
+        "id": "status",
+        "topic": "setup",
+        "icon": "faqStatus",
+        "q": "Wo überprüfe ich, ob loader aktuell ist?",
+        "a": "Lesen Sie dayz-cheats.org nach einem DayZ- oder BattlEye-Update. Ein Banner von gestern ist kein aktueller Build. Lassen Sie loader geschlossen, bis die Seite diesem Client entspricht."
+      },
+      {
+        "id": "season-3",
+        "topic": "setup",
+        "icon": "faqStatus",
+        "q": "Update 1.30 ist da. Wann öffne ich loader?",
+        "a": "Update 1.30 und Badlands wurden am 15. Oktober 2026 auf Steam veröffentlicht. Lesen Sie die Statusseite nach diesem Client und nach jedem späteren Hotfix, bevor Sie das Spiel starten. Eine gespeicherte Konfiguration von einem älteren Build gilt nicht als aktueller Check. Ein Bann ist weiterhin möglich.",
+        "aHtml": "Update 1.30 und Badlands wurden am 15. Oktober 2026 auf Steam veröffentlicht. Lesen Sie die <a href=\"/status/\">Statusseite</a> nach diesem Client und nach jedem späteren Hotfix, bevor Sie das Spiel starten. Eine gespeicherte Konfiguration von einem älteren Build gilt nicht als aktueller Check. Ein Bann ist weiterhin möglich."
+      },
+      {
+        "id": "season-2",
+        "topic": "setup",
+        "icon": "faqStatus",
+        "q": "Was hat Update 1.30 am loader-Menü geändert?",
+        "a": "Der Steam-Client fügte Nasdara, die Jana 50 und Enduro, elektronische Zahlenschlösser, ein Basis-Upgrade-Widget und neue Inventarsymbole hinzu. Das veröffentlichte loader-Menü enthält weiterhin aimbot, Spieler ESP, Infizierte ESP, Welt ESP, Gegenstand ESP, Verschiedenes und Konfiguration. Neue Bikes fallen unter Fahrzeug ESP. Sie sind keine zusätzlichen Schalter auf dieser Seite.",
+        "aHtml": "Der Steam-Client fügte Nasdara, die Jana 50 und Enduro, elektronische Zahlenschlösser, ein Basis-Upgrade-Widget und neue Inventarsymbole hinzu. Das veröffentlichte loader-Menü enthält weiterhin aimbot, Spieler ESP, Infizierte ESP, Welt ESP, Gegenstand ESP, Verschiedenes und Konfiguration. Neue Bikes fallen unter Fahrzeug ESP. Sie sind keine zusätzlichen Schalter auf dieser Seite. Die <a href=\"/status/\">Statusseite</a> ist der Hinweis, den Sie vor dem Start lesen sollten."
+      },
+      {
+        "id": "after-buy",
+        "topic": "setup",
+        "icon": "faqAfterBuy",
+        "q": "Was passiert nach dem Kauf?",
+        "a": "Nach der Kasse öffnet sich das Portal mit loader für das Produkt, für das Sie bezahlt haben. Speichern Sie eine Konfiguration, nachdem Sie sie angepasst haben. HVCI, Kernisolierung, TPM und secure boot bleiben eingeschaltet."
+      },
+      {
+        "id": "ban-risk",
+        "topic": "safety",
+        "icon": "faqBanRisk",
+        "q": "Kann ich gebannt werden?",
+        "a": "Ja. BattlEye kann Maßnahmen gegen das Konto ergreifen. Nichts auf dieser Website ist eine Garantie dafür, dass eine Sitzung unbemerkt bleibt."
+      },
+      {
+        "id": "hwid-ban-risk",
+        "topic": "safety",
+        "icon": "faqBanRisk",
+        "q": "Was ist eine HWID-Markierung und behebt der Cheat-Key diese?",
+        "a": "Eine Hardware-Markierung betrifft den PC. Neue Konten schlagen auf diesem Computer möglicherweise fehl und funktionieren auf einem anderen. Das ist die <a href=\"/products/dayz-cheats/hwid-spoofer/\">HWID Spoofer</a>, separat erhältlich. Sie macht eine reine Kontobeschränkung nicht rückgängig, und lifetime auf <a href=\"/products/dayz-cheats/dayz-cheats/\">DayZ Cheats</a> schließt dies nicht ein."
+      },
+      {
+        "id": "platforms",
+        "topic": "setup",
+        "icon": "faqPlatforms",
+        "q": "Welche PC werden unterstützt?",
+        "a": "Windows 10 oder 11 auf Intel oder AMD, wobei HVCI, Kernisolierung, TPM und secure boot eingeschaltet sind. macOS und Linux werden nicht unterstützt."
+      },
+      {
+        "id": "license-move",
+        "topic": "products",
+        "icon": "faqLicenseMove",
+        "q": "Kann ich einen Key auf ein anderes PC übertragen?",
+        "a": "Öffnen Sie den Support mit Ihrer Bestell-E-Mail. Ein Computer, auf dem neue Konten fehlschlagen, erfordert den Kauf von HWID Spoofer, nicht ein kostenloses Verschieben des Cheat-Keys."
+      },
+      {
+        "id": "products-page",
+        "topic": "products",
+        "icon": "faqProductsPage",
+        "q": "Was wird zum Kauf angeboten?",
+        "a": "<a href=\"/products/dayz-cheats/dayz-cheats/\">DayZ Cheats</a>, <a href=\"/products/dayz-cheats/hwid-spoofer/\">HWID Spoofer</a> und <a href=\"/products/dayz-cheats/ugc/\">UGC Account recovery</a> sind auf der <a href=\"/products/dayz-cheats/\">Produktseite</a> aufgeführt. Cheat und UGC sind $35 für 31 Tage oder $150 lifetime. Der Spoofer kostet 50 USD für 31 Tage oder $150 lifetime. Dies sind drei separate Kassiervorgänge."
+      },
+      {
+        "id": "plans-same-price",
+        "topic": "plans",
+        "icon": "faqComparePlans",
+        "q": "Beinhaltet $150 lifetime den Spoofer?",
+        "a": "Nein. Lifetime auf DayZ Cheats gilt nur für dieses Produkt. HWID spoofer und UGC zur Wiederherstellung sind separate Keys mit eigenen Preisen (monthly und lifetime). Ein monthly Start bietet keine Garantie auf eine Gutschrift für lifetime.",
+        "scopes": [
+          "dayz-cheats",
+          "hwid-spoofer",
+          "ugc"
+        ]
+      },
+      {
+        "id": "aim-vs-camera",
+        "topic": "esp",
+        "icon": "faqWhatIsEsp",
+        "q": "Was ändert die anpassbare FOV?",
+        "a": "Sie legt fest, wie breit der Zielkegel ist. Dieser Regler befindet sich unter den Aimbot-Optionen. Der FOV-Stil ändert lediglich, ob der Kegel als gefüllte Fläche oder als Farbverlauf dargestellt wird.",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "esp-clutter",
+        "topic": "esp",
+        "icon": "faqWhatIsEsp",
+        "q": "Warum verdeckt die Spieler-ESP das Gefecht?",
+        "a": "Die Spieler-ESP-Optionen umfassen Box, gefüllte Box, Kopfpunkt, Skelett, Lebensbalken, Name, Distanz, Inventar, Gegenstand in den Händen und ace. Deaktivieren Sie die Beschriftungen, die Sie nicht benötigen, oder verringern Sie die maximale Distanz.",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "not-dma",
+        "topic": "scripts",
+        "icon": "faqExternalLoader",
+        "q": "Ist dies eine DMA-Karte?",
+        "a": "Nein. DayZ Cheats ist Windows loader aus dem Checkout. Ein DMA-Gerät ist ein anderes Produkt und entspricht nicht dem, was dieser Key liefert. Führen Sie keine Datei aus, die aus einem Suchergebnis stammt.",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "ugc-scope",
+        "topic": "products",
+        "icon": "faqProductsPage",
+        "q": "Was macht UGC Account recovery?",
+        "a": "<a href=\"/products/dayz-cheats/ugc/\">UGC Account recovery</a> ist ein Arbeitsbereich für Einsprücheace: Vorlagen, Beweislisten und Nachbereitung. Dies ist keine Garantie für eine Entbannung und ersetzt nicht HWID spoofer.",
+        "scopes": [
+          "ugc"
+        ]
+      },
+      {
+        "id": "spoofer-scope",
+        "topic": "products",
+        "icon": "faqProductsPage",
+        "q": "Wann ist der Kauf von HWID spoofer sinnvoll?",
+        "a": "Verwenden Sie <a href=\"/products/dayz-cheats/hwid-spoofer/\">HWID Spoofer</a>, wenn ein neues Konto auf einem PC fehlschlägt und auf einem anderen funktioniert. Dies behebt keine reine Kontobeschränkung. Kaufen Sie für diesen Fall stattdessen <a href=\"/products/dayz-cheats/ugc/\">UGC Account recovery</a>.",
+        "scopes": [
+          "hwid-spoofer"
+        ]
+      },
+      {
+        "id": "stickiness-vs-smooth",
+        "topic": "scripts",
+        "icon": "faqExternalLoader",
+        "q": "Wo speichere ich das Menü nach Änderungen?",
+        "a": "Die Konfigurationsoptionen enthalten „Konfiguration speichern“ und „Konfiguration laden“. FPS-Limit und Menüsprache (Englisch oder Chinesisch) befinden sich in derselben Gruppe.",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "visible-check",
+        "topic": "scripts",
+        "icon": "faqWhatIsEsp",
+        "q": "Kann aimbot Infizierte oder Tiere überspringen?",
+        "a": "Unter „Ignorieren“ in den Aimbot-Optionen können Spieler, Infizierte, Tiere oder eine Mischung daraus übersprungen werden. Der Knochen wählt dann Nächstgelegen, Kopf, Hals oder Becken aus.",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "ignore-knocked",
+        "topic": "esp",
+        "icon": "faqWhatIsEsp",
+        "q": "Was wählt die Knocheneinstellung aus?",
+        "a": "Knochen unter den Aimbot-Optionen ist Nächstgelegen, Kopf, Hals oder Becken.",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "bone-and-filter",
+        "topic": "scripts",
+        "icon": "faqExternalLoader",
+        "q": "Was befindet sich in den Welt-ESP-Optionen?",
+        "a": "Tier-ESP, Gesundheit als Text oder Balken, Fahrzeug-ESP und Helikopterabsturz.",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "controller-binds",
+        "topic": "setup",
+        "icon": "faqPlatforms",
+        "q": "Enthält das Menü eine Controller-Belegung?",
+        "a": "Nein. Die Aimbot-Optionen umfassen Umschalten, FOV, Zieldistanz, Ignorieren, Knochen, FOV-Stil und eine Linie zum Ziel.",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "squad-read",
+        "topic": "esp",
+        "icon": "faqWhatIsEsp",
+        "q": "Wie markiere ich einen Spieler ohne sämtliche Beschriftungen?",
+        "a": "Die Spieler-ESP-Optionen können eine Eckenbox oder eine vollständige Box, einen Kopfpunkt, ein Skelett, einen Namen und eine Distanz verwenden. Freunde ist ein separater Schalter. Inventar und Gegenstand in den Händen sind optional.",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "loot-price-floor",
+        "topic": "esp",
+        "icon": "faqWhatIsEsp",
+        "q": "Wie funktionieren Gegenstandsbeschriftungen?",
+        "a": "Die Gegenstands-ESP-Optionen bieten Gegenstandsqualität, Qualität als Text oder Balken, Kampfmodus und Anzeige nur beim Hovern.",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "scale-and-crosshair",
+        "topic": "scripts",
+        "icon": "faqExternalLoader",
+        "q": "Wo befinden sich die Schalter für Fadenkreuz und Third-Person?",
+        "a": "Die Optionen für Verschiedenes umfassen ein Fadenkreuz und die Third-Person-Freischaltung sowie No-Clip, Immer Tag, lokale Position und kein Gras.",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "combat-mode",
+        "topic": "scripts",
+        "icon": "faqExternalLoader",
+        "q": "Schaltet der Kampfmodus aimbot aus?",
+        "a": "Der Kampfmodus befindet sich unter den Gegenstands-ESP-Optionen, neben der Option zum Anzeigen nur beim Hovern. Umschalten von Aimbot ist ein separater Schalter unter den Aimbot-Optionen.",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "encryption-bypass",
+        "topic": "setup",
+        "icon": "faqStatus",
+        "q": "Was ist in den Optionen für Verschiedenes enthalten?",
+        "a": "No-Clip, Immer Tag, lokale Position, Third-Person-Freischaltung, kein Gras und ein Fadenkreuz.",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "blog-default-1",
+        "topic": "blog",
+        "icon": "faqBlogDefault1",
+        "q": "Sind Blog-Anleitungen offizielle Produktdokumentationen?",
+        "a": "Artikel erklären Abläufe und verlinken auf DayZ Cheats. Die Funktionsliste auf dieser Seite ist die verbindliche Quelle beim Checkout.",
+        "aHtml": "Artikel erklären Abläufe und verlinken auf <a href=\"/products/dayz-cheats/dayz-cheats/\">DayZ Cheats</a>. Die Funktionsliste auf dieser Seite ist die verbindliche Quelle beim Checkout."
+      },
+      {
+        "id": "blog-default-2",
+        "topic": "blog",
+        "icon": "faqBlogDefault2",
+        "q": "Benötigen Sie Hilfe bei der Umsetzung dieser Anleitung?",
+        "a": "Öffnen Sie den Support mit Ihrer Bestell-E-Mail und dem Artikeltitel. Fügen Sie den exakten loader-Text hinzu, falls etwas fehlschlägt."
+      },
+      {
+        "id": "blog-default-3",
+        "topic": "blog",
+        "icon": "faqBlogDefault3",
+        "q": "Funktionieren die Einstellungen in diesem Artikel beim nächsten Patch noch?",
+        "a": "Überprüfen Sie alles erneut nach jedem DayZ- oder BattlEye-Update. Laden Sie eine gespeicherte Konfiguration neu, anstatt alte Schieberegler-Werte aus einem Beitrag zu kopieren."
+      },
+      {
+        "id": "blog-plan-start",
+        "topic": "plans",
+        "icon": "faqComparePlans",
+        "q": "Mit welchem Tarif sollte ich beginnen?",
+        "a": "Beginnen Sie mit dem 31-Tage-Key, wenn Sie ein Produkt ausprobieren möchten, bevor Sie eine einmalige Zahlung tätigen. DayZ Cheats und UGC sind $35 für 31 Tage oder $150 lifetime. HWID spoofer kostet 50 USD für 31 Tage oder $150 lifetime. Ein 31-Tage-Kauf beinhaltet keine Gutschrift für lifetime, und ein lifetime-Key für ein Produkt schließt die anderen nicht ein."
+      },
+      {
+        "id": "blog-plan-upgrade",
+        "topic": "plans",
+        "icon": "faqLicenseMove",
+        "q": "Kann ich einen 31-Tage-Key auf lifetime aktualisieren?",
+        "a": "Es gibt kein automatisches Upgrade. Lifetime erfordert einen separaten Kassiervorgang für dasselbe Produkt. Der bereits gezahlte Betrag ($35 oder 50 USD) wird nicht auf den Preis von $150 lifetime angerechnet."
+      },
+      {
+        "id": "blog-plan-expire",
+        "topic": "plans",
+        "icon": "faqAfterBuy",
+        "q": "Was passiert, wenn ein Tarif abläuft?",
+        "a": "Ein 31-Tage-Key läuft ab, wenn dieser Zeitraum endet. Kaufen Sie einen weiteren 31-Tage-Key oder einen lifetime-Key für dasselbe Produkt, um den Zugriff aufrechtzuerhalten. Lifetime verlängert sich nicht automatisch. Ein abgelaufener Key wird nicht auf ein anderes Produkt übertragen."
+      },
+      {
+        "id": "blog-plan-status",
+        "topic": "plans",
+        "icon": "faqStatus",
+        "q": "Wo überprüfe ich den aktuellen loader-Status?",
+        "a": "Lesen Sie die Statusseite, bevor Sie das Spiel starten. „Aktualisiert“ bedeutet, dass der Hinweis erneuert wurde. Dies ist keine Zusicherung, dass eine Sitzung unbemerkt bleibt.",
+        "aHtml": "Lesen Sie die <a href=\"/status/\">Statusseite</a> vor dem Start. „Aktualisiert“ bedeutet, dass der Hinweis erneuert wurde. Dies ist keine Zusicherung, dass eine Sitzung unbemerkt bleibt."
+      },
+      {
+        "id": "blog-plan-windows",
+        "topic": "plans",
+        "icon": "faqPlatforms",
+        "q": "Welche Windows-Versionen werden unterstützt?",
+        "a": "Windows 10 oder 11 auf Intel oder AMD, wobei HVCI, Kernisolierung, TPM und secure boot eingeschaltet sind. macOS und Linux werden nicht unterstützt."
+      },
+      {
+        "id": "blog-plan-support",
+        "topic": "plans",
+        "icon": "faqBlogDefault2",
+        "q": "Wie funktionieren Support und Rückerstattungen?",
+        "a": "Öffnen Sie den Support mit Ihrer Bestell-E-Mail. Verkäufe sind nach Abschluss des Checkouts endgültig. Käufe bei Sinneswandel, Kontobennungen und Spielstarts bei nicht aktueller Statusseite werden nicht erstattet. Eine Fehlerbehebung oder Rückerstattung erfolgt nur, wenn wir einen Fehler auf unserer Seite bestätigen. Die Regeln sind in den AGB festgelegt.",
+        "aHtml": "Öffnen Sie den <a href=\"/support/\">Support</a> mit Ihrer Bestell-E-Mail. Verkäufe sind nach Abschluss des Checkouts endgültig. Käufe bei Sinneswandel, Kontobennungen und Spielstarts bei nicht aktueller Statusseite werden nicht erstattet. Eine Fehlerbehebung oder Rückerstattung erfolgt nur, wenn wir einen Fehler auf unserer Seite bestätigen. Die Regeln sind in den <a href=\"/terms/\">AGB</a> festgelegt."
+      }
+    ],
+    "filterTopics": {
+      "all": "Alle",
+      "plans": "Tarife",
+      "esp": "Map-Hack / ESP",
+      "scripts": "Skripte",
+      "safety": "Status",
+      "products": "Produkte",
+      "blog": "Blog",
+      "setup": "Einrichtung"
+    }
+  },
+  "footer": {
+    "tagline": "DayZ Cheats, HWID spoofer und UGC Wiederherstellung für Windows PC. dayz-cheats.org",
+    "explore": "Entdecken",
+    "exploreLinks": [
+      {
+        "href": "/products/dayz-cheats/dayz-cheats/#features",
+        "label": "Funktionsübersicht",
+        "ariaLabel": "Features"
+      },
+      {
+        "href": "/products/dayz-cheats/dayz-cheats/",
+        "label": "DayZ Cheats",
+        "ariaLabel": "DayZ Cheats"
+      },
+      {
+        "href": "/products/dayz-cheats/",
+        "label": "Alle Produkte",
+        "ariaLabel": "Products"
+      },
+      {
+        "href": "/blog/",
+        "label": "Patch-Guides lesen",
+        "ariaLabel": "Blog"
+      },
+      {
+        "href": "/faq/",
+        "label": "FAQ vor dem Kauf",
+        "ariaLabel": "FAQ"
+      }
+    ],
+    "support": "Support",
+    "legal": "Rechtliches",
+    "moreSites": "Weitere Seiten",
+    "privacy": "Datenschutz",
+    "terms": "AGB",
+    "about": "Über uns",
+    "resourceLinks": [
+      {
+        "label": "Blog-Archiv",
+        "ariaLabel": "Blog"
+      },
+      {
+        "label": "DayZ Cheats",
+        "ariaLabel": "DayZ Cheats"
+      },
+      {
+        "label": "Produkte & Tools",
+        "ariaLabel": "Products"
+      }
+    ]
+  },
+  "legalPages": {
+    "about": {
+      "title": "Über diesen DayZ-Store: Portal-Bereitstellung, Preise und Risiko",
+      "description": "dayz-cheats.org verkauft DayZ Cheats, ein HWID spoofer und UGC account recovery für Windows PC, inklusive Einrichtungshinweisen und ehrlichem Sperrrisiko.",
+      "sections": [
+        {
+          "heading": "Wer wir sind",
+          "paragraphs": [
+            "dayz-cheats.org ist ein Windows PC-Store für DayZ Cheats, ein HWID spoofer und UGC account recovery. Der Cheat ist ein einzelnes Produkt: aimbot, Spieler ESP, infiziert ESP, Welt ESP, Gegenstand ESP, Verschiedenes und Config. Er ist unterteilt in keine Lite-, Pro- oder Elite-Stufen und ist keine DMA-Karte.",
+            "DayZ Cheats und UGC per Kasse bei $35 für 31 Tage oder $150 lifetime. Der HWID spoofer kostet 50 $ für 31 Tage oder $150 lifetime. Ein lifetime-Key für den Cheat beinhaltet weder den Spoofer noch die Wiederherstellungsarbeitspace. Der Beginn eines Monats garantiert kein Guthaben für lifetime.",
+            "Produktnamen auf dieser Website kennzeichnen, was wir verkaufen. Sie stellen keine Zusicherung dar, dass der Spielehersteller die Software unterstützt. Die Bereitstellung erfolgt über einen Portal-Download für Windows 10 oder 11. Du lässt HVCI, Core Isolation, TPM und secure boot eingeschaltet und öffnest den loader erst, wenn die Website noch zum aktuellen Client passt."
+          ]
+        },
+        {
+          "heading": "Was wir veröffentlichen",
+          "paragraphs": [
+            "Die [DayZ Cheats](/products/dayz-cheats/dayz-cheats/)-Seite listet die Menünamen und die Windows-Anforderungen auf: Windows 10 oder 11, Intel oder AMD, wobei HVCI, Core Isolation, TPM und secure boot eingeschaltet bleiben. Auf der [Produktseite](/products/dayz-cheats/) vergleichst du den Cheat, den [HWID Spoofer](/products/dayz-cheats/hwid-spoofer/), und [UGC Account recovery](/products/dayz-cheats/ugc/).",
+            "Ratgeber im [Blog](/blog/) erklären das loader-Menü und warum ein Hardware-Flag ein anderer Kauf ist als ein Account-Einspruch. Das [Forum](/forum/) ist für genau diese Fragen gedacht, wobei Entwicklerantworten direkt im Thread markiert sind. Lies die [AGB](/terms/) vor dem Bezahlen. Alle Verkäufe sind endgültig, einschließlich Banns.",
+            "BattlEye kann weiterhin Maßnahmen gegen einen Account ergreifen. Nichts hier ist eine Garantie dafür, dass eine Sitzung nach dem nächsten Patch sauber bleibt. Überprüfe diese Website nach einem Client-Update, bevor du den loader öffnest. Wenn die Seite für diesen Build nicht aktuell ist, lass die Software geschlossen.",
+            "Statusnotizen auf der Startseite beschreiben, ob der veröffentlichte Build noch zum Client passt. Sie sind kein Versprechen, dass BattlEye die Software ignoriert. Wenn du dir unsicher bist, lass den loader geschlossen und lies den passenden Ratgeber im Blog, bevor du dich erneut in die Warteschlange einreihst."
+          ]
+        },
+        {
+          "heading": "Support",
+          "paragraphs": [
+            "Loader-Fehler, ein Key, der sich nicht verschieben lässt, und Fragen zur Kasse laufen über die [Support-Seite](/support/).. Gib dabei die E-Mail-Adresse der Bestellung, die Windows-Version und den exakten loader-Text an. Schalte HVCI, Core Isolation, TPM oder secure boot nicht aus, nur weil eine Chat-Nachricht von einem anderen Spiel das behauptet hat."
+          ]
+        }
+      ]
+    },
+    "privacy": {
+      "title": "Datenschutzbestimmungen",
+      "description": "Wie dayz-cheats.org mit Analysen, Cookies und Kontaktdaten umgeht.",
+      "sections": [
+        {
+          "heading": "Informationen, die wir erfassen",
+          "paragraphs": [
+            "Wir können über Google Analytics standardmäßige Webanalysen wie Seitenaufrufe, Gerätetyp, Browser und ungefähre Region erfassen, sofern aktiviert. Kasse und Lizenzbereitstellung finden auf externen Checkout-Seiten statt. Wir speichern keine Zahlungskartendaten auf dayz-cheats.org."
+          ]
+        },
+        {
+          "heading": "Wie wir Daten verwenden",
+          "paragraphs": [
+            "Analysen helfen uns zu verstehen, welche Ratgeber und Produktseiten nützlich sind, damit wir Inhalte verbessern und defekte Links korrigieren können. Support-Tickets können die von dir bereitgestellte E-Mail-Adresse und den Nachrichteninhalt speichern, bis das Problem gelöst ist."
+          ]
+        },
+        {
+          "heading": "Cookies",
+          "paragraphs": [
+            "Wir verwenden minimale Cookies, die für Analysen erforderlich sind. Du kannst Cookies in deinen Browsereinstellungen blockieren; der Kerninhalt der Website bleibt auch ohne sie zugänglich."
+          ]
+        },
+        {
+          "heading": "Support",
+          "paragraphs": [
+            "Für Datenschutzfragen nutze die Optionen auf der Support-Seite. Kauf- und Rückerstattungsregeln findest du in unseren Allgemeinen Geschäftsbedingungen."
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "title": "Allgemeine Geschäftsbedingungen",
+      "description": "Kauf-, Lizenz-, Rückerstattungs- und Nutzungsbedingungen für Produkte, die auf dayz-cheats.org verkauft werden.",
+      "sections": [
+        {
+          "heading": "Vereinbarung",
+          "paragraphs": [
+            "Zuletzt aktualisiert: Oktober 2026. Durch die Nutzung von dayz-cheats.org oder den Abschluss des Bezahlvorgangs für ein hier gelistetes Produkt stimmst du diesen Allgemeinen Geschäftsbedingungen sowie unserer Datenschutzerklärung zu."
+          ]
+        },
+        {
+          "heading": "Was du kaufst",
+          "paragraphs": [
+            "Wir verkaufen DayZ Cheats, ein HWID spoofer und UGC account recovery. Cheats und UGC sind $35 für 31 Tage oder $150 lifetime; der Spoofer kostet 50 USD für 31 Tage oder $150 lifetime. Jedes Produkt stellt eine eigene Lizenz dar, verwaltet über das Portal auf Windows PC.",
+            "Funktionslisten auf jeder Produktseite beschreiben, was zum Zeitpunkt des Kaufs enthalten ist. Module können sich ändern, wenn DayZ oder BattlEye aktualisiert wird. Ein lifetime-Cheat-Key beinhaltet weder den Spoofer noch UGC."
+          ]
+        },
+        {
+          "heading": "Bestellabwicklung und Lieferung",
+          "paragraphs": [
+            "Zahlungen und Lizenzbereitstellungen erfolgen über externe Kassen-Seiten. dayz-cheats.org verarbeitet oder speichert keine Zahlungskarten-Nummern.",
+            "Lade nach dem Kauf über das Portal deiner Bestellung die aktuelle loader herunter, bevor du DayZ startest. Lasse HVCI, Kernisolierung, TPM und secure boot eingeschaltet."
+          ]
+        },
+        {
+          "heading": "Lizenznutzung",
+          "paragraphs": [
+            "Lizenzen sind ausschließlich für deine persönliche Nutzung bestimmt. Gib weder loader-Dateien, Portal-Zugangsdaten noch Lizenzschlüssel weiter. Ein Hardware-ID-Problem erfordert einen separaten HWID Spoofer-Kauf."
+          ]
+        },
+        {
+          "heading": "Rückerstattungen und Käufe",
+          "paragraphs": [
+            "Alle Verkäufe sind nach Abschluss des Bezahlvorgangs endgültig. Wir erstatten keine Käufe bei Meinungsänderung, Kontosperren, BattlEye-Strafen oder Problemen, die durch Ignorieren der Einrichtungshinweise oder das Starten während veralteter Patch-Stände entstehen.",
+            "Wenn das Produkt auf einem unterstützten Setup nicht wie beschrieben funktioniert—Windows 10 oder 11 mit HVCI, Kernisolierung, TPM und secure boot eingeschaltet sowie der aktuellen loader aus dem Portal—kontaktiere uns über die Support-Seite. Füge deine Bestell-E-Mail, die Windows-Version und den genauen loader-Text bei.",
+            "Wir können nach eigenem Ermessen eine Korrektur, einen Ersatz ace oder eine teilweise /full Rückerstattung anbieten, wenn wir einen Fehler unsererseits bestätigen. Wir sind nicht verpflichtet, jeder Anfrage stattzugeben."
+          ]
+        },
+        {
+          "heading": "Verfügbarkeit und Risiko",
+          "paragraphs": [
+            "Tools von Drittanbietern für DayZ können mit Spiele-Updates und BattlEye kollidieren. Du nutzt diese Software auf eigene Gefahr, einschließlich möglicher Maßnahmen gegen dein Konto.",
+            "Überprüfe vor jeder Session das Status-Banner auf der Startseite. Betrete deinen Hauptserver nicht, während Module nach einem Patch offline oder nicht synchron sind."
+          ]
+        },
+        {
+          "heading": "Änderungen",
+          "paragraphs": [
+            "Wir können diese Bedingungen aktualisieren. Das Datum „Zuletzt aktualisiert“ oben ändert sich entsprechend. Die fortgesetzte Nutzung der Website nach Änderungen bedeutet, dass du die überarbeiteten Bedingungen akzeptierst."
+          ]
+        },
+        {
+          "heading": "Support",
+          "paragraphs": [
+            "Für Fragen zu Bedingungen, Abrechnung oder loader nutze die Buttons auf der Support-Seite. Siehe auch unsere Datenschutzerklärung bezüglich unseres Umgangs mit Website-Daten."
+          ]
+        }
+      ]
+    },
+    "support": {
+      "title": "DayZ Support",
+      "description": "Loader, HWID spoofer, UGC und Checkout-Hilfe für dayz-cheats.org."
+    }
+  },
+  "productCatalog": {
+    "searchHeading": "Produkte und Tarife durchstöbern",
+    "utilityCategory": "Dienstprogramm",
+    "buyLoader": "loader kaufen",
+    "buyHwidSpoofer": "HWID spoofer kaufen",
+    "buyUgcRecovery": "UGC Wiederherstellung kaufen"
+  },
+  "utilitiesPage": {
+    "title": "Dienstprogramme vergleichen",
+    "subtitle": "HWID Spoofer und UGC Account recovery lösen unterschiedliche Probleme. Stimmen Sie das Tool vor dem Kauf auf das PC oder das Konto ab.",
+    "breadcrumb": "Dienstprogramme vergleichen",
+    "tableAria": "Dienstprogramm-Vergleich",
+    "columnUtility": "Dienstprogramm",
+    "columnBestFor": "Am besten geeignet für",
+    "columnProductPage": "Produktseite",
+    "includesLabel": "Enthält:",
+    "backToProducts": "Zurück zu den Produkten",
+    "viewCategory": "{category} anzeigen",
+    "viewDetailsFallback": "Details",
+    "schemaName": "DayZ Dienstprogramme vergleichen",
+    "useCases": {
+      "hwid-spoofer": "Neues PC oder Hardware-Flag nach einem Ausschluss – setzen Sie zurück, wie Ihr Computer vor einem neuen Konto erkannt wird.",
+      "ugc": "Strukturierte Einsprüche und Abläufe zur Wiederherstellung von Konten, wenn der Zugriff eingeschränkt ist."
+    }
+  },
+  "sectionSearch": {
+    "blogHeading": "Leitfäden nach Thema filtern",
+    "supportHeading": "Hilfethemen durchstöbern"
+  },
+  "ui": {
+    "skipLink": "Zum Hauptinhalt springen",
+    "browseCheats": "Jetzt testen",
+    "browseCheatsMobile": "Zur Kasse",
+    "homeAria": "DayZ Cheats Startseite",
+    "checkoutAria": "Zur Kasse",
+    "discordAria": "DayZ Cheats kaufen",
+    "menuOpen": "Menü öffnen",
+    "menuClose": "Menü schließen",
+    "themeLight": "Zum hellen Modus wechseln",
+    "themeDark": "Zum dunklen Modus wechseln",
+    "searchPlaceholder": "Nach Produkten, Anleitungen, FAQ suchen…",
+    "searchEmpty": "Tippen, um die Website zu durchsuchen.",
+    "searchNoResults": "Keine Ergebnisse. Versuche einen anderen Begriff.",
+    "searchCloseAria": "Suche schließen",
+    "searchTitle": "Suchen",
+    "searchOpenAria": "Website durchsuchen",
+    "contactSupport": "Support kontaktieren",
+    "searchResultsAria": "Suchergebnisse",
+    "searchHintNavigate": "navigieren",
+    "searchHintOpen": "öffnen",
+    "searchHintClose": "schließen",
+    "searchKeyboardEnter": "Enter",
+    "searchKeyboardEsc": "Esc",
+    "primaryNavAria": "Hauptnavigation",
+    "mobileNavAria": "Mobil",
+    "shareNavAria": "Diese Seite teilen",
+    "shareOnX": "Auf X teilen",
+    "shareOnFacebook": "Auf Facebook teilen",
+    "shareOnReddit": "Auf Reddit teilen",
+    "prevImage": "Vorheriges Bild",
+    "nextImage": "Nächstes Bild",
+    "heroSlidesAria": "Hero-Folien",
+    "slideLabel": "Folie {n}",
+    "prevScreenshot": "Vorheriger Screenshot",
+    "nextScreenshot": "Nächster Screenshot",
+    "loading": "Wird geladen"
+  },
+  "language": {
+    "label": "Sprache",
+    "selectAria": "Website-Sprache auswählen"
+  },
+  "exploreSection": {
+    "eyebrow": "Entdecken",
+    "title": "Alles auf der Website, nur einen Klick",
+    "titleAccent": "entfernt",
+    "subtitle": "Direkt zu Produkten, Patchnotizen, Guides und Hilfe, ohne lange im Menü zu suchen.",
+    "badgeProduct": "PRODUKT",
+    "badgeActive": "Aktiv",
+    "cards": {
+      "cheats": {
+        "title": "DayZ cheats",
+        "desc": "Aimbot, Spieler ESP, Welt ESP, Gegenstand ESP und Konfiguration."
+      },
+      "spoofer": {
+        "title": "HWID Spoofer",
+        "desc": "Hardware-Profil-Rotation nach einer Hardwaresperre."
+      },
+      "ugc": {
+        "title": "UGC Account Recovery",
+        "desc": "Bann-Einspruchs-Arbeitsbereichace für gesperrte Gaming-Konten."
+      },
+      "plans": {
+        "title": "Tarife",
+        "desc": "Vergleiche monthly und lifetime auf jeder Produktkarte."
+      },
+      "features": {
+        "title": "Funktionen",
+        "desc": "Das loader-Menü auf der DayZ Cheats-Seite."
+      },
+      "status": {
+        "title": "Status",
+        "desc": "Patchnotizen und BattlEye-Aktualisierungserinnerungen."
+      },
+      "faq": {
+        "title": "FAQ",
+        "desc": "Tarife, Einrichtung, BattlEye-Risiko und Produkte."
+      },
+      "support": {
+        "title": "Support",
+        "desc": "Loader, Bezahlung und Portal-Hilfe."
+      },
+      "blog": {
+        "title": "Blog",
+        "desc": "Aim, ESP und Anleitungen für Patch-Tage."
+      },
+      "forum": {
+        "title": "Forum",
+        "desc": "Themen mit markierten Entwicklerantworten."
+      }
+    }
+  },
+  "pricing": {
+    "checkout": "Zur Kasse",
+    "purchaseOption": "Kaufoption",
+    "selectSubscription": "Abonnement wählen",
+    "bestValue": "Bester Wert",
+    "savePrefix": "Spare",
+    "total": "Gesamt",
+    "buyNow": "Jetzt kaufen",
+    "oneMonth": "1 Month",
+    "lifetime": "Lifetime",
+    "mostPopular": "Am beliebtesten",
+    "plusMore": "+N weitere",
+    "monthlySuffix": " monthly",
+    "lifetimeSuffix": " lifetime",
+    "monthlyPlanNote": "31 Tage Zugriff · Verlängerung an der Kasse",
+    "lifetimePlanNote": "Einmalig zahlen · keine Verlängerung",
+    "plansSameFeaturesNote": "Gleiche Funktionen bei beiden Tarifen – nur die Laufzeit ändert sich.",
+    "selectPlanAria": "Tariflänge auswählen"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Seite nicht gefunden",
+    "description": "Diese URL existiert nicht oder wurde verschoben. Kehre zur Startseite zurück oder entdecke die Produkte.",
+    "metaDescription": "Die von dir angeforderte Seite wurde auf dayz-cheats.org nicht gefunden.",
+    "metaTitleSuffix": "Seite nicht gefunden",
+    "backHome": "Zurück zur Startseite",
+    "viewProducts": "Produkte ansehen",
+    "openForum": "Forum öffnen"
+  },
+  "status": {
+    "eyebrow": "Patchnotes",
+    "title": "DayZ-Modulstatus",
+    "subtitle": "Überprüfe den Status nach jedem BattlEye oder Client-Update, bevor du startest.",
+    "pageDesc": "Update 1.30 und Badlands wurden am 15. Oktober 2026 auf Steam veröffentlicht. Überprüfe diese Seite nach jeder BattlEye oder Client-Änderung vor dem Start erneut. Aktualisiert stellt keine Aussage über die Erkennbarkeit dar.",
+    "breadcrumb": "Status",
+    "aceReminderLabel": "BattlEye-Erinnerung",
+    "aceReminder": "Überprüfe diese Seite nach jedem BattlEye-Update vor dem Start.",
+    "recentTitle": "Letzte Aktualisierungen",
+    "activeLinePrefix": "Zuletzt überprüft",
+    "activeLineActive": "Aktiv",
+    "activeLineUpdated": "Aktualisiert am {date}",
+    "storeLineup": "Shop-Angebot",
+    "latestLabel": "Neu",
+    "updates": [
+      {
+        "id": "update-130",
+        "title": "Update 1.30 und Badlands sind auf dem Steam-Client verfügbar",
+        "when": "15. Okt. 2026",
+        "summary": "Update 1.30 und die Badlands-Erweiterung wurden am 15. Oktober 2026 auf Steam veröffentlicht. Der Client brachte die Nasdara-Wüste, die Motorräder Jana 50 und Enduro, elektronische Zahlenschlösser, ein Widget für Basis-Upgrades sowie eine umfassende Überarbeitung der Inventar-Icons. Das sind Spieländerungen, keine neuen loader-Schalter. Eine Konfiguration, die vor diesem Client gespeichert wurde, ist kein aktueller Check. Lies diese Seite und das Portal, bevor du startest."
+      },
+      {
+        "id": "battleye-130",
+        "title": "BattlEye-Hinweise rund um 1.30",
+        "when": "15. Okt. 2026",
+        "summary": "Öffentliche Hinweise beschreiben ein intensiveres Tracking auf BattlEye-Seite, einschließlich der Zusammenarbeit mit Nitrado, ohne dabei die Methode zu veröffentlichen. Spätere Berichte beschreiben Bannwellen nach diesem Client. Diese Seite besagt nicht, dass dieser loader übersehen oder erfasst wurde, und sie erklärt nicht, wie man einen Check umgeht. Ein Bann ist weiterhin möglich. Lass das loader geschlossen, bis dieser Hinweis zu dem Build passt, den du öffnen möchtest."
+      },
+      {
+        "id": "report-player",
+        "title": "Die Meldefunktion auf dem Todesbildschirm ist kein Live-Feature",
+        "when": "15. Okt. 2026",
+        "summary": "Eine Meldefunktion für Spieler auf dem Todesbildschirm wird in öffentlichen Berichten noch bearbeitet, einschließlich Maßnahmen zur Begrenzung falscher Meldungen. Sie ist kein Button, um den herum man eine Session planen sollte, und diese Seite wird sie nicht als Thema zur Umgehung behandeln."
+      },
+      {
+        "id": "after-130",
+        "title": "Was nach 1.30 kommt",
+        "when": "5. Nov. 2026",
+        "summary": "Für Update 1.30 gibt es kein öffentliches Datum. Hotfixes für 1.30 können weiterhin erscheinen, und jeder davon ist ein Grund, diese Seite erneut zu überprüfen. Ein nativer PS5-Client ist ein separates Build, das für 2027 im Gespräch ist. Dieser Schlüssel bezieht sich auf den Steam-(loader) auf Windows und nicht auf diesen Konsolen-Client."
+      },
+      {
+        "id": "updated-label",
+        "title": "Aktualisiert ist keine Erkennbarkeitsgarantie",
+        "when": "5. Nov. 2026",
+        "summary": "Das Label „Aktualisiert“ bedeutet lediglich, dass dieser Hinweis erneuert wurde. Es bedeutet nicht, dass der loader unbemerkt bleibt, und es bedeutet nicht, dass ein Server nach dem nächsten BattlEye oder Spiel-Update sauber bleibt."
+      },
+      {
+        "id": "plans",
+        "title": "Pläne bleiben auf separaten Karten",
+        "when": "5. Nov. 2026",
+        "summary": "Der Preis für den loader und UGC monthly beträgt $35. Der Preis für den HWID spoofer monthly liegt bei 50 USD. Lifetime ist $150 auf jeder Karte. Ein lifetime-Schlüssel für ein Produkt beinhaltet nicht die anderen."
+      }
+    ]
+  },
+  "forum": {
+    "eyebrow": "Community",
+    "title": "Forum: Einrichtung und Pläne der DayZ-Community",
+    "subtitle": "Dieses Forum behandelt Fragen zu Einrichtung, Aim, ESP und Plänen. Entwicklerantworten sind in jedem Thread markiert.",
+    "breadcrumb": "Forum",
+    "postsAria": "Community-Beiträge",
+    "sortAria": "Beitragssortierung",
+    "searchPlaceholder": "Diskussionen durchsuchen",
+    "searchAria": "Diskussionen durchsuchen",
+    "voteAria": "Diskussionsbewertung",
+    "fromGuide": "Aus dem Leitfaden:",
+    "comments": "Kommentare",
+    "readDiscussion": "Diskussion lesen",
+    "readGuide": "Leitfaden lesen",
+    "basedOn": "Basierend auf:",
+    "paginationAria": "Diskussionsseiten",
+    "previousPage": "Zurück",
+    "nextPage": "Weiter",
+    "exploreGuides": "Leitfäden entdecken",
+    "sortPopular": "Beliebt",
+    "sortLatest": "Neueste",
+    "sortTop": "Meistdiskutiert",
+    "filterAria": "Diskussionen nach Thema filtern",
+    "allTopics": "Alle Themen",
+    "discussionOne": "Diskussion",
+    "discussionMany": "Diskussionen",
+    "emptyFilter": "Keine Diskussionen gefunden. Versuche eine andere Suche oder ein anderes Thema.",
+    "previous": "Zurück",
+    "next": "Weiter",
+    "sidebarAboutTitle": "Forum: DayZ-Community",
+    "sidebarAboutCopy": "Fragen zum Cheat, zum HWID spoofer und zur UGC-Wiederherstellung. Entwicklerantworten bleiben im Thread.",
+    "sidebarTopics": "Themen",
+    "sidebarExploreGuides": "Alle Leitfäden entdecken",
+    "sidebarCommunities": "Communities",
+    "sidebarBrowseQa": "Ähnliche Threads durchsuchen",
+    "sidebarBrowseAll": "Alle Communities durchsuchen",
+    "sidebarGuidelines": "Community-Richtlinien",
+    "guideline1": "Bleibe freundlich und konstruktiv",
+    "guideline2": "Bleibe beim Thema und liefere Kontext",
+    "guideline3": "Markiere Spoiler und sensible Inhalte",
+    "sidebarReadGuidelines": "Vollständige Richtlinien lesen",
+    "sidebarFootAbout": "Über uns · Richtlinien · Datenschutz · AGB",
+    "upvoteAria": "Diese Diskussion positiv bewerten",
+    "downvoteUnavailable": "Negative Bewertungen sind nicht verfügbar",
+    "showingRange": "Zeige {from}–{to} von {total}",
+    "zeroDiscussions": "0 Diskussionen",
+    "developerFlair": "Entwickler",
+    "points": "Punkte",
+    "previewDiscussion": "Diskussionsvorschau",
+    "postingUnavailable": "Beiträge erstellen und bewerten ist hier nicht möglich",
+    "commentsTitle": "Kommentare",
+    "commentsSubtitle": "Entwicklerantworten sind markiert",
+    "detailInTopic": "in diesem Thema",
+    "detailBrowse": "Diskussionen durchsuchen",
+    "detailMoreTitle": "Weitere Diskussionen",
+    "detailViewAll": "Alle Diskussionen anzeigen",
+    "colThread": "Thread",
+    "colReplies": "Antworten",
+    "colVotes": "Bewertungen",
+    "colLastReply": "Letzte Antwort",
+    "closedThread": "Geschlossener Thread"
+  },
+  "readingTools": {
+    "copyLink": "Link kopieren",
+    "backToTop": "Nach oben",
+    "copied": "Kopiert",
+    "minutesLeft": "noch {n} Min.",
+    "minuteLeft": "noch 1 Min."
+  },
+  "blogArticle": {
+    "viewProducts": "Produkte ansehen",
+    "moreArticles": "Weitere Artikel",
+    "imagePlaceholder": "Bildplacezhalter",
+    "breadcrumbBlog": "Blog"
+  },
+  "breadcrumbs": {
+    "home": "Startseite",
+    "products": "Produkte",
+    "blog": "Blog",
+    "forum": "Forum",
+    "faq": "FAQ",
+    "status": "Status"
+  },
+  "faqPage": {
+    "eyebrow": "Hilfe-Center",
+    "title": "FAQ zu Cheats, Produkten & Anleitungen",
+    "subtitle": "Tarife, Aim- und ESP-Optionen, der HWID spoofer, die UGC-Wiederherstellung und was nach einem BattlEye-Update zu beachten ist.",
+    "schemaName": "FAQ — DayZ Cheats & Produkte",
+    "schemaDescription": "Antworten zu DayZ Cheats, dem HWID spoofer, der UGC-Wiederherstellung, dem BattlEye-Risiko und dem Checkout auf dayz-cheats.org."
+  },
+  "siteFaqSection": {
+    "allTopicsEyebrow": "Alle Themen",
+    "allTopicsTitle": "Nach Kategorie durchsuchen",
+    "allTopicsSubtitle": "Tarife, Visuals, der loader, der Spoofer, UGC und Einrichtung.",
+    "contextualEyebrow": "FAQ",
+    "contextualTitle": "Fragen zu dieser Seite",
+    "contextualSubtitle": "Antworten passend zu dem, was du gerade liest – besuche die FAQ-Seite für alle Themen."
+  },
+  "catalog": {
+    "viewDetails": "Details ansehen",
+    "buyNow": "Jetzt kaufen",
+    "mostPopular": "Am beliebtesten",
+    "popular": "Beliebt",
+    "plusMore": "+{count} weitere",
+    "monthlySuffix": " monthly",
+    "lifetimeSuffix": " lifetime",
+    "monthlyPlanNote": "31 Tage Zugriff · beim Checkout verlängern",
+    "lifetimePlanNote": "Einmalig bezahlen · keine Verlängerung",
+    "plansSameFeaturesNote": "Gleiche Funktionen bei beiden Tarifen – nur die Laufzeit ändert sich.",
+    "selectPlanAria": "Tariflänge auswählen",
+    "utilityLabel": "Dienstprogramm",
+    "experienceEyebrow": "Erlebnis",
+    "inTheClient": "Im Client · Nach dem Kauf",
+    "experienceSubtitle": "Nutze die Screenshots oben für {name} – unten wird erklärt, was jede Ebene bedeutet und wie der Zugriff nach dem Checkout funktioniert.",
+    "utilityExperienceSubtitle": "Nutze die Screenshots oben für {name} – jede Vorschau erklärt einen Teil des Hardware-Workflows und wie der Zugriff nach dem Kauf funktioniert.",
+    "inGameLayers": "Ingame-Ebenen",
+    "utilityPreviewLayers": "Produktvorschaubilder",
+    "layerLabel": "Ebene {label}",
+    "previewLabel": "Vorschau",
+    "accessLabel": "Zugriff"
+  },
+  "productUi": {
+    "detailsAria": "Produktdetails",
+    "overview": "Übersicht",
+    "systemRequirements": "Systemanforderungen",
+    "goodToKnow": "Gut zu wissen",
+    "limitations": "Wichtige Einschränkungen",
+    "completeFeatureList": "Vollständige Funktionsliste",
+    "includedCapabilities": "Enthaltene Funktionen",
+    "totalFeatures": "{count} insgesamt",
+    "popularBadge": "Beliebt",
+    "limitedBadge": "Limitiert",
+    "gameBadge": "DayZ",
+    "platformBadge": "Windows PC",
+    "systemReqPanel": {
+      "title": "Systemanforderungen",
+      "security": [
+        "HVCI EIN",
+        "KERNISOLIERUNG EIN",
+        "TPM EIN",
+        "SECURE BOOT EIN"
+      ],
+      "operatingSystemLabel": "Betriebssystem",
+      "operatingSystemValue": "Windows 10 und 11 werden unterstützt",
+      "cloudDmaTitle": "Cloud DMA",
+      "cloudDmaDesc": "Cloud DMA ist in diesem Produkt nicht enthalten. Dieser Key ist der Windows loader von der Kasse – keine DMA-Karte oder Cloud-DMA-Dienst.",
+      "cloudDmaNote": "Konfigurationsoptionen sind Konfig speichern und Konfig laden. Es gibt keinen DMA-Dienst in diesem Menü."
+    }
+  },
+  "comparePlans": {
+    "eyebrow": "Vergleichen",
+    "title": "Alle Pakete vergleichen",
+    "subtitle": "Direkter Vergleich, was in den jeweiligen Stufen enthalten ist.",
+    "tableAria": "Alle Pakete vergleichen",
+    "featureColumn": "Funktion",
+    "included": "Enthalten",
+    "notIncluded": "Nicht enthalten"
+  },
+  "whyCompare": {
+    "tableAria": "DayZ Cheats im Vergleich zu einem typischen Anbieter",
+    "featureColumn": "Funktion",
+    "metricsAria": "Plattform-Metriken",
+    "statusDeliveryAria": "Live-Status und Bereitstellung"
+  },
+  "searchResultTypes": {
+    "product": "Produkt",
+    "blog": "Blog",
+    "forum": "Forum",
+    "faq": "FAQ",
+    "status": "Status",
+    "support": "Support",
+    "page": "Seite"
+  },
+  "blogSidebar": {
+    "ariaLabel": "Artikel-Seitenleiste",
+    "inThisArticle": "In diesem Artikel",
+    "relatedGuides": "Ähnliche Leitfäden",
+    "ourProducts": "Unsere Produkte",
+    "productCheats": "DayZ Cheats",
+    "allProducts": "Alle Produkte",
+    "hwidSpoofer": "HWID Spoofer",
+    "ugcRecovery": "UGC Account recovery",
+    "tocAria": "Inhaltsverzeichnis",
+    "allArticles": "Alle Artikel",
+    "statusHeading": "Loader-Status",
+    "viewStatusPage": "Vollständige Statusseite",
+    "recentChanges": "Letzte Änderungen",
+    "getAlertsDiscord": "Benachrichtigungen erhalten für Discord",
+    "planFinderTitle": "Tarif finden",
+    "planFinderStep1": "Wie lange benötigst du Zugriff?",
+    "planFinderOptWeeks": "Ein paar Wochen",
+    "planFinderOptQuarter": "Etwa 3 Monate",
+    "planFinderOptLong": "Langfristig",
+    "planFinderRecommendMonthly": "Monthly",
+    "planFinderRecommendQuarter": "3 Monate",
+    "planFinderQuarterNote": "$35 pro 31-Tage-Schlüssel beim Checkout – für ca. 90 Tage verlängern",
+    "planFinderRecommendLifetime": "Lifetime",
+    "planFinderCheckout": "Weiter zum Checkout",
+    "planFinderChange": "Antwort ändern",
+    "planFinderMonthlyNote": "31 Tage · 1 Month beim Checkout wählen",
+    "planFinderLifetimeNote": "Einmalig bezahlen · keine Verlängerung",
+    "tocFallbackLabel": "Artikelbeginn",
+    "priceEstimatorTitle": "Preisschätzung",
+    "priceEstimatorHint": "Klicke auf eine Laufzeit. Die Summe wird berechnet.",
+    "priceEstimator30d": "31T",
+    "priceEstimatorLifetime": "Lifetime",
+    "priceEstimatorOff": "Rabatt",
+    "priceEstimatorTotal": "Gesamtschätzung",
+    "priceEstimatorProducts": "Produkte",
+    "priceEstimatorNote": "Nur eine Schätzung. Kaufe jedes Produkt auf seiner eigenen Karte.",
+    "utilityGuides": "Spoofer & UGC",
+    "moreGuides": "Weitere Leitfäden"
+  }
+}

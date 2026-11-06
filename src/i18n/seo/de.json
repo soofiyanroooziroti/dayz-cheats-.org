@@ -1,0 +1,108 @@
+{
+  "site": {
+    "title": "DayZ Cheats & Aimbot | dayz-cheats.org",
+    "description": "DayZ Cheats für Steam auf Windows PC mit Aimbot, ESP, Fahrzeugmarkern und Radar. Vergleiche den Cheat, HWID Spoofer und UGC Account recovery DayZ auf dayz-cheats.org."
+  },
+  "pages": {
+    "/": {
+      "title": "DayZ Cheats für Windows PC | ESP, Aimbot & Preise",
+      "description": "Aimbot, Spieler ESP, infiziert ESP, Welt ESP und Gegenstand ESP für DayZ auf Windows PC. Preise und ein datierter Zustandsbericht. Jedes Produkt wird einzeln überprüft."
+    },
+    "/products/dayz-cheats/": {
+      "title": "Cheats for DayZ | Monthly und Lifetime Pläne",
+      "description": "Cheats for DayZ auf Steam: Drei Windows-Produkte teilen sich $35 monthly und $150 lifetime. Loader, HWID-Tool und Kontobewertungen sind separate Bezahlvorgänge."
+    },
+    "/products/dayz-cheats/dayz-cheats/": {
+      "title": "Steam Loader für Windows PC | Aim und Radar",
+      "description": "Steam loader mit Zielhilfe, Spieler-Visualisierungen, Fahrzeugmarkierungen, einer 2D-Karte und Rückstoß-Werkzeugen. Monthly ist für 30 Tage $35. Lifetime ist $150."
+    },
+    "/products/dayz-cheats/hwid-spoofer/": {
+      "title": "HWID Spoofer für DayZ Windows Hardware-Flags",
+      "description": "HWID spoofer für DayZ Spieler, die von einem Hardware-Flag betroffen sind. Profil-Rotation und Portal-Setup auf Windows PC. Dies behebt keinen reinen Account-Ban."
+    },
+    "/products/dayz-cheats/ugc/": {
+      "title": "UGC Account Recovery für DayZ PC Berufungsfälle",
+      "description": "UGC account recovery organisiert DayZ-Bannaussprüche und Wiederherstellungsfälle. Trennen Sie die Lizenz von der Steam-loader und dem HWID spoofer auf Windows PC."
+    },
+    "/products/dayz-cheats/utilities/": {
+      "title": "Vergleiche das HWID Tool und das Konto-Einspruchs-Dienstprogramm",
+      "description": "Sehen Sie, welches Windows-Dienstprogramm zu einem Hardware-Flag passt und welches zu einem Kontoeinspruch. Beide sind separate Bezahlvorgänge beim DayZ loader."
+    },
+    "/blog/": {
+      "title": "DayZ PC Guides for Aim, ESP, Loot, Menu, and BattlEye",
+      "description": "Steam loader guides for aimbot, player and infected ESP, vehicles, loot, the cheat menu, HWID flags, and BattlEye ban risk before you launch."
+    },
+    "/blog/best-dayz-cheats-2026/": {
+      "title": "Cheats – $35 monthly versus $150 lifetime on Steam",
+      "description": "A 2026 look at this store’s plans: aim help, visuals, map tools, ban risk, and $35 monthly versus $150 lifetime on Steam."
+    },
+    "/blog/how-to-download-dayz/": {
+      "title": "DayZ DMA Setup from the Checkout Portal",
+      "description": "DayZ DMA searches often expect a hardware card. This guide covers the Steam software loader after checkout, not a second PC."
+    },
+    "/blog/dayz-anti-cheat/": {
+      "title": "BattlEye – DayZ Anticheat Hinweise vor dem Start",
+      "description": "DayZ Anticheat auf dem Live-Client ist BattlEye. Erfahre, was ein Report bewirkt, warum ein Hardware-Flag anders ist und warum hier keine Seite ein sauberes Match garantiert."
+    },
+    "/blog/what-is-an-hwid-spoofer/": {
+      "title": "Was ein HWID Spoofer auf einem PC verändert",
+      "description": "Ein Hardware-Flag folgt dem Computer, nicht nur dem Profil. Dieser Hinweis erklärt, was ein Spoofer verändert und was er unverändert lässt."
+    },
+    "/blog/dayz-cheats-pricing/": {
+      "title": "Monthly $35 vs Lifetime $150 in diesem Store",
+      "description": "Lifetime: Vergleiche den 31-Tage-Zugang zu $35 mit dem $150 Langzeitschlüssel. Jedes Produkt ist ein separater Checkout. Die loader $150 Stufe fügt den Spoofer nicht hinzu."
+    },
+    "/blog/dayz-aimbot/": {
+      "title": "DayZ Aimbot – On-Screen-Sichtfeld für gute Kontrolle",
+      "description": "DayZ Aimbot Einstellungen für FOV, smooth, Knochenwahl, Sichtbarkeitsprüfung, Vorhersage und das Sichtfeld, damit die Zielhilfe übersichtlich bleibt."
+    },
+    "/blog/dayz-esp/": {
+      "title": "DayZ ESP ESP für Spieler und Fahrzeuge",
+      "description": "DayZ ESP Boxen, Skelett, Leben, Squad-Tags und Fahrzeugtypen, damit jedes Gefecht auf Steam übersichtlich bleibt."
+    },
+    "/blog/dayz-radar/": {
+      "title": "DayZ 2D Radar Markierungen und Reichweitenskala",
+      "description": "DayZ Radar mit Infanterie-Blips, Fahrzeug-Blips und Reichweitenregler, damit die 2D-Karte zu deiner Spielweise passt."
+    },
+    "/blog/dayz-no-recoil/": {
+      "title": "Kein Rückstoß, Spread & Helligkeit",
+      "description": "Kein Rückstoß, kein Spread, Full Bright, Fadenkreuz und gespeicherte Configs für den Steam loader. Reduziert kein Bannrisiko."
+    },
+    "/blog/dayz-season-2/": {
+      "title": "Season 2 – 15. Okt: Neue Waffen & Fahrzeuge",
+      "description": "Update 0.2.0 bringt am 15. Oktober Waffen, Fahrzeuge & Rüstungs-Rework. Season 3 mit Economy-Wipe startet am 12. November."
+    },
+    "/blog/what-an-hwid-spoofer-does/": {
+      "title": "HWID Spoofer – Funktionsweise nach Flag",
+      "description": "HWID spoofer: Stirbt ein Profil auf PC und läuft anderswo, hilft das separate Hardware-Tool. Konto-Banns werden nicht aufgehoben."
+    },
+    "/forum/": {
+      "title": "DayZ Community-Forum: Setup, Aimbot und Pläne",
+      "description": "Forum-Beiträge zu DayZ loader, Aimbot- und ESP-Optionen, $35 monthly- sowie $150 lifetime-Plänen und BattlEye-Patchtagen. Entwicklerantworten sind markiert."
+    },
+    "/faq/": {
+      "title": "FAQ – Pläne, Setup und BattlEye-Risiko vor dem Kauf",
+      "description": "Antworten zu Kasse, BattlEye-Updates, Windows- und Steam-Anforderungen, Hardware-Flags sowie Unterschieden zwischen loader, Spoofer und Account-Tool."
+    },
+    "/support/": {
+      "title": "DayZ Support: Loader, Kasse und HWID PC",
+      "description": "Loader, Kasse und Portal-Hilfe für DayZ-Tools, den HWID spoofer und Konto-Einsprüche. Bitte Bestell-E-Mail und genaue loader angeben."
+    },
+    "/about/": {
+      "title": "Über diesen DayZ Shop: Lieferung, Preise & Risiko",
+      "description": "Shop: Was dayz-cheats.org verkauft, wie Checkout und Portal-Lieferung funktionieren sowie das Bannrisiko bei der Nutzung von Tools auf DayZ für Windows PC."
+    },
+    "/privacy/": {
+      "title": "Datenschutzhinweise für Analytics, Cookies & Daten",
+      "description": "Wie dayz-cheats.org mit Analytics, Cookies und Kontaktdaten umgeht. Zahlungskartennummern verbleiben beim Zahlungsdienstleister und nicht auf diesem Shop."
+    },
+    "/terms/": {
+      "title": "Lizenzbedingungen, Rückerstattungen & Nutzungsregeln",
+      "description": "Lizenzbedingungen, akzeptable Nutzung und die Keine-Rückerstattung-Regel für den loader, HWID spoofer und die Kontowiederherstellung über dayz-cheats.org."
+    },
+    "/status/": {
+      "title": "DayZ Status & BattlEye Patch Notes",
+      "description": "Module and portal update notes for the Windows loader. Check status after each BattlEye update before you launch DayZ on Steam."
+    }
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "categories": {
+    "General": "Všeobecné",
+    "Guides & Builds": "Návody a sestavy",
+    "Patch Talk": "Diskuze o záplatách",
+    "Community": "Komunita"
+  },
+  "posts": {
+    "update-130-before-launch": {
+      "title": "Aktualizace 1.30 a Badlands jsou venku. Mám otevřít loader na starém nastavení?",
+      "excerpt": "Klient Steamu se změnil 15. října. Moje uložené nastavení je z doby před Nasdarou a novými motorkami.",
+      "body": [
+        "Steam na Windows. Aktualizace 1.30 a rozšíření Badlandsdorazily 15. října. Nasdara, Jana 50, Enduro a nové kombinační zámky jsou v kliento.",
+        "Stále mám nastavení z doby před tou záplatou. Stačí staré uložení, nebo mám počkat na stránku stavu?"
+      ],
+      "flair": "❓ Otázka",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Počkej. Nastavení uložené před aktualizací 1.30 není zárukou pro tohoto klienta. Přečti si stránku stavu, potom portál a nech loader zavřené, dokud tato poznámka neodpovídá sestavení, které se chystáš otevřít. Aktualizováno znamená, že poznámka byla obnovena. Znamená to ale, že relace zůstane čistá?",
+          "replies": [
+            {
+              "author": "BadlandsWait",
+              "body": "Pozastavil jsem frontu. Otevřu to až po tom, co řádek stavu bude odpovídat tomuto klientu."
+            }
+          ]
+        }
+      ]
+    },
+    "update-130-battleye-reports": {
+      "title": "Příspěvky o vlnách banů po aktualizaci 1.30 BattlEye. Co to tady znamená?",
+      "excerpt": "Veřejné poznámky hlubší sledování BattlEye. Chci přečíst stav, ne obcházení.",
+      "body": [
+        "Poznámky k aktualizaci 1.30 zmiňují hlubší sledování s BattlEye a nezveřejňují metodu. Lidé také píší o vlnách banů po tomto klientovi.",
+        "Neptám se, jak to obejít. Chci vědět, co tento web bude a nebude tvrdit."
+      ],
+      "flair": "❓ Otázka",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Veřejná poznámka je celé tvrzení: byly provedeny změny ve sledování a metoda nebyla zveřejněna. Pozdější zprávy popisují vlny banů. Tato stránka netvrdí, že tento loader byl přehlédnut nebo odhalen. Ban je stále možný. Žádný návod na obcházení tu není. Pokud poznámka o stavu není pro sestavení, které máš nainstalované, nech loader zavřené.",
+          "replies": []
+        }
+      ]
+    },
+    "nasdara-bikes-and-world-esp": {
+      "title": "Nasdara, Jana 50 a Enduro jsou tu. Přibude v menu nový přepínač?",
+      "excerpt": "Svět ESP již má vozidla ESP, zvířata ESP a místa pádů vrtulníků. Nechci falešný přepínač motocyklů.",
+      "body": [
+        "Badlands přidaly poušť Nasdara a dvě motorky, Janu 50 a Enduro. Naklánějí se a potřebují benzín a zapalovací svíčku.",
+        "Zveřejněné menu stále uvádí Vozidla ESP pod možnostmi Světa ESP. Je motorka vlastním přepínačem, nebo je to prostě vozidlo?"
+      ],
+      "flair": "💬 Diskuze",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Zveřejněná skupina Svět ESP je stále Zvířata ESP, Zdraví jako text nebo pruh, Vozidla ESP a Pád vrtulníku. Jana 50 a Enduro jsou ve hře vozidla. Nejsou dalším řádkem na této stránce. Nasdara nepřidává ani přepínač mapy. Pokud po aktualizaci klienta chybí štítek, považuj to za kontrolu stavu, ne za nový název funkce.",
+          "replies": [
+            {
+              "author": "EnduroLine",
+              "body": "Takže nechám Vozidla ESP zapnutá a nebudu hledat přepínač pro motorku. Jasné."
+            }
+          ]
+        }
+      ]
+    },
+    "death-screen-report-button": {
+      "title": "Je tlačítko nahlášení hráče na obrazovce smrti aktivní v 1.30?",
+      "excerpt": "Zemřel jsem v Nasdaře a nebylo tam žádné nové ovládání pro nahlášení. Veřejné poznámky to stále označují jako nedokončené.",
+      "body": [
+        "Veřejné poznámky uvádějí, že se pracuje na tlačítku Nahlásit hráče pro obrazovku smrti, aby se hromadně neposílala falešná hlášení.",
+        "Po smrti v 1.30 jsem ho neviděl. Je už aktivní, nebo v klientovi stále není?"
+      ],
+      "flair": "❓ Otázka",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Považuj to za nedokončené. Veřejná poznámka uvádí, že tým na tomto ovládacím prvku stále pracuje, včetně případů falešných hlášení. Neplánuj relaci kolem tlačítka, které v klientovi není. Toto vlákno se nezmění v téma o obcházení.",
+          "replies": []
+        }
+      ]
+    },
+    "update-131-and-ps5": {
+      "title": "Kdy vyjde aktualizace 1.31 a pokrývá tento klíč klienta pro PS5?",
+      "excerpt": "Pro verzi 1.31 není zveřejněno žádné datum. O nativním sestavení pro PS5 se mluví pro rok 2027. Toto PC je Steam.",
+      "body": [
+        "Nemohu najít datum pro aktualizaci 1.31. Hotfixy pro 1.30 jsou stále možné. Mluví se také o nativní verzi pro PS5 v roce 2027.",
+        "Hraji na Steamu pro Windows. Vztahuje se klíč lifetime na konzolového klienta, nebo pouze na tento PC loader?"
+      ],
+      "flair": "❓ Otázka",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Pro verzi 1.31 neexistuje žádné veřejné datum. Minulá pauza mezi vydáními není zárukou. Hotfixy mohou klienta pro Steam stále změnit, proto před každým spuštěním znovu zkontrolujte stránku stavu. Tento produkt je Steam loader na Windows. Nativní sestavení pro PS5 je jiný klient a není součástí.",
+          "replies": [
+            {
+              "author": "RoadmapRead",
+              "body": "Pouze klíč PC, a stále čekám na stav po hotfixu. To je ta část, kterou jsem potřeboval."
+            }
+          ]
+        }
+      ]
+    },
+    "BattlEye-status-before-launch": {
+      "title": "Stavový řádek stále hlásí Aktualizováno. Stačí to po hotfixu pro 1.30?",
+      "excerpt": "Po verzi Badlands dorazil malý hotfix. Stránka stále zobrazuje poznámku z 15. října.",
+      "body": [
+        "Windows 11, klíč monthly, klient Steam. Po aktualizaci 1.30 následoval hotfix. Stránka stavu stále vypadá jako poznámka k Badlands z 15. října.",
+        "Stačí tato starší poznámka, nebo mám počkat, až bude stránka aktualizována pro tento hotfix?"
+      ],
+      "flair": "❓ Otázka",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Počkejte. Zkontrolujte stránku stavu po aktualizaci klienta nebo BattlEye, ne banner, který si pamatujete z vydání 1.30. Hotfix se řídí stejným pravidlem. Nic zde není slibem, že relace zůstane čistá. Pokud poznámka nepatří k tomuto sestavení, nechte loader zavřený.",
+          "replies": [
+            {
+              "author": "NightRaid",
+              "body": "Pozastavil jsem frontu 🙏 Otevřu to až poté, co bude stránka aktualizována pro tuto opravu."
+            }
+          ]
+        },
+        {
+          "author": "ExtractLate",
+          "body": "Stejný zvyk 😭 Čtu příspěvek o anticheatu, abych přestal brát zelený banner jako záruku.",
+          "replies": []
+        }
+      ]
+    },
+    "aim-smooth-on-infantry": {
+      "title": "Asistence míření cuká v boji zblízka s pěchotou. Co mám ztlumit? 🎯",
+      "excerpt": "😵 FOV je široké a kost je hlava. Vzdálenost míření je stále velká.",
+      "body": [
+        "Sestavení pro Steam, možnosti Aimbot: přepínač, přizpůsobitelné FOV, přizpůsobitelná vzdálenost míření, ignorovat, kost, styl FOV a čára k cíli.",
+        "Při krátkém vykouknutí to cukne k hlavě. Chci pomoc pouze u té osoby, na kterou se již dívám, ne u té další na okraji."
+      ],
+      "flair": "❓ Otázka",
+      "comments": [
+        {
+          "author": "ScopeQuiet",
+          "body": "Zmenšil jsem FOV, dokud kužel sotva pokrýval osobu přede mnou, a zkrátil jsem vzdálenost míření 🎯 Kost hlavy byla to cuknutí.",
+          "replies": [
+            {
+              "author": "DayZStaff",
+              "body": "Měňte vždy jen jedno nastavení. Užší přizpůsobitelný FOV a kratší přizpůsobitelná vzdálenost míření jsou obvyklým řešením. Kost může během testování zůstat na nejbližší, pak ji přesuňte na hlavu, krk nebo pánev. Styl FOV mění pouze to, zda se kužel vykresluje jako plný nebo s přechodem. Uložte konfiguraci, aby ji další spuštění neresetovalo."
+            }
+          ]
+        }
+      ]
+    },
+    "esp-too-many-labels": {
+      "title": "Hráč ESP zaplňuje obrazovku v bojové situaci čety 👁️",
+      "excerpt": "📦 Rámeček, kostra, jméno, inventář a traces jsou zapnuté. Nevidím zaměřovač.",
+      "body": [
+        "Možnosti hráče ESP jsou nabité: rámeček, vyplněný rámeček, tečka na hlavě, kostra, ukazatel zdraví, jméno, vzdálenost, inventář, předmět v rukou a traces.",
+        "Potřebuji vědět jen to, kdo je naživu a jak daleko. Co lidé skutečně nechávají zapnuté?"
+      ],
+      "flair": "💬 Diskuse",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Začni s rámečkem nebo kostrou, ukazatelem zdraví a vzdáleností. Jméno přidej jen tehdy, když ho potřebuješ. Inventář a předmět v rukou jsou volitelné. Sniž maximální vzdálenost, aby vzdálení hráči zmizeli. Traces je poslední přepínač, pokud ti odvádí pozornost od rámečku.",
+          "replies": []
+        },
+        {
+          "author": "SquadNoise",
+          "body": "Vypnul jsem inventář, předmět v rukou a traces ✨ Boj je zase přehledný.",
+          "replies": []
+        }
+      ]
+    },
+    "vehicle-esp-or-radar": {
+      "title": "Vozidlo i místo havárie vrtulníku jsou označeny. Který přepínač Světa ESP je který? 🛡️",
+      "excerpt": "🚛 Vozidlo a místo havárie vrtulníku jsou oba na obrazovce. Nemohu poznat, který popisek Světa ESP mám číst.",
+      "body": [
+        "Možnosti Světa ESP: zvíře ESP, zdraví jako text nebo pruh, vozidlo ESP a havárie vrtulníku.",
+        "Vozidlo a místo havárie se objevily společně. Měl jsem zapnuté oba přepínače a popisky se překrývaly. Které je vozidlo a které je havárie vrtulníku?"
+      ],
+      "flair": "❓ Otázka",
+      "comments": [
+        {
+          "author": "ATRock",
+          "body": "Nechávám zapnuté vozidlo ESP pro vozidlo přede mnou a havárii vrtulníku zapínám jen tehdy, když hledám místo dopadu.",
+          "replies": [
+            {
+              "author": "DayZStaff",
+              "body": "V možnostech Světa ESP jsou to samostatné přepínače. Vozidlo ESP označuje vozidla. Havárie vrtulníku označuje místa dopadu. Zvíře ESP a zdraví (text nebo pruh) jsou další dva v této skupině. Vypnutí jednoho nevypne ostatní."
+            }
+          ]
+        }
+      ]
+    },
+    "radar-blips-everywhere": {
+      "title": "Popisky Světa ESP se překrývají. Jak je omezím? 📡",
+      "excerpt": "✨ Zvíře ESP, vozidlo ESP a havárie vrtulníku jsou zapnuté. Nedokážu je od sebe rozeznat.",
+      "body": [
+        "Možnosti Světa ESP mají zapnuté zvíře ESP, zdraví, vozidlo ESP a havárii vrtulníku.",
+        "Chci hlavně vozidla. Popisky zvířat a havárie vrtulníku zabírají stejný výhled."
+      ],
+      "flair": "💬 Diskuse",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Nech si zapnutý ten přepínač Světa ESP, který právě sleduješ, a ostatní vypni. Vozidlo ESP, zvíře ESP a havárie vrtulníku jsou oddělené. Popisky hráčů zůstávají v možnostech Hráče ESP s vlastní maximální vzdáleností.",
+          "replies": []
+        },
+        {
+          "author": "MapRing",
+          "body": "Vypnul jsem zvíře ESP a havárii vrtulníku. Vozidlo ESP je jediný popisek světa, který nechávám zapnutý.",
+          "replies": []
+        }
+      ]
+    },
+    "lifetime-next-update": {
+      "title": "Pokrývá klíč $150 lifetime aktualizaci 1.31 a hotfixy?",
+      "excerpt": "1.30 je již venku. Rozhoduji se mezi dalším měsícem a lifetime před dalším klientem.",
+      "body": [
+        "Aktualizace 1.30 je na Steamu. Aktualizace 1.31 nemá veřejné datum. Monthly je $35 a lifetime je $150 na kartě cheatů.",
+        "Pokud si tento týden koupím lifetime, obsahuje tento klíč pozdější sestavení PC, nebo budu platit znovu, až se klient aktualizuje?"
+      ],
+      "flair": "❓ Otázka",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Lifetime je pro tento produkt cheatů na Steamu pro Windows. Pozdější sestavení PC se vydávají, když je klíč aktivní, včetně období po hotfixu. Neznamená to, že loader je připraven v hodinu, kdy vyjde aktualizace 1.31 nebo hotfix. Zkontrolujte stránku stavu a nechte loader zavřené, dokud tato poznámka neodpovídá novému klientovi. Lifetime nepřidává HWID spoofer, UGC ani konzolového klienta a zákaz je stále možný.",
+          "replies": [
+            {
+              "author": "WipeWatch",
+              "body": "Takže klíč zůstává na PC a po dalším klientovi stále čekám na stránce stavu. To je ta část, kterou jsem potřeboval."
+            }
+          ]
+        },
+        {
+          "author": "SeasonHold",
+          "body": "Stejný pohled na 2. sezónu. Neotevřel jsem to v noci, kdy vyšly poznámky k patchi. Čekal jsem, až se posune stavový řádek.",
+          "replies": []
+        }
+      ]
+    },
+    "lifetime-includes-spoofer": {
+      "title": "Zahrnuje klíč $150 lifetime také HWID spoofer? 🔑",
+      "excerpt": "💸 Jsem na $35 měsíci. Chci vědět, zda lifetime u cheatu odemyká také spoofer.",
+      "body": [
+        "DayZ Cheats a UGC jsou $35 na 31 dní nebo $150 lifetime. HWID spoofer stojí 50 $ monthly nebo $150 lifetime na vlastní kartě.",
+        "Pokud si na cheatu koupím lifetime, dostanu také spoofer, nebo je to jiná platba?"
+      ],
+      "flair": "❓ Otázka",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Samostatné produkty. Lifetime na DayZ Cheats nezahrnuje HWID Spoofer ani UGC Account recovery. Každý má svůj vlastní klíč. Začátek na monthly neslibuje kredit směrem k lifetime. Spoofer monthly stojí 50 $; cheat a UGC monthly jsou $35. Lifetime je $150 na každé kartě – ne jeden balíček.",
+          "replies": [
+            {
+              "author": "PlanMath",
+              "body": "Jasné. Měsíc u cheatu si nechám a spoofer koupím pouze v případě, že PC je to, co je označeno."
+            }
+          ]
+        }
+      ]
+    },
+    "when-to-buy-hwid": {
+      "title": "Nové účty na tomto PC umírají a na notebooku fungují. Je to HWID? 💻",
+      "excerpt": "🆕 Účet ve hře je nový. Druhý stroj se dostane dovnitř. Nejsem si jistý, zda je spoofer tou správnou koupí.",
+      "body": [
+        "Dva PC. Nové účty selhávají na desktopu a fungují na notebooku. Měsíc cheatu už vlastník.",
+        "Je HWID spoofer pro desktop, nebo potřebuji raději UGC appeal workspace?"
+      ],
+      "flair": "❓ Otázka",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Pokud nový účet selže na jednom stroji a funguje na jiném, tento vzorec odpovídá případu hardwarového ID, pro který je spoofer určen. UGC je odvolací workspace pro samotný účet. Spoofer neruší omezení vázaná pouze na účet a není součástí klíče cheatu.",
+          "replies": []
+        }
+      ]
+    },
+    "is-cloud-dma-included": {
+      "title": "Je DMA karta součástí balení loader? ☁️",
+      "excerpt": "👀 Hledání DayZ DMA ve mně vyvolalo dojem, že stažený soubor obsahuje DMA kartu. Koupil jsem pouze Windows loader.",
+      "body": [
+        "Možnosti konfigurace obsahují Limit FPS, jazyk menu, Uložit konfiguraci a Načíst konfiguraci. Hledání DayZ DMA ve mně vyvolalo dojem, že stažený soubor obsahuje DMA nastavení.",
+        "Koupil jsem Windows loader. Nevlastním DMA kartu. Je tato hardwarová součást součástí tohoto klíče, nebo ne?"
+      ],
+      "flair": "❓ Otázka",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Ne. Uložit konfiguraci a Načíst konfiguraci ukládají menu, abyste mohli později načíst stejné rozvržení. Nejsou to DMA karty a tento produkt je Windows loader z pokladny. Zařízení DMA je jiný hardware a není součástí klíče. Nespouštějte soubor, který dorazil z výsledku vyhledávání nebo přímé zprávy.",
+          "replies": [
+            {
+              "author": "ReadThePage",
+              "body": "Takže Uložit konfiguraci je předvolba a karta, o které se lidé dohadují, ve staženém souboru není. Chápu."
+            }
+          ]
+        }
+      ]
+    },
+    "steam-only-client": {
+      "title": "Loader hru nevidí. Je to pouze pro Steam? 🎮",
+      "excerpt": "🛑 DayZ je nainstalováno, ale ne přes Steam. Stránka produktu uvádí Steam Only a já jsem se zastavil před změnou Windows.",
+      "body": [
+        "Windows 11, Intel. Hra na tomto PC není instalace ze Steamu. Seznam funkcí uvádí Steam Only.",
+        "Někdo v jiném chatu říkal, že mám vypnout bezpečnostní funkce, aby se loader spustil. Tato nastavení jsem neměnil."
+      ],
+      "flair": "❓ Otázka",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Tento sestavení je určeno pouze pro Steam. Pokud DayZ není kopie ze Steamu, toto loader není pro tuto instalaci určeno. Ponechte bezpečnostní funkce Windows tak, jak jsou. Neřídíte se příspěvkem, který vám říká, abyste je vypnuli. Pokud se kopie ze Steamu stále nedaří otevřít, pošlete e-mail s objednávkou a přesný text loader prostřednictvím podpory.",
+          "replies": []
+        }
+      ]
+    }
+  }
+}

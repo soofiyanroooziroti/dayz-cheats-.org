@@ -1,0 +1,1480 @@
+{
+  "site": {
+    "name": "DayZ cheats",
+    "domain": "dayz-cheats.org",
+    "title": "DayZ cheats",
+    "description": "Aimbot、player ESP、infected ESP、world ESP、item ESP，以及 Windows PC 上的 DayZ 配置。",
+    "discord": "/go/dayz/"
+  },
+  "nav": [
+    {
+      "href": "/",
+      "label": "首页"
+    },
+    {
+      "href": "/products/dayz-cheats/",
+      "label": "产品"
+    },
+    {
+      "href": "/products/dayz-cheats/dayz-cheats/#features",
+      "label": "功能"
+    },
+    {
+      "href": "/blog/",
+      "label": "博客"
+    },
+    {
+      "href": "/forum/",
+      "label": "论坛"
+    },
+    {
+      "href": "/faq/",
+      "label": "常见问题"
+    },
+    {
+      "href": "/support/",
+      "label": "支持"
+    }
+  ],
+  "headerNavLabels": {
+    "home": "首页",
+    "products": "商店",
+    "features": "功能",
+    "blog": "博客",
+    "forum": "论坛",
+    "faq": "常见问题",
+    "support": "帮助"
+  },
+  "navMore": "更多",
+  "navShort": {
+    "home": "首页",
+    "products": "产品",
+    "features": "功能",
+    "blog": "博客",
+    "forum": "论坛",
+    "faq": "常见问题",
+    "support": "支持"
+  },
+  "hero": {
+    "status": "DayZ — 模块在线",
+    "eyebrow": "Steam · Windows PC",
+    "titleLine1": "适用于 Windows PC 的 DayZ Cheats",
+    "titleLine2": "辅助工具",
+    "subtitle": "DayZ cheats 适用于 Windows PC 上的 Steam：aimbot、玩家 ESP、僵尸 ESP、世界 ESP、物品 ESP 以及配置，即时发货并提供 Discord 支持。",
+    "ctaPrimary": "查看产品",
+    "ctaDiscord": "立即购买",
+    "modesLabel": "模式",
+    "modes": [
+      "生存",
+      "PvP",
+      "基地突袭",
+      "搜刮跑图"
+    ],
+    "marqueeAria": "功能与平台支持",
+    "metrics": [
+      {
+        "label": "反作弊",
+        "strong": "BattlEye"
+      },
+      {
+        "label": "平台",
+        "strong": "Windows PC"
+      },
+      {
+        "label": "套餐",
+        "strong": "$35 / $150"
+      },
+      {
+        "label": "支持",
+        "strong": "24/7"
+      }
+    ]
+  },
+  "features": {
+    "eyebrow": "功能特性",
+    "title": "一应俱全的核心功能",
+    "subtitle": "loader 菜单包含：aimbot、玩家ESP、感染体ESP、世界ESP、物品ESP、其他杂项以及配置管理。",
+    "items": [
+      {
+        "title": "Aimbot 选项",
+        "subtitle": "FOV、距离、骨骼、忽略。",
+        "desc": "切换、FOV、自瞄距离、忽略玩家、感染者或动物、骨骼、FOV 样式以及目标连线。",
+        "bullets": [
+          "切换 Aimbot",
+          "可自定义的 FOV 和自瞄距离",
+          "骨骼：最近、头部、颈部、骨盆"
+        ],
+        "tags": [
+          "aimbot",
+          "fov",
+          "骨骼"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-6"
+      },
+      {
+        "title": "玩家 ESP 选项",
+        "subtitle": "方框、骨骼、物品栏。",
+        "desc": "启用、好友、方框、填充方框、头部圆点、骨骼、生命值、名称、距离、物品栏、手中物品、traces 以及最大距离。",
+        "bullets": [
+          "方框或角标方框",
+          "物品栏与手中物品",
+          "最大距离"
+        ],
+        "tags": [
+          "玩家 esp",
+          "骨骼",
+          "物品栏"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-6"
+      },
+      {
+        "title": "感染者 ESP 选项",
+        "subtitle": "丧尸透视层。",
+        "desc": "启用感染者的方框、填充方框、头部圆点、骨骼、生命值、名称、距离、traces 以及最大距离。",
+        "bullets": [
+          "启用及方框选项",
+          "骨骼、生命值与距离",
+          "最大距离"
+        ],
+        "tags": [
+          "感染者",
+          "丧尸",
+          "esp"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-4"
+      },
+      {
+        "title": "世界 ESP 选项",
+        "subtitle": "动物、载具、直升机坠毁点。",
+        "desc": "动物 ESP、以文字或血条显示的生命值、载具 ESP 以及直升机坠毁点标记。",
+        "bullets": [
+          "动物 ESP",
+          "载具 ESP",
+          "直升机坠毁点"
+        ],
+        "tags": [
+          "世界",
+          "载具",
+          "直升机坠毁点"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-4"
+      },
+      {
+        "title": "物品 ESP 选项",
+        "subtitle": "品质与战斗模式。",
+        "desc": "物品品质、以文字或血条显示的品质、战斗模式以及仅在悬停时显示。",
+        "bullets": [
+          "物品品质",
+          "战斗模式",
+          "仅在悬停时显示"
+        ],
+        "tags": [
+          "物品",
+          "品质"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-4"
+      },
+      {
+        "title": "其他选项",
+        "subtitle": "穿墙、永昼、草皮、准星。",
+        "desc": "穿墙、永昼、本地坐标、第三人称解锁、去除草皮以及准星。",
+        "bullets": [
+          "穿墙与永昼",
+          "第三人称解锁",
+          "无草皮与准星"
+        ],
+        "tags": [
+          "杂项",
+          "准星"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-6"
+      },
+      {
+        "title": "配置选项",
+        "subtitle": "帧率限制、语言、保存与加载。",
+        "desc": "限制帧率、选择中英文菜单语言、保存配置以及加载配置。",
+        "bullets": [
+          "限制帧率",
+          "英文或中文菜单",
+          "保存与加载配置"
+        ],
+        "tags": [
+          "配置",
+          "帧率"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-6"
+      }
+    ]
+  },
+  "whyUs": {
+    "eyebrow": "为什么选择我们",
+    "title": "以实际补丁而非空洞承诺为支撑的优质辅助工具",
+    "subtitle": "单个作弊产品、单个 HWID spoofer 以及单个 UGC 恢复工作区ace。作弊与 UGC 具备 $35 monthly 或 $150 lifetime 特性；硬件模拟器售价 50 美元 monthly 或 $150 lifetime。在 BattlEye 机制下仍存在封号可能。",
+    "usLabel": "DayZ cheats",
+    "otherLabel": "典型服务商",
+    "rows": [
+      {
+        "title": "补丁日 loader 更新",
+        "desc": "在打开 loader 之前，请先在 DayZ 或 BattlEye 更新后查看 dayz-cheats.org。"
+      },
+      {
+        "title": "独立自瞄滑块",
+        "desc": "FOV、自瞄距离、忽略目标和骨骼均为独立的 aimbot 设置。请逐一修改，然后使用“保存配置”。"
+      },
+      {
+        "title": "Loader 与配置协助",
+        "desc": "安装相关问题涵盖 Windows loader、已保存的配置，以及对应硬件标记与账号封禁的正确产品选择。"
+      },
+      {
+        "title": "独立产品结账",
+        "desc": "作弊端、HWID spoofer 和 UGC 恢复均独立结账。购买作弊端不会Lifetime附带硬件模拟器。"
+      },
+      {
+        "title": "已保存的配置",
+        "desc": "通过“保存配置”与“加载配置”可在下次启动时保留 aimbot、ESP、杂项及菜单语言设置。"
+      },
+      {
+        "title": "HWID 作为独立产品提供",
+        "desc": "新账号频繁受限的机器需要使用硬件模拟器。仅限账号本身的限制则属于 UGC 情况。以上两者均未包含在作弊密匙中。"
+      }
+    ],
+    "metrics": [
+      {
+        "value": "BattlEye",
+        "title": "补丁发布后进行检查",
+        "desc": "在启动前，请在 DayZ 或 BattlEye 更新后重新检查本站。"
+      },
+      {
+        "value": "2",
+        "title": "每个页面提供两种方案",
+        "desc": "作弊端与 UGC monthly 的 $35 周期为 31 天。硬件模拟器 monthly 售价为 50 美元。Lifetime 为每个产品 $150。不提供周卡。"
+      },
+      {
+        "value": "3",
+        "title": "独立产品",
+        "desc": "DayZ cheats、HWID spoofer 以及 UGC 恢复。每一项都拥有独立的密匙。"
+      }
+    ]
+  },
+  "setup": {
+    "eyebrow": "安装指南",
+    "titleLead": "从下单到进入第一台服务器只需",
+    "titleHighlight": "简单三步",
+    "intro": "只需完成下单，访问门户 loader，然后保存配置即可。在启动 DayZ 之前，请在 BattlEye 更新后查看网站状态。",
+    "ctaPrimary": "查看产品",
+    "ctaSecondary": "安装常见问题",
+    "ctaPrimaryHref": "/products/dayz-cheats/",
+    "ctaSecondaryHref": "/faq/",
+    "statusStrip": {
+      "aceStatusCta": "检查 BattlEye 状态",
+      "aceStatusHref": "/status/",
+      "perks": [
+        {
+          "icon": "instantDelivery",
+          "label": "即时交付"
+        },
+        {
+          "icon": "support247",
+          "label": "24/7 客服支持"
+        },
+        {
+          "icon": "refresh",
+          "label": "Lifetime 更新"
+        }
+      ]
+    },
+    "steps": [
+      {
+        "step": "第一步",
+        "title": "解锁门户并下载 loader",
+        "desc": "完成结账，打开你的控制面板，并获取适用于 Windows 的最新补丁 loader 构建。"
+      },
+      {
+        "step": "第二步",
+        "title": "启动并配置模块",
+        "desc": "运行 loader，然后逐组设置 aimbot、玩家 ESP、感染者 ESP、世界 ESP、物品 ESP 以及其他杂项选项。"
+      },
+      {
+        "step": "第三步",
+        "title": "检查状态，然后启动",
+        "desc": "确认当前客户端与网站版本一致，然后使用你保存的配置打开 DayZ。"
+      }
+    ]
+  },
+  "compatibility": {
+    "eyebrow": "平台支持",
+    "title": "完美适配你的电脑。",
+    "subtitle": "在 DayZ 或 BattlEye 更新后，启动前请务必查看网站状态。",
+    "items": [
+      "Windows 10 & 11",
+      "Intel 或 AMD",
+      "HVCI 已开启",
+      "核心隔离已开启",
+      "TPM 已开启",
+      "Secure boot 已开启",
+      "支持 Discord",
+      "配置保存"
+    ]
+  },
+  "cheats": {
+    "eyebrow": "游戏作弊",
+    "title": "DayZ Cheats",
+    "subtitle": "Aimbot、玩家 ESP、感染者 ESP、世界 ESP、物品 ESP 以及配置。",
+    "viewAll": "查看详情",
+    "explore": "探索",
+    "items": [
+      {
+        "badge": "可用",
+        "tier": "完整套件",
+        "name": "DayZ",
+        "title": "DayZ Cheats",
+        "desc": "适用于 Steam 的 DayZ Cheats——aimbot、玩家 ESP、感染者 ESP、世界 ESP、物品 ESP 以及配置。",
+        "features": [
+          "Aimbot 选项",
+          "玩家 ESP 选项",
+          "感染者 ESP 选项",
+          "世界 ESP 选项",
+          "物品 ESP 选项",
+          "杂项选项",
+          "配置选项"
+        ],
+        "more": 0,
+        "href": "/products/dayz-cheats/dayz-cheats/",
+        "variant": "popular"
+      }
+    ]
+  },
+  "products": {
+    "eyebrow": "产品",
+    "title": "产品与定价",
+    "subtitle": "DayZ Cheats 和 UGC：$35/mo 或 $150 lifetime。HWID spoofer：$50/mo 或 $150 lifetime。",
+    "viewAll": "查看详情",
+    "get": "立即购买",
+    "explore": "探索",
+    "items": [
+      {
+        "badge": "可用",
+        "category": "HWID spoofer",
+        "title": "HWID Spoofer",
+        "subtitle": "硬件码恢复",
+        "desc": "带有清理功能的 HWID spoofer——在遇到硬件封禁后重新启动前，轮换磁盘、MAC 和 GPU ID。",
+        "features": [
+          "硬件伪装器 + 清理工具",
+          "兼容性扫描",
+          "验证步骤",
+          "门户工作流"
+        ],
+        "more": 4,
+        "href": "/products/dayz-cheats/hwid-spoofer/"
+      },
+      {
+        "badge": "可用",
+        "category": "UGC Account recovery",
+        "title": "UGC Account recovery",
+        "subtitle": "申诉与恢复",
+        "desc": "UGC Account recovery 工作区ace——自定义申诉工作流、模板和限制跟踪。",
+        "features": [
+          "自定义申诉工作流",
+          "多平台配置文件",
+          "模板库",
+          "状态仪表盘"
+        ],
+        "more": 4,
+        "href": "/products/dayz-cheats/ugc/"
+      }
+    ]
+  },
+  "blog": {
+    "eyebrow": "博客",
+    "title": "指南与更新",
+    "subtitle": "关于 Windows PC 上 DayZ 的安装说明、aimbot 与 ESP 指南以及价格答疑。",
+    "latestTitle": "关于自瞄、ESP、物资、菜单及 BattlEye 的 DayZ 指南",
+    "latestSubtitle": "关于 Steam loader 菜单、套餐价格、HWID 标记以及 BattlEye 封禁风险的发布说明。",
+    "filterAll": "所有文章",
+    "sortLabel": "排序方式",
+    "sortNewest": "最新优先",
+    "sortOldest": "最早优先",
+    "sortShortRead": "阅读时间最短",
+    "sortLongRead": "阅读时间最长",
+    "emptyFilter": "没有符合此筛选条件的文章。",
+    "emptyCatalog": "当前视图下没有列出任何指南。请尝试打开主题筛选器或产品页面。",
+    "viewAll": "查看所有文章",
+    "read": "阅读",
+    "items": [],
+    "minRead": "分钟阅读",
+    "filterByTopicAria": "按主题筛选文章",
+    "continueReadingAria": "继续阅读",
+    "tagLabels": {
+      "Review": "评测",
+      "Install": "安装",
+      "Safety": "安全",
+      "Plans": "套餐",
+      "Aim": "自瞄",
+      "ESP": "ESP",
+      "Loot": "物资",
+      "Visuals": "视觉",
+      "Camera": "视角",
+      "Guide": "指南",
+      "Features": "功能",
+      "Setup": "设置"
+    }
+  },
+  "toolkit": {
+    "eyebrow": "软件",
+    "title": "条理清晰，易于配置",
+    "subtitle": "每个模块都经过合理分组，方便你在游戏对局中快速调整，告别繁琐的切换。",
+    "items": [
+      {
+        "num": "01",
+        "label": "Aimbot",
+        "title": "Aimbot 选项",
+        "desc": "切换、FOV、瞄准距离、忽略玩家、僵尸或动物、骨骼、FOV 样式以及目标连线。"
+      },
+      {
+        "num": "02",
+        "label": "玩家",
+        "title": "玩家 ESP 选项",
+        "desc": "启用、好友、方框、实心方框、头部圆点、骨骼、生命值、名称、距离、物品栏、手持物品、traces 以及最大距离。"
+      },
+      {
+        "num": "03",
+        "label": "僵尸",
+        "title": "僵尸 ESP 选项",
+        "desc": "启用僵尸的方框、骨骼、生命值、名称、距离、traces 及最大距离。"
+      },
+      {
+        "num": "04",
+        "label": "世界",
+        "title": "世界 ESP 选项",
+        "desc": "动物 ESP、文本或血条形式的生命值、载具 ESP 以及直升机坠毁点。"
+      },
+      {
+        "num": "05",
+        "label": "物品",
+        "title": "物品 ESP 选项",
+        "desc": "物品品质、文本或血条形式的品质、战斗模式以及仅在悬停时显示。"
+      },
+      {
+        "num": "06",
+        "label": "其他",
+        "title": "杂项选项",
+        "desc": "无碰撞、始终白昼、本地坐标、解锁第三人称、无草皮以及准星。"
+      },
+      {
+        "num": "07",
+        "label": "配置",
+        "title": "配置选项",
+        "desc": "限制帧率、菜单语言（中英文切换）、保存配置以及加载配置。"
+      }
+    ]
+  },
+  "workflow": {
+    "eyebrow": "工作流程",
+    "badge": "4个简单步骤",
+    "titleBefore": "从状态检查到",
+    "titleHighlight": "保存配置文件。",
+    "subtitle": "从状态检查到保存 DayZ 配置的直达路径。",
+    "ctaLabel": "查看产品",
+    "ctaHref": "/products/dayz-cheats/",
+    "ctaSecondary": "设置常见问题",
+    "ctaSecondaryHref": "/faq/",
+    "items": [
+      {
+        "num": "01",
+        "phase": "购买前",
+        "title": "检查 BattlEye 状态",
+        "desc": "在购买或启动之前，请在客户端或 BattlEye 更新后查看 dayz-cheats.org。"
+      },
+      {
+        "num": "02",
+        "phase": "结账",
+        "title": "选择产品",
+        "desc": "DayZ Cheats 或 UGC：$35 monthly 或 $150 lifetime。HWID Spoofer：50美元 monthly 或 $150 lifetime。独立密匙。"
+      },
+      {
+        "num": "03",
+        "phase": "Loader",
+        "title": "启动并配置",
+        "desc": "从门户下载。保持 HVCI、核心隔离、TPM 和 secure boot 处于开启状态。"
+      },
+      {
+        "num": "04",
+        "phase": "游戏中",
+        "title": "保存你的配置文件",
+        "desc": "当准星扩散和 ESP 标签感觉合适时，保存配置。"
+      }
+    ]
+  },
+  "fieldNotes": {
+    "eyebrow": "实战笔记",
+    "title": "专为在 Windows PC 上运行 DayZ 而打造。",
+    "items": [
+      {
+        "num": "01",
+        "title": "补丁日检查",
+        "desc": "在 BattlEye 或客户端更新后查看网站。昨天的横幅不代表当前的版本。"
+      },
+      {
+        "num": "02",
+        "title": "一次调整一个滑块",
+        "desc": "单独更改 FOV、瞄准距离或骨骼，以便明确是哪个设置导致了准星偏转或画面杂乱。"
+      },
+      {
+        "num": "03",
+        "title": "独立产品",
+        "desc": "辅助、HWID spoofer 以及 UGC 恢复是三次结账。在一个产品上的 Lifetime 无法解锁其他产品。"
+      }
+    ]
+  },
+  "support": {
+    "eyebrow": "客服支持",
+    "title": "DayZ 支持",
+    "subtitle": "告诉我们如何为您提供帮助。",
+    "channels": [
+      {
+        "icon": "users",
+        "title": "结账前咨询",
+        "desc": "在付款前咨询有关作弊器、硬件级特征码伪装器或 UGC 的问题。",
+        "linkLabel": "开始结账",
+        "href": "/go/dayz/"
+      },
+      {
+        "icon": "messageCircle",
+        "title": "社区论坛",
+        "desc": "设置、自瞄、ESP 以及关于套餐的问题，带有开发者标记的回复。",
+        "linkLabel": "打开论坛",
+        "href": "/forum/"
+      },
+      {
+        "icon": "navFaq",
+        "title": "阅读常见问题",
+        "desc": "在购买前了解兼容性、封禁情况和设置指南。",
+        "linkLabel": "查看所有常见问题",
+        "href": "/faq/"
+      },
+      {
+        "icon": "clock",
+        "title": "在线客服",
+        "desc": "Discord 工程师 24/7. 轮班值守",
+        "linkLabel": "打开联系页面",
+        "href": "/support/"
+      }
+    ],
+    "ticketTitle": "工单中请包含以下信息",
+    "ticketItems": [
+      {
+        "title": "订单邮箱",
+        "desc": "在 dayz-cheats.org 结账时使用的电子邮箱地址。"
+      },
+      {
+        "title": "操作系统",
+        "desc": "Windows 10 或 11，以及 HVCI、核心隔离、TPM 和 secure boot 是否已开启。"
+      },
+      {
+        "title": "错误详情",
+        "desc": "完整的 loader 错误信息，请勿使用概括性语言。"
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "常见问题",
+    "title": "下单前的直接解答。",
+    "subtitle": "关于兼容性、封号与访问权限，绝不含糊其辞。",
+    "items": [
+      {
+        "id": "status",
+        "topic": "setup",
+        "icon": "faqStatus",
+        "q": "在哪里检查 loader 是否为最新版本？",
+        "a": "在 DayZ 或 BattlEye 更新后查看 dayz-cheats.org。昨天的横幅不代表当前版本。在页面与此客户端匹配之前，请保持 loader 关闭。"
+      },
+      {
+        "id": "season-3",
+        "topic": "setup",
+        "icon": "faqStatus",
+        "q": "1.30 版本已发布。我什么时候可以打开 loader？",
+        "a": "1.30 版本和 Badlands 已于 2026 年 10 月 15 日在 Steam 上线。在该客户端发布后以及每次后续热修后、启动游戏前，请阅读状态页面。旧版本的保存配置不能作为当前状态的检查。封号风险仍然存在。",
+        "aHtml": "1.30 版本和 Badlands 已于 2026 年 10 月 15 日在 Steam 上线。在该客户端发布后以及每次后续热修后、启动游戏前，请阅读 <a href=\"/status/\">状态页面</a>。旧版本的保存配置不能作为当前状态的检查。封号风险仍然存在。"
+      },
+      {
+        "id": "season-2",
+        "topic": "setup",
+        "icon": "faqStatus",
+        "q": "1.30 版本对 loader 菜单做了哪些更改？",
+        "a": "Steam 客户端添加了 Nasdara、Jana 50 和 Enduro、电子密码锁、基地升级小部件以及新的物品栏图标。已发布的 loader 菜单仍然包括 aimbot、玩家 ESP、感染者 ESP、世界 ESP、物品 ESP、其他和配置。新自行车归类在载具 ESP 下。它们不是本页面上的额外开关。",
+        "aHtml": "Steam 客户端添加了 Nasdara、Jana 50 和 Enduro、电子密码锁、基地升级小部件以及新的物品栏图标。已发布的 loader 菜单仍然包括 aimbot、玩家 ESP、感染者 ESP、世界 ESP、物品 ESP、其他和配置。新自行车归类在载具 ESP 下。它们不是本页面上的额外开关。<a href=\"/status/\">状态页面</a>是在您启动前需要阅读的说明。"
+      },
+      {
+        "id": "after-buy",
+        "topic": "setup",
+        "icon": "faqAfterBuy",
+        "q": "购买后会发生什么？",
+        "a": "结账后将打开带有您购买产品的 loader 的门户网站。调整好配置后请保存。HVCI、内核隔离、TPM 和 secure boot 需保持开启。"
+      },
+      {
+        "id": "ban-risk",
+        "topic": "safety",
+        "icon": "faqBanRisk",
+        "q": "我会被封号吗？",
+        "a": "会。BattlEye 可能会对账号采取行动。本网站上的任何内容都无法保证游戏会话绝对干净。"
+      },
+      {
+        "id": "hwid-ban-risk",
+        "topic": "safety",
+        "icon": "faqBanRisk",
+        "q": "什么是 HWID 标记，辅助热键能修复它吗？",
+        "a": "硬件标记与 PC 关联。新账号在该机器上可能会失败，但在另一台机器上可以正常使用。这就是单独出售的 <a href=\"/products/dayz-cheats/hwid-spoofer/\">HWID Spoofer</a>。它无法撤销仅针对账号的限制，并且 <a href=\"/products/dayz-cheats/dayz-cheats/\">DayZ Cheats</a> 上的 lifetime 不包含此项。"
+      },
+      {
+        "id": "platforms",
+        "topic": "setup",
+        "icon": "faqPlatforms",
+        "q": "支持哪些 PC？",
+        "a": "Intel 或 AMD 平台上的 Windows 10 或 11，同时需开启 HVCI、内核隔离、TPM 和 secure boot。不支持 macOS 和 Linux。"
+      },
+      {
+        "id": "license-move",
+        "topic": "products",
+        "icon": "faqLicenseMove",
+        "q": "我可以将密钥转移到另一个 PC 吗？",
+        "a": "请通过订单邮箱联系客服。无法创建新账号的机器需要购买 HWID Spoofer，而不是免费转移辅助密钥。"
+      },
+      {
+        "id": "products-page",
+        "topic": "products",
+        "icon": "faqProductsPage",
+        "q": "有哪些商品出售？",
+        "a": "<a href=\"/products/dayz-cheats/dayz-cheats/\">DayZ Cheats</a>、<a href=\"/products/dayz-cheats/hwid-spoofer/\">HWID Spoofer</a> 以及 <a href=\"/products/dayz-cheats/ugc/\">UGC Account recovery</a> 列在 <a href=\"/products/dayz-cheats/\">产品页面</a>上。辅助和 UGC 的期限为 31 天或 $150 lifetime。伪装工具（Spoofer）的价格为 31 天 50 美元或 $150 lifetime。它们是三个独立的结账项。"
+      },
+      {
+        "id": "plans-same-price",
+        "topic": "plans",
+        "icon": "faqComparePlans",
+        "q": "$150 lifetime 包含伪装工具（Spoofer）吗？",
+        "a": "不包含。DayZ Cheats 上的 Lifetime 仅适用于该产品本身。HWID spoofer 和 UGC 恢复是独立的密钥，拥有各自的 monthly 和 lifetime 价格。monthly 起步不承诺可用于抵扣 lifetime 的额度。",
+        "scopes": [
+          "dayz-cheats",
+          "hwid-spoofer",
+          "ugc"
+        ]
+      },
+      {
+        "id": "aim-vs-camera",
+        "topic": "esp",
+        "icon": "faqWhatIsEsp",
+        "q": "可自定义的 FOV 改变了什么？",
+        "a": "它设置了瞄准锥形的宽度。该控件位于 Aimbot 选项下。FOV 样式仅改变锥形是绘制为实心还是渐变。",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "esp-clutter",
+        "topic": "esp",
+        "icon": "faqWhatIsEsp",
+        "q": "为什么玩家 ESP 会挡住战斗画面？",
+        "a": "玩家 ESP 选项包括方框、填充方框、头部圆点、骨骼、血条、名称、距离、物品栏、手中物品和 traces。请关闭您不需要阅读的标签，或者调低最大距离。",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "not-dma",
+        "topic": "scripts",
+        "icon": "faqExternalLoader",
+        "q": "这是一个 DMA 卡吗？",
+        "a": "不是。DayZ Cheats 是结账时获得的 Windows loader。DMA 设备是不同的产品，并非此密钥所提供的内容。请勿运行从搜索结果中获取的文件。",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "ugc-scope",
+        "topic": "products",
+        "icon": "faqProductsPage",
+        "q": "UGC Account recovery 的作用是什么？",
+        "a": "<a href=\"/products/dayz-cheats/ugc/\">UGC Account recovery</a> 是一个申诉工作区ace：包含模板、证据列表和跟进功能。它不保证能解除封号，也不是 HWID spoofer。",
+        "scopes": [
+          "ugc"
+        ]
+      },
+      {
+        "id": "spoofer-scope",
+        "topic": "products",
+        "icon": "faqProductsPage",
+        "q": "什么时候购买 HWID spoofer 是正确的选择？",
+        "a": "当新账号在一个 PC 上失败而在另一个上正常时，请使用 <a href=\"/products/dayz-cheats/hwid-spoofer/\">HWID Spoofer</a>。它无法修复仅针对账号的限制。这种情况下请购买 <a href=\"/products/dayz-cheats/ugc/\">UGC Account recovery</a>。",
+        "scopes": [
+          "hwid-spoofer"
+        ]
+      },
+      {
+        "id": "stickiness-vs-smooth",
+        "topic": "scripts",
+        "icon": "faqExternalLoader",
+        "q": "修改菜单后在哪里保存？",
+        "a": "配置选项中包含保存配置和加载配置。限制帧率和菜单语言（英语或中文）也在同一组中。",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "visible-check",
+        "topic": "scripts",
+        "icon": "faqWhatIsEsp",
+        "q": "aimbot 可以跳过感染者或动物吗？",
+        "a": "Aimbot 选项下的忽略功能可以跳过玩家、感染者、动物或这些的组合。骨骼部位随后可选择最近、头部、颈部或骨盆。",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "ignore-knocked",
+        "topic": "esp",
+        "icon": "faqWhatIsEsp",
+        "q": "骨骼设置可以选择什么？",
+        "a": "Aimbot 选项下的骨骼部位为最近、头部、颈部或骨盆。",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "bone-and-filter",
+        "topic": "scripts",
+        "icon": "faqExternalLoader",
+        "q": "世界 ESP 选项中包含什么？",
+        "a": "动物 ESP、文本或血条形式的生命值、载具 ESP 以及直升机坠毁点。",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "controller-binds",
+        "topic": "setup",
+        "icon": "faqPlatforms",
+        "q": "菜单包含手柄绑定吗？",
+        "a": "不包含。Aimbot 选项包括开关、FOV、瞄准距离、忽略、骨骼、FOV 样式以及指向目标的连线。",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "squad-read",
+        "topic": "esp",
+        "icon": "faqWhatIsEsp",
+        "q": "如何在不显示所有标签的情况下标记玩家？",
+        "a": "玩家 ESP 选项可以使用角框或全框、头部圆点、骨骼、名称和距离。好友是单独的开关。物品栏和手中物品为可选项。",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "loot-price-floor",
+        "topic": "esp",
+        "icon": "faqWhatIsEsp",
+        "q": "物品标签是如何工作的？",
+        "a": "物品 ESP 选项包含物品品质、文本或血条形式的品质、战斗模式以及仅在悬停时显示。",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "scale-and-crosshair",
+        "topic": "scripts",
+        "icon": "faqExternalLoader",
+        "q": "准星和第三人称开关在哪里？",
+        "a": "其他选项包括准星和第三人称解锁，外加无碰撞、永昼、本地位置和无草皮。",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "combat-mode",
+        "topic": "scripts",
+        "icon": "faqExternalLoader",
+        "q": "战斗模式会关闭 aimbot 吗？",
+        "a": "战斗模式位于物品 ESP 选项下，紧邻“仅在悬停时显示”。开关 Aimbot 是 Aimbot 选项下的一个独立开关。",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "encryption-bypass",
+        "topic": "setup",
+        "icon": "faqStatus",
+        "q": "其他选项中包含什么？",
+        "a": "无碰撞、永昼、本地位置、第三人称解锁、无草皮和准星。",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "blog-default-1",
+        "topic": "blog",
+        "icon": "faqBlogDefault1",
+        "q": "博客指南是官方产品文档吗？",
+        "a": "文章解释了工作流程并链接到 DayZ Cheats。该页面上的功能列表是结账时的唯一依据。",
+        "aHtml": "文章解释了工作流程并链接到 <a href=\"/products/dayz-cheats/dayz-cheats/\">DayZ Cheats</a>。该页面上的功能列表是结账时的唯一依据。"
+      },
+      {
+        "id": "blog-default-2",
+        "topic": "blog",
+        "icon": "faqBlogDefault2",
+        "q": "应用本指南需要帮助？",
+        "a": "请提供您的订单邮箱和文章标题联系客服。如果出现错误，请附上准确的 loader 文本。"
+      },
+      {
+        "id": "blog-default-3",
+        "topic": "blog",
+        "icon": "faqBlogDefault3",
+        "q": "本文章中的设置在下一个补丁中还能用吗？",
+        "a": "每次 DayZ 或 BattlEye 更新后请重新检查。建议重新加载保存的配置，而不是从文章中复制旧的滑块数值。"
+      },
+      {
+        "id": "blog-plan-start",
+        "topic": "plans",
+        "icon": "faqComparePlans",
+        "q": "我应该从哪个方案开始？",
+        "a": "如果您想在一次性付款前试用某个产品，请从 31 天密钥开始。DayZ Cheats 和 UGC 的期限为 31 天或 $150 lifetime。HWID spoofer 的价格为 31 天 50 美元或 $150 lifetime。购买 31 天不包含抵扣 lifetime 的额度，并且某个产品的 lifetime 密钥不包含其他产品。"
+      },
+      {
+        "id": "blog-plan-upgrade",
+        "topic": "plans",
+        "icon": "faqLicenseMove",
+        "q": "我可以将 31 天密钥升级到 lifetime 吗？",
+        "a": "没有自动升级。Lifetime 是同一产品上的独立结账项。您之前支付的 $35 或 50 美元不能用于抵扣 $150 lifetime 的价格。"
+      },
+      {
+        "id": "blog-plan-expire",
+        "topic": "plans",
+        "icon": "faqAfterBuy",
+        "q": "方案过期后会发生什么？",
+        "a": "31 天密钥在该期限结束时会停止使用。请购买另一个 31 天密钥或该产品的 lifetime 密钥以保持访问权限。Lifetime 不会自动续费。过期的密钥不会转移到其他产品。"
+      },
+      {
+        "id": "blog-plan-status",
+        "topic": "plans",
+        "icon": "faqStatus",
+        "q": "在哪里检查当前的 loader 状态？",
+        "a": "启动前请阅读状态页面。已更新意味着说明已被刷新。这不代表保证游戏会话绝对干净。",
+        "aHtml": "启动前请阅读 <a href=\"/status/\">状态页面</a>。已更新意味着说明已被刷新。这不代表保证游戏会话绝对干净。"
+      },
+      {
+        "id": "blog-plan-windows",
+        "topic": "plans",
+        "icon": "faqPlatforms",
+        "q": "支持哪些 Windows 版本？",
+        "a": "Intel 或 AMD 平台上的 Windows 10 或 11，同时需开启 HVCI、内核隔离、TPM 和 secure boot。不支持 macOS 和 Linux。"
+      },
+      {
+        "id": "blog-plan-support",
+        "topic": "plans",
+        "icon": "faqBlogDefault2",
+        "q": "客服和退款政策是如何运作的？",
+        "a": "请提供您的订单邮箱联系客服。一旦结账完成，销售即告最终确认。改变主意、账号封号以及在状态页面非最新时启动游戏均不予退款。只有在我们确认存在我们这边的故障时，才会提供修复或退款。相关规则请参见条款。",
+        "aHtml": "请使用您的订单邮箱联系 <a href=\"/support/\">客服</a>。一旦结账完成，销售即告最终确认。改变主意、账号封号以及在状态页面非最新时启动游戏均不予退款。只有在我们确认存在我们这边的故障时，才会提供修复或退款。相关规则请参见 <a href=\"/terms/\">条款</a>。"
+      }
+    ],
+    "filterTopics": {
+      "all": "全部",
+      "plans": "订阅方案",
+      "esp": "地图透视 / ESP",
+      "scripts": "脚本",
+      "safety": "安全保障",
+      "products": "产品",
+      "blog": "博客",
+      "setup": "安装配置"
+    }
+  },
+  "footer": {
+    "tagline": "DayZ Cheats、HWID spoofer以及用于Windows PC的UGC恢复。dayz-cheats.org",
+    "explore": "探索",
+    "exploreLinks": [
+      {
+        "href": "/products/dayz-cheats/dayz-cheats/#features",
+        "label": "功能概览",
+        "ariaLabel": "功能"
+      },
+      {
+        "href": "/products/dayz-cheats/dayz-cheats/",
+        "label": "DayZ Cheats",
+        "ariaLabel": "DayZ Cheats"
+      },
+      {
+        "href": "/products/dayz-cheats/",
+        "label": "所有产品",
+        "ariaLabel": "产品"
+      },
+      {
+        "href": "/blog/",
+        "label": "阅读更新指南",
+        "ariaLabel": "博客"
+      },
+      {
+        "href": "/faq/",
+        "label": "购买前常见问题",
+        "ariaLabel": "常见问题"
+      }
+    ],
+    "support": "支持",
+    "legal": "法律条款",
+    "moreSites": "更多站点",
+    "privacy": "隐私政策",
+    "terms": "条款与条件",
+    "about": "关于我们",
+    "resourceLinks": [
+      {
+        "label": "博客归档",
+        "ariaLabel": "博客"
+      },
+      {
+        "label": "DayZ Cheats",
+        "ariaLabel": "DayZ Cheats"
+      },
+      {
+        "label": "产品与实用工具",
+        "ariaLabel": "产品"
+      }
+    ]
+  },
+  "legalPages": {
+    "about": {
+      "title": "关于此 DayZ 商店：门户交付、定价与风险",
+      "description": "dayz-cheats.org 出售 DayZ Cheats、HWID spoofer 以及用于 Windows PC 的 UGC account recovery，并提供安装说明和真实的封号风险提示。",
+      "sections": [
+        {
+          "heading": "关于我们",
+          "paragraphs": [
+            "dayz-cheats.org 是一个面向 DayZ Cheats、HWID spoofer 和 UGC account recovery 的 Windows PC 商店。辅助工具为一个整体产品：aimbot、玩家 ESP、感染者 ESP、世界 ESP、物品 ESP、杂项及配置。它不分 Lite、Pro 或 Elite 档位，也不是 DMA 卡密。",
+            "DayZ Cheats 与 UGC 在 $35 结账，支持 31 天或 $150 lifetime。HWID spoofer 价格为 50 美元/31 天或 $150 lifetime。辅助工具附带的 lifetime 密钥不包含硬件串号修改器（spoofer）或恢复工作区ace。按月购买不承诺可折抵兑换 lifetime。",
+            "本站上的产品名称仅用于标明我们所售商品，并不代表游戏官方背书本软件。交付方式为通过门户下载，适用于 Windows 10 或 11。您需保持 HVCI、核心隔离、TPM 和 secure boot 开启，并且仅在网站显示版本仍与当前客户端匹配时，方可打开 loader。"
+          ]
+        },
+        {
+          "heading": "我们发布的内容",
+          "paragraphs": [
+            "[DayZ Cheats](/products/dayz-cheats/dayz-cheats/)) 页面列出了菜单名称以及 Windows 要求：Windows 10 或 11、Intel 或 AMD 处理器，并保持 HVCI、核心隔离、TPM 和 secure boot 开启。[产品页面](/products/dayz-cheats/)) 是您对比辅助工具、[HWID Spoofer](/products/dayz-cheats/hwid-spoofer/),) 和 [UGC Account recovery](/products/dayz-cheats/ugc/).) 的地方。",
+            "[博客](/blog/)) 上的指南解释了 loader 菜单，以及为什么硬件标记与账号申诉是两码事。[论坛](/forum/)) 用于解答这些相同的问题，帖子中附有开发者的回复。结账前请阅读[条款](/terms/))。所有销售均一概不退，包括封号情况。",
+            "BattlEye 随时可能对账号采取行动。本站内容无法保证在下次补丁更新后会话依然不会触发封禁。客户端更新后，请先查看本站，确认无误再打开 loader。如果该页面的版本与当前版本不符，请勿运行软件。",
+            "主页上的状态说明描述了发布的版本是否仍与客户端匹配。这并不代表 BattlEye 就会放任该软件不管。如果您不确定，请保持 loader 关闭，并在再次排队前阅读博客中对应的指南。"
+          ]
+        },
+        {
+          "heading": "支持",
+          "paragraphs": [
+            "Loader 错误、无法激活的密钥以及结账相关问题请通过[支持页面](/support/).)反馈。请附上订单邮箱、Windows 版本以及具体的 loader 文本。请勿听信其他游戏聊天中的建议而关闭 HVCI、核心隔离、TPM 或 secure boot。"
+          ]
+        }
+      ]
+    },
+    "privacy": {
+      "title": "隐私政策",
+      "description": "dayz-cheats.org 如何处理分析数据、Cookie 以及联系方式数据。",
+      "sections": [
+        {
+          "heading": "我们收集的信息",
+          "paragraphs": [
+            "在启用 Google Analytics 的情况下，我们可能会收集标准的网络分析数据，例如页面浏览量、设备类型、浏览器以及大致地区。结账和许可证交付在第三方结账页面上进行。我们不会在 dayz-cheats.org 上存储支付卡数据。"
+          ]
+        },
+        {
+          "heading": "我们如何使用数据",
+          "paragraphs": [
+            "分析数据可帮助我们了解哪些指南和产品页面真正有用，以便我们改进内容并修复失效链接。支持工单可能会保留您提供的电子邮件地址和消息内容，直到问题解决为止。"
+          ]
+        },
+        {
+          "heading": "Cookie",
+          "paragraphs": [
+            "我们仅使用分析所需的最小限度 Cookie。您可以在浏览器设置中拦截 Cookie；核心网站内容在没有 Cookie 的情况下依然可以访问。"
+          ]
+        },
+        {
+          "heading": "支持",
+          "paragraphs": [
+            "如有隐私相关问题，请使用“支持”页面上的选项。购买和退款规则请参阅我们的条款与条件。"
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "title": "服务条款",
+      "description": "在 dayz-cheats.org 上所售产品的购买、授权、退款及使用条款。",
+      "sections": [
+        {
+          "heading": "协议",
+          "paragraphs": [
+            "最后更新时间：2026年10月。使用 dayz-cheats.org 或完成本站任意产品的结账，即表示您同意本服务条款及我们的隐私政策。"
+          ]
+        },
+        {
+          "heading": "您购买的内容",
+          "paragraphs": [
+            "我们出售 DayZ Cheats、HWID spoofer 以及 UGC account recovery。辅助和 UGC 的 $35 为 31 天或 $150 lifetime；硬件伪装器价格为 31 天 50 美元或 $150 lifetime。每个产品均通过 Windows PC 上的门户网站独立授权。",
+            "各产品页面的功能列表描述了购买时包含的内容。当 DayZ 或 BattlEye 更新时，模块可能会有所更改。lifetime 辅助密钥不包含硬件伪装器或 UGC。"
+          ]
+        },
+        {
+          "heading": "结账与交付",
+          "paragraphs": [
+            "支付和授权交付在外部结账页面上进行。dayz-cheats.org 不处理或存储支付卡号。",
+            "购买后，请使用订单中的门户网站下载当前的 loader，然后再启动 DayZ。请保持 HVCI、内核隔离、TPM 以及 secure boot 处于开启状态。"
+          ]
+        },
+        {
+          "heading": "授权使用",
+          "paragraphs": [
+            "授权仅供您个人使用。请勿共享 loader 文件、门户登录信息或授权密钥。硬件 ID 问题需要单独购买 HWID Spoofer。"
+          ]
+        },
+        {
+          "heading": "退款与购买",
+          "paragraphs": [
+            "结账完成后，所有销售均为最终结果。我们不退款处理“改变主意”的购买、封号、BattlEye 惩罚，或是因忽略设置说明、或在版本未更新时启动而导致的问题。",
+            "如果产品在支持的系统上（启用了 HVCI、内核隔离、TPM 和 secure boot 的 Windows 10 或 11，且使用了门户网站提供的当前 loader）未能按描述运行，请通过“支持”页面联系我们。请附上您的订单邮箱、Windows 版本以及准确的 loader 文本。",
+            "当我们确认系我方出现故障时，我们可能会自行决定提供修复、ace 替换访问权限或部分 /full 退款。我们没有义务批准每一项请求。"
+          ]
+        },
+        {
+          "heading": "可用性与风险",
+          "paragraphs": [
+            "用于 DayZ 的第三方工具可能会与游戏更新及 BattlEye 产生冲突。您使用本软件需自行承担风险，包括可能面临账号处理。",
+            "每次游戏前请查看主页状态栏。在补丁更新后模块离线或未对齐时，请勿加入您的主服务器。"
+          ]
+        },
+        {
+          "heading": "变更",
+          "paragraphs": [
+            "我们可能会更新这些条款。更新时，顶部的“最后更新”日期将会更改。在条款变更后继续使用本网站，即表示您接受修订后的条款。"
+          ]
+        },
+        {
+          "heading": "支持",
+          "paragraphs": [
+            "有关条款、账单或 loader 的问题，请使用“支持”页面上的按钮。另请参阅我们的隐私政策，了解我们如何处理网站数据。"
+          ]
+        }
+      ]
+    },
+    "support": {
+      "title": "DayZ 支持",
+      "description": "关于 dayz-cheats.org 的 Loader、HWID spoofer、UGC 和结账帮助。"
+    }
+  },
+  "productCatalog": {
+    "searchHeading": "浏览产品与方案",
+    "utilityCategory": "辅助工具",
+    "buyLoader": "购买 loader",
+    "buyHwidSpoofer": "购买 HWID spoofer",
+    "buyUgcRecovery": "购买 UGC 找回服务"
+  },
+  "utilitiesPage": {
+    "title": "对比辅助工具",
+    "subtitle": "HWID Spoofer 和 UGC Account recovery 解决不同的问题。在结账前，请为你的 PC 或账号选择最合适的工具。",
+    "breadcrumb": "对比辅助工具",
+    "tableAria": "辅助工具对比",
+    "columnUtility": "工具",
+    "columnBestFor": "适用场景",
+    "columnProductPage": "产品页面",
+    "includesLabel": "包含：",
+    "backToProducts": "返回产品列表",
+    "viewCategory": "查看 {category}",
+    "viewDetailsFallback": "详情",
+    "schemaName": "对比 DayZ 辅助工具",
+    "useCases": {
+      "hwid-spoofer": "封禁后的全新 PC 或硬件标识——在创建新账号前重置你的机器特征。",
+      "ugc": "当访问受限时，提供结构化的申诉与账号恢复流程。"
+    }
+  },
+  "sectionSearch": {
+    "blogHeading": "按主题筛选指南",
+    "supportHeading": "浏览帮助主题"
+  },
+  "ui": {
+    "skipLink": "跳转至主要内容",
+    "browseCheats": "立即体验",
+    "browseCheatsMobile": "开始结算",
+    "homeAria": "DayZ Cheats 首页",
+    "checkoutAria": "开始结算",
+    "discordAria": "购买 DayZ Cheats",
+    "menuOpen": "打开菜单",
+    "menuClose": "关闭菜单",
+    "themeLight": "切换至浅色模式",
+    "themeDark": "切换至深色模式",
+    "searchPlaceholder": "搜索产品、指南、常见问题…",
+    "searchEmpty": "输入关键词以搜索本站。",
+    "searchNoResults": "未找到结果，请尝试其他关键词。",
+    "searchCloseAria": "关闭搜索",
+    "searchTitle": "搜索",
+    "searchOpenAria": "搜索本站",
+    "contactSupport": "联系客服",
+    "searchResultsAria": "搜索结果",
+    "searchHintNavigate": "导航",
+    "searchHintOpen": "打开",
+    "searchHintClose": "关闭",
+    "searchKeyboardEnter": "回车",
+    "searchKeyboardEsc": "Esc",
+    "primaryNavAria": "主导航",
+    "mobileNavAria": "移动端导航",
+    "shareNavAria": "分享此页面",
+    "shareOnX": "分享到 X",
+    "shareOnFacebook": "分享到 Facebook",
+    "shareOnReddit": "分享到 Reddit",
+    "prevImage": "上一张图片",
+    "nextImage": "下一张图片",
+    "heroSlidesAria": "焦点轮播",
+    "slideLabel": "幻灯片 {n}",
+    "prevScreenshot": "上一张截图",
+    "nextScreenshot": "下一张截图",
+    "loading": "加载中"
+  },
+  "language": {
+    "label": "语言",
+    "selectAria": "选择网站语言"
+  },
+  "exploreSection": {
+    "eyebrow": "探索",
+    "title": "站内所有内容，只需点击",
+    "titleAccent": "一下",
+    "subtitle": "无需在菜单中翻找，直接跳转至产品、补丁说明、指南与帮助。",
+    "badgeProduct": "产品",
+    "badgeActive": "活跃",
+    "cards": {
+      "cheats": {
+        "title": "DayZ cheats",
+        "desc": "Aimbot、玩家ESP、世界ESP、物品ESP与配置。"
+      },
+      "spoofer": {
+        "title": "HWID Spoofer",
+        "desc": "在机器被标记后进行硬件配置文件轮换。"
+      },
+      "ugc": {
+        "title": "UGC Account Recovery",
+        "desc": "针对被封锁的游戏账号的申诉工单ace。"
+      },
+      "plans": {
+        "title": "订阅方案",
+        "desc": "在各产品卡片上对比monthly与lifetime。"
+      },
+      "features": {
+        "title": "功能",
+        "desc": "DayZ Cheats页面上的loader菜单。"
+      },
+      "status": {
+        "title": "状态",
+        "desc": "补丁说明与BattlEye更新提醒。"
+      },
+      "faq": {
+        "title": "常见问题",
+        "desc": "方案、设置、BattlEye风险与产品。"
+      },
+      "support": {
+        "title": "支持",
+        "desc": "Loader、结账与门户帮助。"
+      },
+      "blog": {
+        "title": "博客",
+        "desc": "瞄准、ESP与补丁日指南。"
+      },
+      "forum": {
+        "title": "论坛",
+        "desc": "附带标记开发者回复的讨论串。"
+      }
+    }
+  },
+  "pricing": {
+    "checkout": "结账",
+    "purchaseOption": "购买选项",
+    "selectSubscription": "选择订阅",
+    "bestValue": "超值推荐",
+    "savePrefix": "省",
+    "total": "总计",
+    "buyNow": "立即购买",
+    "oneMonth": "1 Month",
+    "lifetime": "Lifetime",
+    "mostPopular": "最受欢迎",
+    "plusMore": "+N 更多",
+    "monthlySuffix": " monthly",
+    "lifetimeSuffix": " lifetime",
+    "monthlyPlanNote": "31 天使用权限 · 结账时续费",
+    "lifetimePlanNote": "一次性付费 · 不自动续费",
+    "plansSameFeaturesNote": "两种方案功能完全相同——仅使用时长不同。",
+    "selectPlanAria": "选择方案时长"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "页面未找到",
+    "description": "该链接不存在或已被移动。请返回首页或浏览其他产品。",
+    "metaDescription": "您请求的页面在 dayz-cheats.org 上未找到。",
+    "metaTitleSuffix": "页面未找到",
+    "backHome": "返回首页",
+    "viewProducts": "查看产品",
+    "openForum": "打开论坛"
+  },
+  "status": {
+    "eyebrow": "更新日志",
+    "title": "DayZ 模块状态",
+    "subtitle": "每次 BattlEye 或客户端更新后，请在启动前确认。",
+    "pageDesc": "1.30 版本与 Badlands 于 2026 年 10 月 15 日在 Steam 上线。每次 BattlEye 或客户端变动后，请在启动前重新查看此页面。“已更新”并不代表永不封禁或绝对不出问题。",
+    "breadcrumb": "状态",
+    "aceReminderLabel": "BattlEye 提醒",
+    "aceReminder": "每次 BattlEye 更新后，请在启动前检查此页面。",
+    "recentTitle": "近期更新",
+    "activeLinePrefix": "最后检查",
+    "activeLineActive": "运行中",
+    "activeLineUpdated": "已于 {date} 更新",
+    "storeLineup": "商城阵容",
+    "latestLabel": "最新",
+    "updates": [
+      {
+        "id": "update-130",
+        "title": "1.30 版本与 Badlands 已登陆 Steam 客户端",
+        "when": "2026年10月15日",
+        "summary": "1.30 版本与 Badlands 资料片于 2026 年 10 月 15 日在 Steam 推出。客户端新增了纳斯达拉沙漠、亚纳 50 和耐力摩托车、电子密码锁、基地升级小部件以及大量物品栏图标调整。这些都是游戏本身的变动，并非新的 loader 开关。在此客户端之前保存的配置已不再适用。请在启动前阅读本页面及门户网站。"
+      },
+      {
+        "id": "battleye-130",
+        "title": "关于 1.30 的 BattlEye 说明",
+        "when": "2026年10月15日",
+        "summary": "公开记录显示游戏进行了更深入的 BattlEye 端追踪，包括与 Nitrado 的合作，但未公布具体方法。后续报告显示该客户端之后出现了封禁潮。本页面并未说明此 loader 是否被检测或漏过，也没有解释如何规避检查。封禁依然是有可能的。请保持 loader 关闭，直到此说明与你即将开启的内部构建版本匹配。"
+      },
+      {
+        "id": "report-player",
+        "title": "死亡画面举报功能尚未正式实装",
+        "when": "2026年10月15日",
+        "summary": "公开记录显示死亡界面上的“举报玩家”功能仍在开发中，包括限制虚假举报的相关工作。这并不是一个可以用来规划游戏局势的按钮，本页面也不会将其视为绕过检测的话题。"
+      },
+      {
+        "id": "after-130",
+        "title": "1.30 之后的内容",
+        "when": "2026年11月5日",
+        "summary": "1.31 版本暂无公开日期。1.30 的热修补丁随时可能上线，每一次更新都是重新查看此页面的理由。原生 PS5 客户端是 2027 年讨论的独立构建版本。此密钥适用于 Windows 上的 Steam loader，而非主机客户端。"
+      },
+      {
+        "id": "updated-label",
+        "title": "“已更新”并不代表免封承诺",
+        "when": "2026年11月5日",
+        "summary": "“已更新”标签意味着本条说明已刷新。这并不代表 loader 绝对不会被检测，也不意味着在下一次 BattlEye 或游戏更新后服务器一定不会出现封禁。"
+      },
+      {
+        "id": "plans",
+        "title": "各方案独立显示在各自卡片上",
+        "when": "2026年11月5日",
+        "summary": "loader 和 UGC monthly 价格为 $35。HWID spoofer monthly 价格为 $50。Lifetime 在每个卡片上均显示为 $150。某个产品的 lifetime 密钥不包含其他产品。"
+      }
+    ]
+  },
+  "forum": {
+    "eyebrow": "社区",
+    "title": "论坛：DayZ 社区配置与计划",
+    "subtitle": "本论坛涵盖配置、自瞄、ESP以及计划相关问题。开发者回复会在每个主题中标记。",
+    "breadcrumb": "论坛",
+    "postsAria": "社区帖子",
+    "sortAria": "帖子排序",
+    "searchPlaceholder": "搜索讨论",
+    "searchAria": "搜索讨论",
+    "voteAria": "讨论投票",
+    "fromGuide": "来自指南：",
+    "comments": "条评论",
+    "readDiscussion": "阅读讨论",
+    "readGuide": "阅读指南",
+    "basedOn": "基于：",
+    "paginationAria": "讨论分页",
+    "previousPage": "上一页",
+    "nextPage": "下一页",
+    "exploreGuides": "探索指南",
+    "sortPopular": "热门",
+    "sortLatest": "最新",
+    "sortTop": "最多讨论",
+    "filterAria": "按主题筛选讨论",
+    "allTopics": "所有主题",
+    "discussionOne": "条讨论",
+    "discussionMany": "条讨论",
+    "emptyFilter": "没有找到匹配的讨论。请尝试其他搜索词或主题。",
+    "previous": "上一页",
+    "next": "下一页",
+    "sidebarAboutTitle": "论坛：DayZ 社区",
+    "sidebarAboutCopy": "关于作弊程序、HWID spoofer以及UGC恢复的问题。开发者回复将保留在主题中。",
+    "sidebarTopics": "主题",
+    "sidebarExploreGuides": "探索所有指南",
+    "sidebarCommunities": "社区",
+    "sidebarBrowseQa": "浏览相关帖子",
+    "sidebarBrowseAll": "浏览所有社区",
+    "sidebarGuidelines": "社区准则",
+    "guideline1": "保持友好与建设性",
+    "guideline2": "切合主题并补充背景信息",
+    "guideline3": "标注剧透及敏感内容",
+    "sidebarReadGuidelines": "阅读完整准则",
+    "sidebarFootAbout": "关于 · 准则 · 隐私 · 条款",
+    "upvoteAria": "为这个讨论点赞",
+    "downvoteUnavailable": "无法进行踩操作",
+    "showingRange": "显示第 {from}–{to} 条，共 {total} 条",
+    "zeroDiscussions": "0 个讨论",
+    "developerFlair": "开发人员",
+    "points": "积分",
+    "previewDiscussion": "预览讨论",
+    "postingUnavailable": "此处无法发帖和投票",
+    "commentsTitle": "评论",
+    "commentsSubtitle": "开发人员回复带有标记",
+    "detailInTopic": "在此主题中",
+    "detailBrowse": "浏览讨论",
+    "detailMoreTitle": "更多讨论",
+    "detailViewAll": "查看所有讨论",
+    "colThread": "主题",
+    "colReplies": "回复",
+    "colVotes": "投票",
+    "colLastReply": "最后回复",
+    "closedThread": "已关闭的主题"
+  },
+  "readingTools": {
+    "copyLink": "复制链接",
+    "backToTop": "返回顶部",
+    "copied": "已复制",
+    "minutesLeft": "剩余 {n} 分钟",
+    "minuteLeft": "剩余 1 分钟"
+  },
+  "blogArticle": {
+    "viewProducts": "查看商品",
+    "moreArticles": "更多文章",
+    "imagePlaceholder": "图片占ace位符",
+    "breadcrumbBlog": "博客"
+  },
+  "breadcrumbs": {
+    "home": "首页",
+    "products": "商品",
+    "blog": "博客",
+    "forum": "论坛",
+    "faq": "常见问题",
+    "status": "状态"
+  },
+  "faqPage": {
+    "eyebrow": "帮助中心",
+    "title": "辅助、商品与指南常见问题",
+    "subtitle": "方案、自瞄与 ESP 选项、HWID spoofer、UGC 恢复，以及 BattlEye 更新后需要检查的内容。",
+    "schemaName": "常见问题 — DayZ Cheats 与商品",
+    "schemaDescription": "关于 DayZ Cheats、HWID spoofer、UGC 恢复、BattlEye 风险以及 dayz-cheats.org 结算的解答。"
+  },
+  "siteFaqSection": {
+    "allTopicsEyebrow": "所有主题",
+    "allTopicsTitle": "按分类浏览",
+    "allTopicsSubtitle": "方案、透视、loader、硬件掩码器、UGC 以及安装设置。",
+    "contextualEyebrow": "常见问题",
+    "contextualTitle": "关于本页面的疑问",
+    "contextualSubtitle": "与您当前阅读内容相关的解答——如需了解所有主题，请访问常见问题页面。"
+  },
+  "catalog": {
+    "viewDetails": "查看详情",
+    "buyNow": "立即购买",
+    "mostPopular": "最受欢迎",
+    "popular": "热门",
+    "plusMore": "+{count} 更多",
+    "monthlySuffix": " monthly",
+    "lifetimeSuffix": " lifetime",
+    "monthlyPlanNote": "31天使用权限 · 结算时可续费",
+    "lifetimePlanNote": "买断制 · 无需续费",
+    "plansSameFeaturesNote": "两种方案功能完全相同——仅使用时长不同。",
+    "selectPlanAria": "选择套餐时长",
+    "utilityLabel": "实用工具",
+    "experienceEyebrow": "使用体验",
+    "inTheClient": "客户端内 · 购买后生效",
+    "experienceSubtitle": "请参考上方 {name} 的截图——下方详细说明了每个图层的含义以及购买后的访问方式。",
+    "utilityExperienceSubtitle": "请参考上方 {name} 的截图——每个预览都解释了硬件工作流的一部分以及购买后的访问方式。",
+    "inGameLayers": "游戏内图层",
+    "utilityPreviewLayers": "产品预览",
+    "layerLabel": "图层 {label}",
+    "previewLabel": "预览",
+    "accessLabel": "访问权限"
+  },
+  "productUi": {
+    "detailsAria": "产品详情",
+    "overview": "概览",
+    "systemRequirements": "系统要求",
+    "goodToKnow": "小贴士",
+    "limitations": "重要限制",
+    "completeFeatureList": "完整功能列表",
+    "includedCapabilities": "包含的功能",
+    "totalFeatures": "共计 {count} 项",
+    "popularBadge": "热门",
+    "limitedBadge": "限量",
+    "gameBadge": "DayZ",
+    "platformBadge": "Windows PC",
+    "systemReqPanel": {
+      "title": "系统要求",
+      "security": [
+        "HVCI 开启",
+        "核心隔离开启",
+        "TPM 开启",
+        "SECURE BOOT 开启"
+      ],
+      "operatingSystemLabel": "操作系统",
+      "operatingSystemValue": "支持 Windows 10 和 11",
+      "cloudDmaTitle": "云 DMA",
+      "cloudDmaDesc": "本产品不包含云 DMA。此密钥为结账时获得的 Windows loader，并非 DMA 卡或云 DMA 服务。",
+      "cloudDmaNote": "配置选项支持保存配置和加载配置。此菜单中没有 DMA 服务。"
+    }
+  },
+  "comparePlans": {
+    "eyebrow": "对比",
+    "title": "对比所有方案",
+    "subtitle": "详细对比各个层级包含的内容。",
+    "tableAria": "对比所有方案",
+    "featureColumn": "功能",
+    "included": "包含",
+    "notIncluded": "不包含"
+  },
+  "whyCompare": {
+    "tableAria": "DayZ Cheats 与常规提供商的对比",
+    "featureColumn": "功能",
+    "metricsAria": "平台指标",
+    "statusDeliveryAria": "实时状态与交付"
+  },
+  "searchResultTypes": {
+    "product": "产品",
+    "blog": "博客",
+    "forum": "论坛",
+    "faq": "常见问题",
+    "status": "状态",
+    "support": "支持",
+    "page": "页面"
+  },
+  "blogSidebar": {
+    "ariaLabel": "文章侧边栏",
+    "inThisArticle": "本文目录",
+    "relatedGuides": "相关指南",
+    "ourProducts": "我们的产品",
+    "productCheats": "DayZ Cheats",
+    "allProducts": "全部产品",
+    "hwidSpoofer": "HWID Spoofer",
+    "ugcRecovery": "UGC Account recovery",
+    "tocAria": "目录",
+    "allArticles": "所有文章",
+    "statusHeading": "Loader 状态",
+    "viewStatusPage": "完整状态页面",
+    "recentChanges": "最近更改",
+    "getAlertsDiscord": "获取 Discord 的提醒",
+    "planFinderTitle": "寻找方案",
+    "planFinderStep1": "您需要多长时间的访问权限？",
+    "planFinderOptWeeks": "几周",
+    "planFinderOptQuarter": "大约 3 个月",
+    "planFinderOptLong": "长期",
+    "planFinderRecommendMonthly": "Monthly",
+    "planFinderRecommendQuarter": "3 个月",
+    "planFinderQuarterNote": "结账时每 31 天密匙 $35 — 续费约 90 天",
+    "planFinderRecommendLifetime": "Lifetime",
+    "planFinderCheckout": "前往结账",
+    "planFinderChange": "更改回答",
+    "planFinderMonthlyNote": "31 天 · 在结账时选择 1 Month",
+    "planFinderLifetimeNote": "一次性支付 · 无需续费",
+    "tocFallbackLabel": "文章开头",
+    "priceEstimatorTitle": "价格预估",
+    "priceEstimatorHint": "点击期限，总计会自动累加。",
+    "priceEstimator30d": "31天",
+    "priceEstimatorLifetime": "永久",
+    "priceEstimatorOff": "折扣",
+    "priceEstimatorTotal": "预估总计",
+    "priceEstimatorProducts": "产品",
+    "priceEstimatorNote": "仅供预估。请在各自的卡片上购买对应产品。",
+    "utilityGuides": "硬件防封与 UGC",
+    "moreGuides": "更多指南"
+  }
+}

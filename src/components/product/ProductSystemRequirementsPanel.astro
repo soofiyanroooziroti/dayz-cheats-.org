@@ -1,0 +1,61 @@
+---
+import { getLocaleFromAstro, getTranslations } from '../../i18n';
+import Icon from '../icons/Icon.astro';
+
+const locale = getLocaleFromAstro(Astro);
+const t = getTranslations(locale);
+const panel = (t.productUi as { systemReqPanel?: SystemReqPanel }).systemReqPanel;
+
+interface SystemReqPanel {
+  title: string;
+  security: string[];
+  operatingSystemLabel: string;
+  operatingSystemValue: string;
+  cloudDmaTitle: string;
+  cloudDmaDesc: string;
+  cloudDmaNote: string;
+}
+
+if (!panel) {
+  return null;
+}
+---
+
+<section
+  class="product-sys-req border-y border-border bg-muted/15 py-10 md:py-14"
+  aria-labelledby="product-sys-req-title"
+>
+  <div class="mx-auto max-w-6xl px-5">
+    <h2 id="product-sys-req-title" class="product-sys-req__title">{panel.title}</h2>
+
+    <div class="product-sys-req__os product-sys-req__os--bar mt-6">
+      <Icon name="circleCheck" size={20} class="shrink-0 text-primary" aria-hidden="true" />
+      <div class="product-sys-req__os-row min-w-0">
+        <p class="product-sys-req__os-label">{panel.operatingSystemLabel}</p>
+        <p class="product-sys-req__os-value">{panel.operatingSystemValue}</p>
+      </div>
+    </div>
+
+    <ul class="product-sys-req__security mt-3 grid gap-3 sm:grid-cols-2 lg:grid-cols-4" role="list">
+      {
+        panel.security.map((label) => (
+          <li class="product-sys-req__pill">
+            <Icon name="circleCheck" size={18} class="shrink-0 text-emerald-400" aria-hidden="true" />
+            <span>{label}</span>
+          </li>
+        ))
+      }
+    </ul>
+
+    <div class="product-sys-req__cloud mt-4">
+      <div class="product-sys-req__cloud-icon" aria-hidden="true">
+        <Icon name="cloud" size={22} class="text-primary" />
+      </div>
+      <div class="product-sys-req__cloud-copy min-w-0 flex-1">
+        <p class="font-semibold text-foreground">{panel.cloudDmaTitle}</p>
+        <p class="mt-1 text-sm leading-relaxed text-muted-foreground">{panel.cloudDmaDesc}</p>
+        <p class="mt-2 text-xs text-muted-foreground">{panel.cloudDmaNote}</p>
+      </div>
+    </div>
+  </div>
+</section>

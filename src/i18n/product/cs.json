@@ -1,0 +1,256 @@
+{
+  "steps": [
+    {
+      "title": "Kontrola stavu",
+      "desc": "Před nákupem ověřte, že jsou moduly online na dayz-cheats.org —espejmě po aktualizaci DayZ nebo BattlEye."
+    },
+    {
+      "title": "Výběr plánu",
+      "desc": "Zvolte monthly (P31D) nebo lifetime (P99Y) — stejné ceny USD u každého produktu v nabídce."
+    },
+    {
+      "title": "Zabezpečená platba",
+      "desc": "Dokončete platbu z produktové karty. Vaše licence se odemkne v portálu s okamžitým doručením."
+    },
+    {
+      "title": "Instalace a ověření",
+      "desc": "Postupujte podle návodu k nastavení, načtěte konzervativní předvolbu a otestujte v nenáročném režimu před ostrou hrou."
+    }
+  ],
+  "howToGet": "Jak získat {name}",
+  "cheats": {
+    "groupNames": [
+      "Aimbot Options",
+      "Player ESP Options",
+      "Infected ESP Options",
+      "World ESP Options",
+      "Item ESP Options",
+      "Miscellaneous Options",
+      "Config Options"
+    ],
+    "descs": [
+      "Turns aim assist on or off.",
+      "Sets how wide the aim cone is.",
+      "Sets how far the assist will search.",
+      "Skip players, infected, animals, or a mix of those.",
+      "Nearest, head, neck, or pelvis.",
+      "Draw the cone as a solid or a gradient.",
+      "Draw the line to the target as a solid or a gradient.",
+      "Turns player ESP on or off.",
+      "Marks players you have set as friends.",
+      "Corner box or full box.",
+      "Fill the box as a solid or a gradient.",
+      "Dot on the head.",
+      "Bone lines on the player.",
+      "Bar for remaining health.",
+      "Player name on the label.",
+      "Distance to the player.",
+      "Inventory readout on the player.",
+      "Shows the item the player is holding.",
+      "Trace lines for player ESP.",
+      "Hides player ESP past the range you set.",
+      "Turns infected ESP on or off.",
+      "Corner box or full box on infected.",
+      "Fill the box as a solid or a gradient.",
+      "Dot on the head.",
+      "Bone lines on the infected.",
+      "Bar for remaining health.",
+      "Infected name on the label.",
+      "Distance to the infected.",
+      "Trace lines for infected ESP.",
+      "Hides infected ESP past the range you set.",
+      "Marks animals in the world.",
+      "Health as text or as a bar.",
+      "Marks vehicles in the world.",
+      "Marks helicrash sites.",
+      "Shows item quality on loot.",
+      "Quality as text or as a bar.",
+      "Battle mode for the item overlay.",
+      "Item labels appear when you hover.",
+      "No-clip movement toggle.",
+      "Forces daytime lighting.",
+      "Shows your local position.",
+      "Unlocks third person.",
+      "Removes grass.",
+      "Overlay crosshair.",
+      "Caps frames per second.",
+      "Menu language: English or Chinese.",
+      "Saves the current menu layout.",
+      "Loads a saved menu layout."
+    ],
+    "slides": [
+      {
+        "alt": "Player ESP menu screenshot",
+        "caption": "Player ESP Options",
+        "captionDesc": "Box, skeleton, health bar, name, distance, inventory, and the other toggles in that group."
+      },
+      {
+        "alt": "World ESP menu screenshot",
+        "caption": "World ESP Options",
+        "captionDesc": "Animal ESP, health as text or a bar, vehicle ESP, and helicrash."
+      },
+      {
+        "alt": "Aimbot menu screenshot",
+        "caption": "Aimbot Options",
+        "captionDesc": "Toggle, FOV, aim distance, ignore, bone, FOV style, and a line to the target."
+      },
+      {
+        "alt": "Miscellaneous and config menu screenshot",
+        "caption": "Miscellaneous and config",
+        "captionDesc": "No clip, always day, crosshair, limit FPS, save config, and load config."
+      }
+    ],
+    "overview": {
+      "title": "Built for DayZ on Steam",
+      "paragraphs": [
+        "DayZ Cheats uses the loader menu below: aimbot, player ESP, infected ESP, world ESP, item ESP, miscellaneous, and config. Updates ship while your key is active, with Discord help for setup.",
+        "Always check availability on dayz-cheats.org before you launch, especially after a BattlEye or Steam client patch."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Modules included"
+      },
+      {
+        "type": "p",
+        "text": "Steam loader with the aimbot, player, infected, world, item, miscellaneous, and config groups listed on this page. Names match the menu."
+      },
+      {
+        "type": "h2",
+        "text": "Plans"
+      },
+      {
+        "type": "p",
+        "text": "Monthly $35 USD (P31D) or lifetime $150 USD (P99Y). Instant digital delivery worldwide after checkout."
+      }
+    ],
+    "goodToKnow": "DayZ and BattlEye update often. Confirm availability on dayz-cheats.org before you launch. Overlay behavior may differ in menus or spectator views after patches.",
+    "limitations": "Third-party software can violate game terms and lead to bans. You use this software at your own risk. Compatibility can change after game, BattlEye, or Windows updates without notice.",
+    "requirements": [
+      "Windows 10/11",
+      "Intel/AMD",
+      "Steam client (Steam Only build)"
+    ]
+  },
+  "spoofer": {
+    "slides": [
+      {
+        "alt": "HWID spoofer na Windows PC",
+        "caption": "HWID spoofer",
+        "captionDesc": "Nástroje pro hardwarový otisk před opětovným spuštěním."
+      },
+      {
+        "alt": "Rotace hardwarového otisku Phoenix Satano HWID spoofer na Windows PC",
+        "caption": "Deska Phoenix",
+        "captionDesc": "Rotace ID disku, MAC a GPU."
+      },
+      {
+        "alt": "Značení spooferu Phoenix WH-Satano na Windows PC",
+        "caption": "Phoenix WH",
+        "captionDesc": "Pracovní prostředí spooferu ace používané v každém obchodě."
+      }
+    ],
+    "overview": {
+      "title": "Pracovní postup obnovy HWID",
+      "paragraphs": [
+        "HWID Spoofer se zaměřuje na rotaci hardwarového profilu, když potřebujete čistý kontext stroje před opětovným spuštěním DayZ po hardwarovém příznaku.",
+        "Plány Monthly a lifetime USD využívají stejný proces pokladny jako zbytek nabídky."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Kdy jej použít"
+      },
+      {
+        "type": "p",
+        "text": "Použijte, když nové účty selhávají na jednom PC, ale jinde fungují – neplatí pro zákazy týkající se pouze účtu. Po ověření spárujte s konzervativními předvolbami cheatů."
+      },
+      {
+        "type": "h2",
+        "text": "Plány"
+      },
+      {
+        "type": "p",
+        "text": "Monthly $50 USD (P31D) nebo lifetime $150 USD (P99Y)."
+      }
+    ],
+    "goodToKnow": "Nástroje HWID mění to, jak se zobrazuje otisk vašeho PC – samy o sobě neodstraňují zákazy účtu. Před opětovným spuštěním DayZ postupujte podle průvodců na portálu.",
+    "limitations": "Spoofing s sebou nese technické riziko a může porušovat podmínky hry. Výsledky se liší podle typu zákazu a nastavení ovladačů. Používejte pouze na systémech, které vlastníte.",
+    "requirements": [
+      "Windows 10 nebo 11 64-bit s oprávněním správce.",
+      "Před spuštěním hardwarových nástrojů vytvořte bod obnovení.",
+      "Stabilní internet pro kroky aktivace a ověření."
+    ],
+    "features": [
+      "Hardwarový spoofer s čističem",
+      "Rotace sériového čísla disku a MAC",
+      "Nástroje pro profil ID GPU",
+      "Kontrola kompatibility",
+      "Ověřovací kontrolní seznam",
+      "Pracovní postup krok za krokem na portálu",
+      "Podpora nastavení Discord"
+    ]
+  },
+  "ugc": {
+    "slides": [
+      {
+        "alt": "Ukázka pracovního prostoru UGC account recovery na Windows PC",
+        "caption": "Obnova účtu",
+        "captionDesc": "Odvolací pracovní prostor ace sdílený napříč obchody."
+      },
+      {
+        "alt": "Knihovna šablon odvolání UGC na Windows PC",
+        "caption": "Šablony odvolání",
+        "captionDesc": "Strukturované cesty a texty pro spory o ban."
+      },
+      {
+        "alt": "Řídicí panel sledování případů UGC na Windows PC",
+        "caption": "Sledování případů",
+        "captionDesc": "Seznamy důkazů a připomenutí následných kroků na jednom místě ace."
+      }
+    ],
+    "overview": {
+      "title": "Pracovní prostor UGC Account recovery",
+      "paragraphs": [
+        "UGC Account recovery pomáhá organizovat odvolání proti banům a případy obnovy pomocí šablon, seznamů důkazů a připomenutí následných kroků.",
+        "Okamžité digitální doručení po zabezpečené platbě s podporou Discord pro otázky ohledně nastavení."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Odvolací postupy"
+      },
+      {
+        "type": "p",
+        "text": "Vytvářejte vlastní odvolací cesty, automatizujte kroky sporů a sledujte stav případu, když jsou herní účty uzamčeny nebo omezeny."
+      },
+      {
+        "type": "h2",
+        "text": "Plány"
+      },
+      {
+        "type": "p",
+        "text": "Monthly $35 USD (P31D) nebo lifetime $150 USD (P99Y)."
+      }
+    ],
+    "goodToKnow": "Před otevřením tiketu si připravte e-mail s objednávkou, podrobnosti o účtu a snímky obrazovky s omezením. UGC strukturuje odvolání – obcházení kontroly platformy nezajišťuje.",
+    "limitations": "UGC nezaručuje obnovení účtu. Výsledky se liší podle typu případu a zásad platformy.",
+    "requirements": [
+      "Windows 10 nebo 11 (64-bit).",
+      "Přístup k internetu pro synchronizaci pracovních postupů a aktualizace.",
+      "Administrátorský přístup pro instalaci."
+    ],
+    "features": [
+      "Vlastní odvolací postupy",
+      "Pracovní prostor pro obnovu napříč platformami ace",
+      "Knihovna šablon",
+      "Automatizace opakujících se kroků",
+      "Řídicí panel sledování omezení",
+      "Doručení přes zabezpečený portál",
+      "Plány Monthly a lifetime USD"
+    ]
+  }
+}

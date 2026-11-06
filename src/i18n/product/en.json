@@ -1,0 +1,256 @@
+{
+  "steps": [
+    {
+      "title": "Check status",
+      "desc": "Confirm modules are online on dayz-cheats.org before you buy—especially after a DayZ or BattlEye update."
+    },
+    {
+      "title": "Pick a plan",
+      "desc": "Choose monthly (P31D) or lifetime (P99Y)—same USD pricing on every product in the lineup."
+    },
+    {
+      "title": "Secure checkout",
+      "desc": "Complete checkout from the product card. Your license unlocks in the portal with instant delivery."
+    },
+    {
+      "title": "Install & verify",
+      "desc": "Follow the setup guide, load a conservative preset, and test on a low-pop server before you main your config."
+    }
+  ],
+  "howToGet": "How to get {name}",
+  "cheats": {
+    "groupNames": [
+      "Aimbot Options",
+      "Player ESP Options",
+      "Infected ESP Options",
+      "World ESP Options",
+      "Item ESP Options",
+      "Miscellaneous Options",
+      "Config Options"
+    ],
+    "descs": [
+      "Turns aim assist on or off.",
+      "Sets how wide the aim cone is.",
+      "Sets how far the assist will search.",
+      "Skip players, infected, animals, or a mix of those.",
+      "Nearest, head, neck, or pelvis.",
+      "Draw the cone as a solid or a gradient.",
+      "Draw the line to the target as a solid or a gradient.",
+      "Turns player ESP on or off.",
+      "Marks players you have set as friends.",
+      "Corner box or full box.",
+      "Fill the box as a solid or a gradient.",
+      "Dot on the head.",
+      "Bone lines on the player.",
+      "Bar for remaining health.",
+      "Player name on the label.",
+      "Distance to the player.",
+      "Inventory readout on the player.",
+      "Shows the item the player is holding.",
+      "Trace lines for player ESP.",
+      "Hides player ESP past the range you set.",
+      "Turns infected ESP on or off.",
+      "Corner box or full box on infected.",
+      "Fill the box as a solid or a gradient.",
+      "Dot on the head.",
+      "Bone lines on the infected.",
+      "Bar for remaining health.",
+      "Infected name on the label.",
+      "Distance to the infected.",
+      "Trace lines for infected ESP.",
+      "Hides infected ESP past the range you set.",
+      "Marks animals in the world.",
+      "Health as text or as a bar.",
+      "Marks vehicles in the world.",
+      "Marks helicrash sites.",
+      "Shows item quality on loot.",
+      "Quality as text or as a bar.",
+      "Battle mode for the item overlay.",
+      "Item labels appear when you hover.",
+      "No-clip movement toggle.",
+      "Forces daytime lighting.",
+      "Shows your local position.",
+      "Unlocks third person.",
+      "Removes grass.",
+      "Overlay crosshair.",
+      "Caps frames per second.",
+      "Menu language: English or Chinese.",
+      "Saves the current menu layout.",
+      "Loads a saved menu layout."
+    ],
+    "slides": [
+      {
+        "alt": "Player ESP menu screenshot",
+        "caption": "Player ESP Options",
+        "captionDesc": "Box, skeleton, health bar, name, distance, inventory, and the other toggles in that group."
+      },
+      {
+        "alt": "World ESP menu screenshot",
+        "caption": "World ESP Options",
+        "captionDesc": "Animal ESP, health as text or a bar, vehicle ESP, and helicrash."
+      },
+      {
+        "alt": "Aimbot menu screenshot",
+        "caption": "Aimbot Options",
+        "captionDesc": "Toggle, FOV, aim distance, ignore, bone, FOV style, and a line to the target."
+      },
+      {
+        "alt": "Miscellaneous and config menu screenshot",
+        "caption": "Miscellaneous and config",
+        "captionDesc": "No clip, always day, crosshair, limit FPS, save config, and load config."
+      }
+    ],
+    "overview": {
+      "title": "Built for DayZ on Steam",
+      "paragraphs": [
+        "DayZ Cheats uses the loader menu below: aimbot, player ESP, infected ESP, world ESP, item ESP, miscellaneous, and config. Updates ship while your key is active, with Discord help for setup.",
+        "Always check availability on dayz-cheats.org before you launch, especially after a BattlEye or Steam client patch."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Modules included"
+      },
+      {
+        "type": "p",
+        "text": "Steam loader with the aimbot, player, infected, world, item, miscellaneous, and config groups listed on this page. Names match the menu."
+      },
+      {
+        "type": "h2",
+        "text": "Plans"
+      },
+      {
+        "type": "p",
+        "text": "Monthly $35 USD (P31D) or lifetime $150 USD (P99Y). Instant digital delivery worldwide after checkout."
+      }
+    ],
+    "goodToKnow": "DayZ and BattlEye update often. Confirm availability on dayz-cheats.org before you launch. Overlay behavior may differ in menus or spectator views after patches.",
+    "limitations": "Third-party software can violate game terms and lead to bans. You use this software at your own risk. Compatibility can change after game, BattlEye, or Windows updates without notice.",
+    "requirements": [
+      "Windows 10/11",
+      "Intel/AMD",
+      "Steam client (Steam Only build)"
+    ]
+  },
+  "spoofer": {
+    "slides": [
+      {
+        "alt": "HWID spoofer on Windows PC",
+        "caption": "HWID spoofer",
+        "captionDesc": "Hardware fingerprint tools before you relaunch."
+      },
+      {
+        "alt": "Phoenix Satano HWID spoofer hardware fingerprint rotation on Windows PC",
+        "caption": "Phoenix board",
+        "captionDesc": "Disk, MAC, and GPU ID rotation."
+      },
+      {
+        "alt": "Phoenix WH-Satano spoofer branding on Windows PC",
+        "caption": "Phoenix WH",
+        "captionDesc": "Spoofer workspace used on every store."
+      }
+    ],
+    "overview": {
+      "title": "HWID recovery workflow",
+      "paragraphs": [
+        "HWID Spoofer focuses on hardware profile rotation when you need a clean machine context before relaunching DayZ after a hardware flag.",
+        "Monthly and lifetime USD plans use the same checkout flow as the rest of the lineup."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "When to use it"
+      },
+      {
+        "type": "p",
+        "text": "Use when fresh accounts fail on one PC but work elsewhere—not for account-only bans. Pair with conservative cheat presets after verification."
+      },
+      {
+        "type": "h2",
+        "text": "Plans"
+      },
+      {
+        "type": "p",
+        "text": "Monthly $50 USD (P31D) or lifetime $150 USD (P99Y)."
+      }
+    ],
+    "goodToKnow": "HWID tools change how your PC fingerprint appears—they do not remove account bans by themselves. Follow portal guides before launching DayZ again.",
+    "limitations": "Spoofing carries technical risk and may violate game terms. Results vary by ban type and driver setup. Use only on systems you own.",
+    "requirements": [
+      "Windows 10 or 11 64-bit with administrator rights.",
+      "Create a restore point before running hardware tools.",
+      "Stable internet for activation and verification steps."
+    ],
+    "features": [
+      "Hardware spoofer with cleaner",
+      "Disk serial and MAC rotation",
+      "GPU ID profile tools",
+      "Compatibility scan",
+      "Verification checklist",
+      "Portal step-by-step workflow",
+      "Discord setup support"
+    ]
+  },
+  "ugc": {
+    "slides": [
+      {
+        "alt": "UGC account recovery workspace preview on Windows PC",
+        "caption": "Account recovery",
+        "captionDesc": "Appeal workspace shared across stores."
+      },
+      {
+        "alt": "UGC appeal template library on Windows PC",
+        "caption": "Appeal templates",
+        "captionDesc": "Structured paths and copy for ban disputes."
+      },
+      {
+        "alt": "UGC case tracking dashboard on Windows PC",
+        "caption": "Case tracking",
+        "captionDesc": "Evidence lists and follow-up reminders in one place."
+      }
+    ],
+    "overview": {
+      "title": "UGC Account recovery workspace",
+      "paragraphs": [
+        "UGC Account recovery helps organize ban appeals and recovery cases with templates, evidence lists, and follow-up reminders.",
+        "Instant digital delivery after secure checkout, with Discord support for setup questions."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Appeal workflows"
+      },
+      {
+        "type": "p",
+        "text": "Build custom appeal paths, automate dispute steps, and track case status when gaming accounts are locked or restricted."
+      },
+      {
+        "type": "h2",
+        "text": "Plans"
+      },
+      {
+        "type": "p",
+        "text": "Monthly $35 USD (P31D) or lifetime $150 USD (P99Y)."
+      }
+    ],
+    "goodToKnow": "Gather order email, account details, and restriction screenshots before opening a ticket. UGC structures appeals—it does not bypass platform review.",
+    "limitations": "UGC does not guarantee account restoration. Results vary by case type and platform policy.",
+    "requirements": [
+      "Windows 10 or 11 (64-bit).",
+      "Internet access for workflow sync and updates.",
+      "Administrator access for installation."
+    ],
+    "features": [
+      "Custom appeal workflows",
+      "Multi-platform recovery workspace",
+      "Template library",
+      "Automation for repetitive steps",
+      "Restriction tracking dashboard",
+      "Secure portal delivery",
+      "Monthly and lifetime USD plans"
+    ]
+  }
+}

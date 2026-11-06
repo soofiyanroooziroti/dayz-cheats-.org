@@ -1,0 +1,108 @@
+{
+  "site": {
+    "title": "DayZ Cheats | Aimbot, ESP & BattlEye Protection",
+    "description": "DayZ Cheats for Steam on Windows PC with Aimbot, player ESP, vehicle markers, and radar. Compare the cheat, HWID Spoofer DayZ, and UGC recovery on dayz-cheats.org."
+  },
+  "pages": {
+    "/": {
+      "title": "DayZ Cheats (Windows PC用) | ESP、Aimbot ＆ 価格設定",
+      "description": "Aimbot、プレイヤーESP、感染ESP、ワールドESP、およびアイテムESP (Windows PCのDayZ用)。価格と日付付きのステータス注記。各製品は個別に決済されます。"
+    },
+    "/products/dayz-cheats/": {
+      "title": "Cheats for DayZ | Monthly および Lifetime プラン",
+      "description": "Cheats for DayZ (Steam): 3つの Windows 製品で $35 monthly と $150 lifetime が共有されます。Loader、HWID ツール、およびアカウントの異議申し立ては、個別のチェックアウトとなります。"
+    },
+    "/products/dayz-cheats/dayz-cheats/": {
+      "title": "Steam Loader (Windows PC用) | エイムとレーダー",
+      "description": "Steam loader はエイムアシスト、プレイヤービジュアル、ビークルマーカー、2Dマップ、反動制御ツールを備えています。Monthly は 30 日間 $35 です。Lifetime は $150 です。"
+    },
+    "/products/dayz-cheats/hwid-spoofer/": {
+      "title": "HWID Spoofer ( DayZ Windows ハードウェアフラグ用 )",
+      "description": "HWID spoofer (ハードウェアフラグに対処する DayZ プレイヤー向け)。Windows PC でのプロファイルローテーションとポータル設定。アカウントのみのBANは修正されません。"
+    },
+    "/products/dayz-cheats/ugc/": {
+      "title": "UGC Account Recovery （DayZ PC 上訴事件用）",
+      "description": "UGC account recoveryはDayZのバン異議申し立てと回復事例を整理します。Windows PC上のSteam loaderおよびHWID spooferからライセンスを分離します。"
+    },
+    "/products/dayz-cheats/utilities/": {
+      "title": "HWID ツールとアカウント異議申し立てユーティリティを比較する",
+      "description": "どの Windows ユーティリティがハードウェア フラグに適合し、どれがアカウントの異議申し立てに適合するかを確認します。どちらも DayZ loader からの別々のチェックアウトです。"
+    },
+    "/blog/": {
+      "title": "DayZ PC エイム、ESP、ルート、メニュー、およびBattlEyeのガイド",
+      "description": "Steam loader の aimbot 用ガイド、生存者と感染者 ESP、ビークル、戦利品、チートメニュー、HWID フラグ、および起動前の BattlEye BAN リスク。"
+    },
+    "/blog/best-dayz-cheats-2026/": {
+      "title": "チート – Steam での $35 monthly 対 $150 lifetime",
+      "description": "2026年におけるこのストアの計画：AIの支援、ビジュアル、マップツール、BANのリスク、そしてSteamでの$35 monthly対$150 lifetime。"
+    },
+    "/blog/how-to-download-dayz/": {
+      "title": "DayZ DMA チェックアウトポータルからのセットアップ",
+      "description": "DayZ DMA の検索では、ハードウェアカードが求められることがよくあります。このガイドでは、2番目の PC ではなく、チェックアウト後の Steam ソフトウェア loader について説明しています。"
+    },
+    "/blog/dayz-anti-cheat/": {
+      "title": "BattlEye – DayZ のアンチチート情報と導入前の注意点",
+      "description": "DayZ のライブクライアントにおけるアンチチート状況は BattlEye です。レポートの影響、ハードウェアフラグの違い、そして安全性を保証しない理由をご確認ください。"
+    },
+    "/blog/what-is-an-hwid-spoofer/": {
+      "title": "PC における HWID Spoofer の仕組みと変更点",
+      "description": "ハードウェアフラグはプロファイルだけでなくPC本体に紐づきます。スポーファーが変更する部分と、そのまま残る部分について解説します。"
+    },
+    "/blog/dayz-cheats-pricing/": {
+      "title": "当店の Monthly $35 と Lifetime $150 の比較",
+      "description": "Lifetime: $35 の31日間アクセスと $150 の長期キーを比較。各製品は個別決済です。loader $150 プランにはスポーファーは含まれません。"
+    },
+    "/blog/dayz-aimbot/": {
+      "title": "DayZ Cheats – 画面上のコーンでアシストを視認しやすく",
+      "description": "FOV向けaimbot設定：滑らかな動き、部位選択、可視判定、予測、そして状況を把握しやすいオンスクリーンコーン。"
+    },
+    "/blog/dayz-esp/": {
+      "title": "DayZ Cheats プレイヤー＆ビークル用ESP",
+      "description": "ESPボックス、スケルトン、体力、分隊タグ、車両タイプにより、Steamでの混戦状況をクリアに把握。"
+    },
+    "/blog/dayz-radar/": {
+      "title": "DayZ レーダーマーカーとレンジスケール",
+      "description": "DayZレーダー：歩兵や車両の表示に加え、実際のプレイスタイルに合わせた距離スライダーを搭載。"
+    },
+    "/blog/dayz-no-recoil/": {
+      "title": "反動なし、拡散なし、および明るさの設定",
+      "description": "反動なし、拡散なし、フルブライト、カスタムクロスヘア、およびSteam loader上の保存された設定。これらはいずれもBANのリスクを排除しません。"
+    },
+    "/blog/dayz-season-2/": {
+      "title": "シーズン2 – 10月15日に追加された武器と乗り物",
+      "description": "10月15日のアップデート0.2.0では、武器、乗り物、およびアーマーのリワークが追加されました。シーズン3はエコノミーワイプとともに11月12日に予定されています。"
+    },
+    "/blog/what-an-hwid-spoofer-does/": {
+      "title": "HWID Spoofer – フラグが検出された後のツールの動作",
+      "description": "HWID spoofer: 1つのPCで新しいプロファイルが無効になり別のプロファイルで機能する場合、ハードウェアツールは別の製品です。アカウントのみのペナルティを元に戻すことはできません。"
+    },
+    "/forum/": {
+      "title": "DayZ コミュニティフォーラム: 設定、エイム、プラン",
+      "description": "DayZのloader、エイムとESPオプション、$35 monthlyと$150 lifetimeプラン、BattlEyeパッチ日に関するフォーラムスレッド。開発者の返信にはマークが付いています。"
+    },
+    "/faq/": {
+      "title": "よくある質問 – プラン、設定、購入前のBattlEyeリスク",
+      "description": "チェックアウト、BattlEyeアップデート、WindowsとSteamの要件、ハードウェアフラグ、loader、スプーファー、アカウントツールの違いについての回答。"
+    },
+    "/support/": {
+      "title": "DayZ サポート: Loader、チェックアウト、HWID PC",
+      "description": "DayZツール、HWID spoofer、アカウントの異議申し立てに関するLoader、チェックアウト、ポータルのヘルプ。注文時のメールアドレスと正確なloaderを含めてください。"
+    },
+    "/about/": {
+      "title": "DayZ Cheats ストアについて：ポータル配信、価格、リスク",
+      "description": "dayz-cheats.orgの販売内容、チェックアウトとポータルの仕組み、DayZでWindowsPC向けサードパーティツールを使用する際のBANリスクについて説明します。"
+    },
+    "/privacy/": {
+      "title": "アナリティクス、Cookie、連絡先データのプライバシーポリシー",
+      "description": "dayz-cheats.orgにおけるアナリティクス、Cookie、連絡先データの取り扱いについて。決済カード番号は当ストアではなく決済プロバイダ側で管理されます。"
+    },
+    "/terms/": {
+      "title": "ライセンス規約、返金ポリシー、および利用規約",
+      "description": "dayz-cheats.orgで販売されているloader、HWID spoofer、およびアカウントリカバリに関するライセンス規約、許容される利用方法、返金不可のルールについて。"
+    },
+    "/status/": {
+      "title": "DayZ 稼働状況 & BattlEye パッチノート",
+      "description": "Windows loaderのモジュールおよびポータル更新情報。SteamでDayZを起動する前に、BattlEyeアップデート後のステータスをご確認ください。"
+    }
+  }
+}

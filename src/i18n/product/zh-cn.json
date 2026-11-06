@@ -1,0 +1,256 @@
+{
+  "steps": [
+    {
+      "title": "检查状态",
+      "desc": "在购买前确认 dayz-cheats.org 上的模块处于在线状态——特别是在 DayZ 或 BattlEye 更新之后。"
+    },
+    {
+      "title": "选择方案",
+      "desc": "选择 monthly（P31D）或 lifetime（P99Y）——产品阵容中的所有产品均采用相同的 USD 定价。"
+    },
+    {
+      "title": "安全结账",
+      "desc": "从产品卡片完成结账。您的许可证将在门户中解锁并即时交付。"
+    },
+    {
+      "title": "安装与验证",
+      "desc": "遵循安装指南，加载保守预设，并在排位赛前在低风险模式下进行测试。"
+    }
+  ],
+  "howToGet": "如何获取 {name}",
+  "cheats": {
+    "groupNames": [
+      "Aimbot Options",
+      "Player ESP Options",
+      "Infected ESP Options",
+      "World ESP Options",
+      "Item ESP Options",
+      "Miscellaneous Options",
+      "Config Options"
+    ],
+    "descs": [
+      "Turns aim assist on or off.",
+      "Sets how wide the aim cone is.",
+      "Sets how far the assist will search.",
+      "Skip players, infected, animals, or a mix of those.",
+      "Nearest, head, neck, or pelvis.",
+      "Draw the cone as a solid or a gradient.",
+      "Draw the line to the target as a solid or a gradient.",
+      "Turns player ESP on or off.",
+      "Marks players you have set as friends.",
+      "Corner box or full box.",
+      "Fill the box as a solid or a gradient.",
+      "Dot on the head.",
+      "Bone lines on the player.",
+      "Bar for remaining health.",
+      "Player name on the label.",
+      "Distance to the player.",
+      "Inventory readout on the player.",
+      "Shows the item the player is holding.",
+      "Trace lines for player ESP.",
+      "Hides player ESP past the range you set.",
+      "Turns infected ESP on or off.",
+      "Corner box or full box on infected.",
+      "Fill the box as a solid or a gradient.",
+      "Dot on the head.",
+      "Bone lines on the infected.",
+      "Bar for remaining health.",
+      "Infected name on the label.",
+      "Distance to the infected.",
+      "Trace lines for infected ESP.",
+      "Hides infected ESP past the range you set.",
+      "Marks animals in the world.",
+      "Health as text or as a bar.",
+      "Marks vehicles in the world.",
+      "Marks helicrash sites.",
+      "Shows item quality on loot.",
+      "Quality as text or as a bar.",
+      "Battle mode for the item overlay.",
+      "Item labels appear when you hover.",
+      "No-clip movement toggle.",
+      "Forces daytime lighting.",
+      "Shows your local position.",
+      "Unlocks third person.",
+      "Removes grass.",
+      "Overlay crosshair.",
+      "Caps frames per second.",
+      "Menu language: English or Chinese.",
+      "Saves the current menu layout.",
+      "Loads a saved menu layout."
+    ],
+    "slides": [
+      {
+        "alt": "Player ESP menu screenshot",
+        "caption": "Player ESP Options",
+        "captionDesc": "Box, skeleton, health bar, name, distance, inventory, and the other toggles in that group."
+      },
+      {
+        "alt": "World ESP menu screenshot",
+        "caption": "World ESP Options",
+        "captionDesc": "Animal ESP, health as text or a bar, vehicle ESP, and helicrash."
+      },
+      {
+        "alt": "Aimbot menu screenshot",
+        "caption": "Aimbot Options",
+        "captionDesc": "Toggle, FOV, aim distance, ignore, bone, FOV style, and a line to the target."
+      },
+      {
+        "alt": "Miscellaneous and config menu screenshot",
+        "caption": "Miscellaneous and config",
+        "captionDesc": "No clip, always day, crosshair, limit FPS, save config, and load config."
+      }
+    ],
+    "overview": {
+      "title": "Built for DayZ on Steam",
+      "paragraphs": [
+        "DayZ Cheats uses the loader menu below: aimbot, player ESP, infected ESP, world ESP, item ESP, miscellaneous, and config. Updates ship while your key is active, with Discord help for setup.",
+        "Always check availability on dayz-cheats.org before you launch, especially after a BattlEye or Steam client patch."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Modules included"
+      },
+      {
+        "type": "p",
+        "text": "Steam loader with the aimbot, player, infected, world, item, miscellaneous, and config groups listed on this page. Names match the menu."
+      },
+      {
+        "type": "h2",
+        "text": "Plans"
+      },
+      {
+        "type": "p",
+        "text": "Monthly $35 USD (P31D) or lifetime $150 USD (P99Y). Instant digital delivery worldwide after checkout."
+      }
+    ],
+    "goodToKnow": "DayZ and BattlEye update often. Confirm availability on dayz-cheats.org before you launch. Overlay behavior may differ in menus or spectator views after patches.",
+    "limitations": "Third-party software can violate game terms and lead to bans. You use this software at your own risk. Compatibility can change after game, BattlEye, or Windows updates without notice.",
+    "requirements": [
+      "Windows 10/11",
+      "Intel/AMD",
+      "Steam client (Steam Only build)"
+    ]
+  },
+  "spoofer": {
+    "slides": [
+      {
+        "alt": "HWID spoofer 上的 Windows PC",
+        "caption": "HWID spoofer",
+        "captionDesc": "在重新启动之前使用硬件特征码工具。"
+      },
+      {
+        "alt": "Phoenix Satano HWID spoofer 硬件特征码轮换，位于 Windows PC",
+        "caption": "Phoenix 面板",
+        "captionDesc": "磁盘、MAC 和 GPU ID 轮换。"
+      },
+      {
+        "alt": "Phoenix WH-Satano spoofer 品牌标志，位于 Windows PC",
+        "caption": "Phoenix WH",
+        "captionDesc": "在所有商店中使用的 Spoofer 工作区ace。"
+      }
+    ],
+    "overview": {
+      "title": "HWID 恢复工作流",
+      "paragraphs": [
+        "HWID Spoofer 专注于硬件配置文件轮换，当你在遇到硬件标记后需要重新启动 DayZ 之前获取干净的机器环境时使用。",
+        "Monthly 和 lifetime USD 方案使用与产品线其他部分相同的结账流程。"
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "何时使用"
+      },
+      {
+        "type": "p",
+        "text": "当新账号在一台 PC 上无法使用但在其他地方正常时使用——不适用于单纯的账号封禁。验证后请搭配保守的辅助预设使用。"
+      },
+      {
+        "type": "h2",
+        "text": "方案"
+      },
+      {
+        "type": "p",
+        "text": "Monthly $50 USD（P31D）或 lifetime $150 USD（P99Y）。"
+      }
+    ],
+    "goodToKnow": "HWID 工具会更改你的 PC 特征码外观——它们本身不会解除账号封禁。在再次启动 DayZ 之前，请遵循门户指南。",
+    "limitations": "硬件伪装带有技术风险，并且可能违反游戏条款。结果因封禁类型和驱动程序设置而异。仅在您拥有的系统上使用。",
+    "requirements": [
+      "Windows 10 或 11 64 位，具有管理员权限。",
+      "在运行硬件工具之前创建一个还原点。",
+      "用于激活和验证步骤的稳定网络。"
+    ],
+    "features": [
+      "带清理功能的硬件 Spoofer",
+      "磁盘序列号和 MAC 轮换",
+      "GPU ID 配置文件工具",
+      "兼容性扫描",
+      "验证检查清单",
+      "门户分步工作流",
+      "Discord 设置支持"
+    ]
+  },
+  "ugc": {
+    "slides": [
+      {
+        "alt": "UGC account recovery 工作室ace 预览于 Windows PC",
+        "caption": "账号找回",
+        "captionDesc": "跨平台共享申诉工作空间ace。"
+      },
+      {
+        "alt": "UGC 申诉模板库位于 Windows PC",
+        "caption": "申诉模板",
+        "captionDesc": "用于封禁争议的结构化路径与文案。"
+      },
+      {
+        "alt": "UGC 案件跟踪仪表盘位于 Windows PC",
+        "caption": "案件跟踪",
+        "captionDesc": "将证据列表和后续提醒集中在一处ace。"
+      }
+    ],
+    "overview": {
+      "title": "UGC Account recovery 工作空间ace",
+      "paragraphs": [
+        "UGC Account recovery 借助模板、证据列表和后续提醒，帮助组织封禁申诉和找回案件。",
+        "安全结账后即时数字交付，并提供 Discord 支持以解答安装问题。"
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "申诉工作流"
+      },
+      {
+        "type": "p",
+        "text": "当游戏账号被锁定或受限时，构建自定义申诉路径、自动化争议步骤并跟踪案件状态。"
+      },
+      {
+        "type": "h2",
+        "text": "订阅方案"
+      },
+      {
+        "type": "p",
+        "text": "Monthly $35 USD (P31D) 或 lifetime $150 USD (P99Y)。"
+      }
+    ],
+    "goodToKnow": "在提交工单前，请收集订单邮箱、账号详情和限制截图。UGC 用于构建申诉结构——它不会绕过平台审核。",
+    "limitations": "UGC 不保证恢复账号。结果因案件类型和平台政策而异。",
+    "requirements": [
+      "Windows 10 或 11 (64位)。",
+      "用于工作流同步和更新的网络连接。",
+      "用于安装的管理员权限。"
+    ],
+    "features": [
+      "自定义申诉工作流",
+      "多平台找回工作空间ace",
+      "模板库",
+      "重复步骤自动化",
+      "限制跟踪仪表盘",
+      "安全门户交付",
+      "Monthly 与 lifetime USD 方案"
+    ]
+  }
+}

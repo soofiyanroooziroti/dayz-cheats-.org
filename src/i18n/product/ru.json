@@ -1,0 +1,256 @@
+{
+  "steps": [
+    {
+      "title": "Проверьте статус",
+      "desc": "Убедитесь, что модули работают на dayz-cheats.org перед покупкой — esp особенно после обновления DayZ или BattlEye."
+    },
+    {
+      "title": "Выберите тариф",
+      "desc": "Выберите monthly (P31D) или lifetime (P99Y) — одинаковые цены USD для каждого продукта в линейке."
+    },
+    {
+      "title": "Безопасная оплата",
+      "desc": "Завершите оформление заказа на карточке товара. Ваша лицензия активируется в личном кабинете с мгновенной доставкой."
+    },
+    {
+      "title": "Установка и проверка",
+      "desc": "Следуйте руководству по настройке, загрузите консервативный пресет и протестируйте в режиме с низкими рисками перед рейтинговой игрой."
+    }
+  ],
+  "howToGet": "Как получить {name}",
+  "cheats": {
+    "groupNames": [
+      "Aimbot Options",
+      "Player ESP Options",
+      "Infected ESP Options",
+      "World ESP Options",
+      "Item ESP Options",
+      "Miscellaneous Options",
+      "Config Options"
+    ],
+    "descs": [
+      "Turns aim assist on or off.",
+      "Sets how wide the aim cone is.",
+      "Sets how far the assist will search.",
+      "Skip players, infected, animals, or a mix of those.",
+      "Nearest, head, neck, or pelvis.",
+      "Draw the cone as a solid or a gradient.",
+      "Draw the line to the target as a solid or a gradient.",
+      "Turns player ESP on or off.",
+      "Marks players you have set as friends.",
+      "Corner box or full box.",
+      "Fill the box as a solid or a gradient.",
+      "Dot on the head.",
+      "Bone lines on the player.",
+      "Bar for remaining health.",
+      "Player name on the label.",
+      "Distance to the player.",
+      "Inventory readout on the player.",
+      "Shows the item the player is holding.",
+      "Trace lines for player ESP.",
+      "Hides player ESP past the range you set.",
+      "Turns infected ESP on or off.",
+      "Corner box or full box on infected.",
+      "Fill the box as a solid or a gradient.",
+      "Dot on the head.",
+      "Bone lines on the infected.",
+      "Bar for remaining health.",
+      "Infected name on the label.",
+      "Distance to the infected.",
+      "Trace lines for infected ESP.",
+      "Hides infected ESP past the range you set.",
+      "Marks animals in the world.",
+      "Health as text or as a bar.",
+      "Marks vehicles in the world.",
+      "Marks helicrash sites.",
+      "Shows item quality on loot.",
+      "Quality as text or as a bar.",
+      "Battle mode for the item overlay.",
+      "Item labels appear when you hover.",
+      "No-clip movement toggle.",
+      "Forces daytime lighting.",
+      "Shows your local position.",
+      "Unlocks third person.",
+      "Removes grass.",
+      "Overlay crosshair.",
+      "Caps frames per second.",
+      "Menu language: English or Chinese.",
+      "Saves the current menu layout.",
+      "Loads a saved menu layout."
+    ],
+    "slides": [
+      {
+        "alt": "Player ESP menu screenshot",
+        "caption": "Player ESP Options",
+        "captionDesc": "Box, skeleton, health bar, name, distance, inventory, and the other toggles in that group."
+      },
+      {
+        "alt": "World ESP menu screenshot",
+        "caption": "World ESP Options",
+        "captionDesc": "Animal ESP, health as text or a bar, vehicle ESP, and helicrash."
+      },
+      {
+        "alt": "Aimbot menu screenshot",
+        "caption": "Aimbot Options",
+        "captionDesc": "Toggle, FOV, aim distance, ignore, bone, FOV style, and a line to the target."
+      },
+      {
+        "alt": "Miscellaneous and config menu screenshot",
+        "caption": "Miscellaneous and config",
+        "captionDesc": "No clip, always day, crosshair, limit FPS, save config, and load config."
+      }
+    ],
+    "overview": {
+      "title": "Built for DayZ on Steam",
+      "paragraphs": [
+        "DayZ Cheats uses the loader menu below: aimbot, player ESP, infected ESP, world ESP, item ESP, miscellaneous, and config. Updates ship while your key is active, with Discord help for setup.",
+        "Always check availability on dayz-cheats.org before you launch, especially after a BattlEye or Steam client patch."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Modules included"
+      },
+      {
+        "type": "p",
+        "text": "Steam loader with the aimbot, player, infected, world, item, miscellaneous, and config groups listed on this page. Names match the menu."
+      },
+      {
+        "type": "h2",
+        "text": "Plans"
+      },
+      {
+        "type": "p",
+        "text": "Monthly $35 USD (P31D) or lifetime $150 USD (P99Y). Instant digital delivery worldwide after checkout."
+      }
+    ],
+    "goodToKnow": "DayZ and BattlEye update often. Confirm availability on dayz-cheats.org before you launch. Overlay behavior may differ in menus or spectator views after patches.",
+    "limitations": "Third-party software can violate game terms and lead to bans. You use this software at your own risk. Compatibility can change after game, BattlEye, or Windows updates without notice.",
+    "requirements": [
+      "Windows 10/11",
+      "Intel/AMD",
+      "Steam client (Steam Only build)"
+    ]
+  },
+  "spoofer": {
+    "slides": [
+      {
+        "alt": "HWID spoofer на Windows PC",
+        "caption": "HWID spoofer",
+        "captionDesc": "Инструменты цифрового отпечатка оборудования перед перезапуском."
+      },
+      {
+        "alt": "Ротация цифрового отпечатка оборудования Phoenix Satano HWID spoofer на Windows PC",
+        "caption": "Плата Phoenix",
+        "captionDesc": "Ротация ID дисков, MAC и GPU."
+      },
+      {
+        "alt": "Брендинг спуфера Phoenix WH-Satano на Windows PC",
+        "caption": "Phoenix WH",
+        "captionDesc": "Интерфейс спуфераace, используемый во всех магазинах."
+      }
+    ],
+    "overview": {
+      "title": "Рабочий процесс восстановления HWID",
+      "paragraphs": [
+        "HWID Spoofer ориентирован на ротацию профиля оборудования, когда вам нужна чистая среда ПК перед перезапуском DayZ после аппаратной метки.",
+        "Планы Monthly и lifetime USD используют тот же процесс оформления заказа, что и остальной ассортимент."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Когда использовать"
+      },
+      {
+        "type": "p",
+        "text": "Используйте, когда новые аккаунты не работают на одном PC, но работают в другом месте — не помогает при банах только аккаунта. Используйте в сочетании с консервативными пресетами после проверки."
+      },
+      {
+        "type": "h2",
+        "text": "Тарифы"
+      },
+      {
+        "type": "p",
+        "text": "Monthly $50 USD (P31D) или lifetime $150 USD (P99Y)."
+      }
+    ],
+    "goodToKnow": "Инструменты HWID изменяют отображение цифрового отпечатка вашего PC — они сами по себе не снимают баны аккаунта. Следуйте инструкциям портала перед повторным запуском DayZ.",
+    "limitations": "Спуфинг несет технические риски и может нарушать правила игры. Результаты зависят от типа бана и конфигурации драйверов. Используйте только на тех системах, которые вам принадлежат.",
+    "requirements": [
+      "Windows 10 или 11 64-bit с правами администратора.",
+      "Создайте точку восстановления перед запуском аппаратных инструментов.",
+      "Стабильный интернет для активации и шагов проверки."
+    ],
+    "features": [
+      "Аппаратный спуфер с очистщиком",
+      "Ротация серийных номеров дисков и MAC",
+      "Инструменты профилей GPU ID",
+      "Сканирование совместимости",
+      "Контрольный список проверки",
+      "Пошаговый рабочий процесс на портале",
+      "Поддержка настройки Discord"
+    ]
+  },
+  "ugc": {
+    "slides": [
+      {
+        "alt": "Предпросмотр рабочей среды ace UGC account recovery на Windows PC",
+        "caption": "Восстановление аккаунта",
+        "captionDesc": "Общая рабочая среда ace для обжалования в разных магазинах."
+      },
+      {
+        "alt": "Библиотека шаблонов апелляций UGC на Windows PC",
+        "caption": "Шаблоны апелляций",
+        "captionDesc": "Структурированные пути и тексты для споров о блокировках."
+      },
+      {
+        "alt": "Панель отслеживания дел UGC на Windows PC",
+        "caption": "Отслеживание дел",
+        "captionDesc": "Списки доказательств и напоминания в одном месте (ace)."
+      }
+    ],
+    "overview": {
+      "title": "Рабочая среда ace UGC Account recovery",
+      "paragraphs": [
+        "UGC Account recovery помогает упорядочить апелляции на блокировки и случаи восстановления с помощью шаблонов, списков доказательств и напоминаний.",
+        "Мгновенная цифровая доставка после безопасной оплаты, а также поддержка Discord по вопросам настройки."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Рабочие процессы апелляций"
+      },
+      {
+        "type": "p",
+        "text": "Создавайте собственные пути апелляций, автоматизируйте шаги спора и отслеживайте статус дела при блокировке или ограничении игровых аккаунтов."
+      },
+      {
+        "type": "h2",
+        "text": "Тарифы"
+      },
+      {
+        "type": "p",
+        "text": "Monthly $35 USD (P31D) или lifetime $150 USD (P99Y)."
+      }
+    ],
+    "goodToKnow": "Подготовьте email заказа, данные аккаунта и скриншоты ограничений перед открытием тикета. UGC структурирует апелляции — он не обходит проверку платформы.",
+    "limitations": "UGC не гарантирует восстановление аккаунта. Результаты зависят от типа дела и правил платформы.",
+    "requirements": [
+      "Windows 10 или 11 (64-бит).",
+      "Доступ в интернет для синхронизации рабочего процесса и обновлений.",
+      "Права администратора для установки."
+    ],
+    "features": [
+      "Пользовательские рабочие процессы апелляций",
+      "Многоплатформенная рабочая среда восстановления ace",
+      "Библиотека шаблонов",
+      "Автоматизация повторяющихся действий",
+      "Панель отслеживания ограничений",
+      "Безопасная доставка через портал",
+      "Тарифы Monthly и lifetime USD"
+    ]
+  }
+}

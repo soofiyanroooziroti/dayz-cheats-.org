@@ -1,0 +1,134 @@
+---
+import { localeOnlyPaths } from '../../../../i18n/paths';
+
+export function getStaticPaths() {
+  return localeOnlyPaths();
+}
+
+import '../../../../styles/product-cheat-page.css';
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import { getProductHub, getProductPages } from '../../../../data/products';
+import { resolvePageSeo } from '../../../../config/seo';
+import { getTranslations } from '../../../../i18n';
+import { breadcrumbSchema, itemListSchema, webPageSchema } from '../../../../utils/schema';
+import Breadcrumbs from '../../../../components/Breadcrumbs.astro';
+import { localizedPath, productPath } from '../../../../utils/path';
+import { Button } from '@/components/starwind/button';
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/starwind/card';
+import {
+  Table,
+  TableBody,
+  TableCell,
+  TableHead,
+  TableHeader,
+  TableRow,
+} from '@/components/starwind/table';
+
+const locale = Astro.params.locale!;
+const t = getTranslations(locale);
+const productHub = getProductHub(locale);
+const productPages = getProductPages(locale);
+const utilities = productPages.filter((p) => p.kind === 'utility');
+const utilitiesPath = '/products/dayz-cheats/utilities/';
+const u = t.utilitiesPage!;
+const catalog = (t as { catalog?: Record<string, string> }).catalog ?? {};
+
+const seo = resolvePageSeo(utilitiesPath, locale);
+const breadcrumbs = [
+  { name: t.breadcrumbs!.home, path: localizedPath('/', locale) },
+  { name: t.breadcrumbs!.products, path: localizedPath(productHub.path, locale) },
+  { name: u.breadcrumb, path: localizedPath(utilitiesPath, locale) },
+];
+
+function viewLinkLabel(category: string | undefined) {
+  const cat = category ?? u.viewDetailsFallback;
+  return u.viewCategory.replace('{category}', cat);
+}
+---
+
+<BaseLayout
+  title={seo.title}
+  description={seo.description}
+  jsonLd={[
+    webPageSchema({
+      name: u.schemaName,
+      description: seo.description,
+      url: localizedPath(utilitiesPath, locale),
+    }),
+    breadcrumbSchema(breadcrumbs),
+    itemListSchema(
+      utilities.map((product) => ({
+        name: product.title,
+        url: productPath(product.slug, locale),
+      })),
+    ),
+  ]}
+>
+  <section class="py-8 md:py-12">
+    <div class="mx-auto max-w-6xl px-5">
+      <Breadcrumbs items={breadcrumbs} />
+
+      <header class="mt-6 max-w-3xl space-y-3">
+        <h1 class="text-3xl font-bold uppercase md:text-4xl">{u.title}</h1>
+        <p class="text-lg text-muted-foreground">{u.subtitle}</p>
+      </header>
+
+      <div class="mt-10 rounded-lg border border-border" tabindex="0" aria-label={u.tableAria}>
+        <Table>
+          <TableHeader>
+            <TableRow>
+              <TableHead>{u.columnUtility}</TableHead>
+              <TableHead>{u.columnBestFor}</TableHead>
+              <TableHead>{u.columnProductPage}</TableHead>
+            </TableRow>
+          </TableHeader>
+          <TableBody>
+            {utilities.map((product) => (
+              <TableRow>
+                <TableCell class="font-medium">{product.title}</TableCell>
+                <TableCell class="text-muted-foreground">
+                  {u.useCases[product.slug] ?? product.desc}
+                </TableCell>
+                <TableCell>
+                  <a href={productPath(product.slug, locale)} class="text-primary hover:underline">
+                    {viewLinkLabel(product.category)}
+                  </a>
+                </TableCell>
+              </TableRow>
+            ))}
+          </TableBody>
+        </Table>
+      </div>
+
+      <ul class="mt-10 space-y-4">
+        {utilities.map((product) => (
+          <li>
+            <Card>
+              <CardHeader>
+                <CardTitle class="text-lg normal-case">
+                  <a href={productPath(product.slug, locale)} class="hover:text-primary">{product.title}</a>
+                </CardTitle>
+              </CardHeader>
+              <CardContent class="space-y-2 text-sm text-muted-foreground">
+                <p>{product.desc}</p>
+                <p>
+                  <strong class="text-foreground">{u.includesLabel}</strong>{' '}
+                  {product.features.slice(0, 4).join(' · ')}
+                  {product.more > 0
+                    ? ` · ${(catalog.plusMore ?? '+{count} more').replace('{count}', String(product.more))}`
+                    : ''}
+                </p>
+              </CardContent>
+            </Card>
+          </li>
+        ))}
+      </ul>
+
+      <div class="mt-10">
+        <Button as="a" href={localizedPath(productHub.path, locale)} variant="outline">
+          {u.backToProducts}
+        </Button>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

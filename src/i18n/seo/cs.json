@@ -1,0 +1,108 @@
+{
+  "site": {
+    "title": "DayZ Cheats | Nejlepší software pro Steam",
+    "description": "DayZ Cheats pro Steam na Windows PC s aimbotem, ESP hráčů, ukazateli vozidel a radarem. Srovnání cheatů, HWID spooferu a UGC recovery na dayz-cheats.org."
+  },
+  "pages": {
+    "/": {
+      "title": "DayZ cheats pro Windows PC | ESP, Aimbot & Ceny",
+      "description": "Aimbot, pozice hráčů ESP, infikovaní ESP, svět ESP a předměty ESP pro DayZ na Windows PC. Ceny a aktuální stav. Každý produkt se platí zvlášť."
+    },
+    "/products/dayz-cheats/": {
+      "title": "Cheats for DayZ | Monthly a Lifetime plány",
+      "description": "Cheats for DayZ na Steamu: tři Windows produkty sdílejí $35 monthly a $150 lifetime. Loader, HWID nástroj a obnova účtu se platí zvlášť."
+    },
+    "/products/dayz-cheats/dayz-cheats/": {
+      "title": "Steam Loader pro Windows PC | Aimbot a radar",
+      "description": "Steam loader s aimbotem, ESP hráčů, vozidly, 2D radarem a úpravou zpětného rázu. Monthly je $35 na 30 dní. Lifetime je $150."
+    },
+    "/products/dayz-cheats/hwid-spoofer/": {
+      "title": "HWID Spoofer pro DayZ Windows Hardwarové příznaky",
+      "description": "HWID spoofer pro DayZ hráče, kteří čelí hardwarovému příznaku. Rotace profilu a nastavení portálu na Windows PC. Neopravuje ban pouze na účet."
+    },
+    "/products/dayz-cheats/ugc/": {
+      "title": "UGC Account Recovery pro DayZ PC odvolací případy",
+      "description": "UGC account recovery organizuje odvolání proti banům a případy obnovení DayZ. Oddělte licenci od Steamu loader a HWID spoofer na Windows PC."
+    },
+    "/products/dayz-cheats/utilities/": {
+      "title": "Porovnat nástroj a utilitu pro odvolání účtu HWID",
+      "description": "Podívejte se, který Windows nástroj se hodí pro hardwarový příznak a který pro odvolání účtu. Obě jsou samostatné platby z DayZ loader."
+    },
+    "/blog/": {
+      "title": "DayZ PC Návody pro Míření, ESP, Kořist, Menu a BattlEye",
+      "description": "Příručky pro Steam loader pro aimbot, hráče a infikované ESP, vozidla, kořist, nabídku cheatů, vlajky HWID a riziko zablokování BattlEye před spuštěním."
+    },
+    "/blog/best-dayz-cheats-2026/": {
+      "title": "Podvody – $35 monthly proti $150 lifetime na Steamu",
+      "description": "Pohled na plány tohoto obchodu pro rok 2026: pomoc s cílením, vizuály, nástroje map, riziko zákazu a $35 monthly versus $150 lifetime na Steamu."
+    },
+    "/blog/how-to-download-dayz/": {
+      "title": "DayZ DMA Nastavení z portálu pokladny",
+      "description": "DayZ DMA vyhledávání často vyžaduje hardwarovou kartu. Tato příručka se zabývá softwarem Steam loader po zaplacení, nikoli druhým PC."
+    },
+    "/blog/dayz-anti-cheat/": {
+      "title": "BattlEye – DayZ Anticheat Poznámky Než Vstoupíte do Hry",
+      "description": "DayZ anticheat na živém klientovi je BattlEye. Přečtěte si, co může udělat nahlášení, proč se hardwarový příznak liší a proč žádná stránka negarantuje čistou hru."
+    },
+    "/blog/what-is-an-hwid-spoofer/": {
+      "title": "Co HWID Spoofer Mění na PC",
+      "description": "Hardwarový příznak sleduje počítač, nejen profil. Tato poznámka vysvětluje, co spoofer mění a co ponechává beze změny."
+    },
+    "/blog/dayz-cheats-pricing/": {
+      "title": "Monthly $35 vs Lifetime $150 v tomto obchodě",
+      "description": "Lifetime: Porovnejte 31denní přístup za $35 s dlouhodobým klíčem $150. Každý produkt je samostatná platba. Úroveň loader $150 nepřidává spoofer."
+    },
+    "/blog/dayz-aimbot/": {
+      "title": "Aimbot – kužel na obrazovce udržuje asistenci čitelnou",
+      "description": "DayZ aimbot nastavení pro FOV, plynulost, volba kosti, kontrola viditelnosti, predikce a kužel na obrazovce, aby asistence zůstala přehledná."
+    },
+    "/blog/dayz-esp/": {
+      "title": "DayZ ESP pro hráče a vozidla",
+      "description": "DayZ ESP krabice, kostra, zdraví, štítky čety a typ vozidla, aby byl kombinovaný boj na Steamu přehledný."
+    },
+    "/blog/dayz-radar/": {
+      "title": "DayZ Radarové značky a stupnice rozsahu",
+      "description": "DayZ radar s tečkami pěchoty, tečkami vozidel a posuvníkem rozsahu, aby 2D mapa odpovídala tomu, jak daleko ve skutečnosti hrajete."
+    },
+    "/blog/dayz-no-recoil/": {
+      "title": "Bez zpětného rázu, rozptylu a jasné nastavení",
+      "description": "Žádný zpětný ráz, rozptyl, plný jas, vlastní zaměřovač a uložené konfigy na Steamu loader. Nic z toho nemění riziko banu."
+    },
+    "/blog/dayz-season-2/": {
+      "title": "Sezóna 2 – 15. říjen přidal zbraně a vozidla",
+      "description": "Aktualizace 0.2.0 přinesla 15. října zbraně, vozidla a úpravu brnění. Sezóna 3 je naplánována na 12. listopadu s vymazáním ekonomiky."
+    },
+    "/blog/what-an-hwid-spoofer-does/": {
+      "title": "HWID Spoofer – Co nástroj dělá po označení",
+      "description": "HWID spoofer: když nový profil zemře na jedné PC a funguje na jiné, hardwarový nástroj je samostatný produkt. Nemění trest pro samotný účet."
+    },
+    "/forum/": {
+      "title": "DayZ Komunitní fórum: Nastavení, Aim a Plány",
+      "description": "Fórum o DayZ loader, možnosti aimu a ESP, plánech pro $35 monthly a $150 lifetime a patch days pro BattlEye. Odpovědi vývojářů jsou označeny."
+    },
+    "/faq/": {
+      "title": "FAQ – Plány, nastavení a riziko BattlEye před nákupem",
+      "description": "Odpovědi k platbám, aktualizacím BattlEye, požadavkům Windows a Steamu, HW příznakům a rozdílům mezi loader, spooferem a nástrojem na účet."
+    },
+    "/support/": {
+      "title": "DayZ Podpora: Loader, Platby a HWID PC",
+      "description": "Nápověda pro Loader, platby a portál k nástrojům DayZ, HWID spoofer a odvoláním k účtům. Uveďte e-mail objednávky a přesný loader."
+    },
+    "/about/": {
+      "title": "O tomto DayZ obchodě: doručení, ceny a rizika",
+      "description": "Obchod: co dayz-cheats.org prodává, jak funguje platba a doručení, a riziko banu při použití softwaru třetích stran na DayZ pro Windows PC."
+    },
+    "/privacy/": {
+      "title": "Ochrana soukromí, cookies a kontaktní údaje",
+      "description": "Jak dayz-cheats.org zpracovává analytiku, cookies a kontaktní data. Čísla platebních karet zůstávají u poskytovatele platby, ne u nás."
+    },
+    "/terms/": {
+      "title": "Licenční podmínki, vrácení peněz a pravidla použití",
+      "description": "Licenční podmínky, pravidla použití a politika nevrácení peněz pro loader, HWID spoofer a obnovu účtu prodávané přes dayz-cheats.org."
+    },
+    "/status/": {
+      "title": "DayZ Status & BattlEye Patch Notes",
+      "description": "Module and portal update notes for the Windows loader. Check status after each BattlEye update before you launch DayZ on Steam."
+    }
+  }
+}

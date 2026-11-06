@@ -1,0 +1,109 @@
+---
+import { localeOnlyPaths } from '../../../../i18n/paths';
+
+export function getStaticPaths() {
+  return localeOnlyPaths();
+}
+
+import '../../../../styles/product-cheat-page.css';
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import { getProductHub, getProductPages } from '../../../../data/products';
+import { cheatTierIcons, productCategoryIcons } from '../../../../data/sectionIcons';
+import { resolvePageSeo } from '../../../../config/seo';
+import { getTranslations } from '../../../../i18n';
+import { breadcrumbSchema, collectionPageSchema, itemListSchema } from '../../../../utils/schema';
+import Breadcrumbs from '../../../../components/Breadcrumbs.astro';
+import CatalogCard from '../../../../components/CatalogCard.astro';
+import { localizedPath, productPath } from '../../../../utils/path';
+
+const locale = Astro.params.locale!;
+const t = getTranslations(locale);
+const productHub = getProductHub(locale);
+const productPages = getProductPages(locale);
+
+const seo = resolvePageSeo('/products/dayz-cheats/', locale);
+const breadcrumbs = [
+  { name: t.breadcrumbs.home, path: localizedPath('/', locale) },
+  { name: t.breadcrumbs.products, path: localizedPath(productHub.path, locale) },
+];
+
+function cardIcon(product: (typeof productPages)[number]) {
+  if (product.kind === 'tier') {
+    return cheatTierIcons[product.name] ?? 'crosshair';
+  }
+  return productCategoryIcons[product.category ?? ''] ?? 'package';
+}
+
+const catalog = t.catalog ?? {};
+const pc = t.productCatalog!;
+
+function cardLabel(product: (typeof productPages)[number]) {
+  if (product.kind === 'tier') {
+    return product.tier ?? product.name;
+  }
+  return product.category ?? pc.utilityCategory;
+}
+
+function buyLabelFor(slug: string) {
+  if (slug === 'hwid-spoofer') return pc.buyHwidSpoofer;
+  if (slug === 'ugc') return pc.buyUgcRecovery;
+  return pc.buyLoader;
+}
+---
+
+<BaseLayout
+  title={seo.title}
+  description={seo.description}
+  jsonLd={[
+    collectionPageSchema({
+      name: productHub.title,
+      description: productHub.description,
+      url: localizedPath(productHub.path, locale),
+    }),
+    breadcrumbSchema(breadcrumbs),
+    itemListSchema(
+      productPages.map((product) => ({
+        name: product.title,
+        url: productPath(product.slug, locale),
+      })),
+    ),
+  ]}
+>
+  <section class="py-8 md:py-12">
+    <div class="mx-auto max-w-6xl px-5">
+      <Breadcrumbs items={breadcrumbs} />
+
+      <div class="mt-6 max-w-3xl space-y-3">
+        <h1 class="text-3xl font-bold uppercase md:text-4xl">{t.products.title}</h1>
+        <p class="text-lg text-muted-foreground">{t.products.subtitle}</p>
+        <h2 class="text-xl font-semibold normal-case">{pc.searchHeading}</h2>
+      </div>
+
+      <div class="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        {productPages.map((product) => (
+          <CatalogCard
+            label={cardLabel(product)}
+            title={product.title}
+            href={productPath(product.slug, locale)}
+            buyUrl={product.buyUrl}
+            productSlug={product.slug}
+            features={product.features}
+            more={product.more}
+            icon={cardIcon(product)}
+            badge={product.badge}
+            variant={product.variant}
+            featured={product.slug === 'dayz-cheats'}
+            buyLabel={buyLabelFor(product.slug)}
+            viewLabel={catalog.viewDetails ?? t.products.viewAll}
+            maxFeatures={3}
+          />
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<script>
+  import { setupCatalogCards } from '../../../../scripts/catalog-card.ts';
+  setupCatalogCards();
+</script>

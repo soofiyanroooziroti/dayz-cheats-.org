@@ -1,0 +1,256 @@
+{
+  "steps": [
+    {
+      "title": "Vérifier le statut",
+      "desc": "Confirmez que les modules sont en ligne sur dayz-cheats.org avant d'acheter — surtout après une mise à jour de DayZ ou de BattlEye."
+    },
+    {
+      "title": "Choisir une formule",
+      "desc": "Choisissez l'abonnement mensuel (P31D) ou à vie (P99Y) — même tarification en USD sur toute la gamme."
+    },
+    {
+      "title": "Paiement sécurisé",
+      "desc": "Finalisez l'achat depuis la fiche produit. Votre licence se débloque dans le portail avec livraison immédiate."
+    },
+    {
+      "title": "Installer et vérifier",
+      "desc": "Suivez le guide d'installation, chargez un préréglage conservateur et testez sur un serveur peu peuplé avant d'utiliser votre config principale."
+    }
+  ],
+  "howToGet": "Comment obtenir {name}",
+  "cheats": {
+    "groupNames": [
+      "Options d'aimbot",
+      "Options ESP joueurs",
+      "Options ESP infectés",
+      "Options ESP monde",
+      "Options ESP objets",
+      "Options diverses",
+      "Configuration"
+    ],
+    "descs": [
+      "Active ou désactive l'assistance à la visée.",
+      "Définit la largeur du cône de visée.",
+      "Définit la distance maximale de recherche de l'assistance.",
+      "Ignore les joueurs, les infectés, les animaux ou un mélange.",
+      "Plus proche, tête, cou ou bassin.",
+      "Affiche le cône en uni ou en dégradé.",
+      "Affiche la ligne vers la cible en uni ou en dégradé.",
+      "Active ou désactive l'ESP des joueurs.",
+      "Met en avant les joueurs que vous avez ajoutés en amis.",
+      "Boîte en coin ou boîte pleine.",
+      "Remplit la boîte en uni ou en dégradé.",
+      "Point sur la tête.",
+      "Squelette (lignes d'os) sur le modèle.",
+      "Barre de santé restante.",
+      "Nom du joueur sur l'étiquette.",
+      "Distance jusqu'au joueur.",
+      "Lecture rapide de l'inventaire sur le joueur.",
+      "Affiche l'objet tenu en main.",
+      "Traces de mouvement pour l'ESP joueur.",
+      "Masque l'ESP joueur au-delà de la distance réglée.",
+      "Active ou désactive l'ESP des infectés.",
+      "Boîte en coin ou boîte pleine sur les infectés.",
+      "Remplit la boîte en uni ou en dégradé.",
+      "Point sur la tête.",
+      "Squelette (lignes d'os) sur l'infecté.",
+      "Barre de santé restante.",
+      "Nom sur l'étiquette infecté.",
+      "Distance jusqu'à l'infecté.",
+      "Traces pour l'ESP infecté.",
+      "Masque l'ESP infecté au-delà de la distance réglée.",
+      "Marque les animaux dans le monde.",
+      "Santé en texte ou en barre.",
+      "Marque les véhicules dans le monde.",
+      "Marque les sites d'écrasement d'hélicoptère.",
+      "Affiche la qualité du butin.",
+      "Qualité en texte ou en barre.",
+      "Mode combat pour la surcouche d'objets.",
+      "Les étiquettes d'objets n'apparaissent qu'au survol.",
+      "Active ou désactive le déplacement sans collision.",
+      "Force un éclairage de journée.",
+      "Affiche votre position locale.",
+      "Déverrouille la vue à la troisième personne.",
+      "Retire l'herbe.",
+      "Réticule en surcouche.",
+      "Plafonne les images par seconde.",
+      "Langue du menu : anglais ou chinois.",
+      "Enregistre la disposition actuelle du menu.",
+      "Charge une disposition de menu enregistrée."
+    ],
+    "slides": [
+      {
+        "alt": "Capture du menu ESP joueurs",
+        "caption": "Options ESP joueurs",
+        "captionDesc": "Boîte, squelette, barre de santé, nom, distance, inventaire et les autres interrupteurs de ce groupe."
+      },
+      {
+        "alt": "Capture du menu ESP monde",
+        "caption": "Options ESP monde",
+        "captionDesc": "ESP animaux, santé en texte ou en barre, ESP véhicules et helicrash."
+      },
+      {
+        "alt": "Capture du menu aimbot",
+        "caption": "Options d'aimbot",
+        "captionDesc": "Interrupteur, FOV, distance de visée, ignorer, os, style du FOV et ligne vers la cible."
+      },
+      {
+        "alt": "Capture du menu divers et configuration",
+        "caption": "Divers et configuration",
+        "captionDesc": "No clip, jour permanent, réticule, limite FPS, enregistrer la config et charger la config."
+      }
+    ],
+    "overview": {
+      "title": "Conçu pour DayZ sur Steam",
+      "paragraphs": [
+        "DayZ Cheats utilise le menu du loader ci-dessous : aimbot, ESP joueurs, ESP infectés, ESP monde, ESP objets, divers et configuration. Les mises à jour sont livrées tant que votre clé est active, avec l'aide Discord pour l'installation.",
+        "Vérifiez toujours la disponibilité sur dayz-cheats.org avant de lancer, surtout après un patch BattlEye ou du client Steam."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Modules inclus"
+      },
+      {
+        "type": "p",
+        "text": "Loader Steam avec les groupes aimbot, joueur, infecté, monde, objet, divers et configuration listés sur cette page. Les noms correspondent au menu."
+      },
+      {
+        "type": "h2",
+        "text": "Forfaits"
+      },
+      {
+        "type": "p",
+        "text": "35 $ USD par mois (P31D) ou 150 $ USD à vie (P99Y). Livraison numérique instantanée dans le monde entier après paiement."
+      }
+    ],
+    "goodToKnow": "DayZ et BattlEye sont mis à jour souvent. Confirmez la disponibilité sur dayz-cheats.org avant de lancer. Le comportement de la surcouche peut différer dans les menus ou les vues spectateur après les patchs.",
+    "limitations": "Les logiciels tiers peuvent enfreindre les conditions du jeu et entraîner des bannissements. Vous utilisez ce logiciel à vos propres risques. La compatibilité peut changer après des mises à jour du jeu, de BattlEye ou de Windows sans préavis.",
+    "requirements": [
+      "Windows 10/11",
+      "Intel/AMD",
+      "Client Steam (build Steam uniquement)"
+    ]
+  },
+  "spoofer": {
+    "slides": [
+      {
+        "alt": "HWID spoofer sur Windows PC",
+        "caption": "HWID spoofer",
+        "captionDesc": "Outils d'empreinte matérielle avant de relancer."
+      },
+      {
+        "alt": "Rotation d'empreinte matérielle Phoenix Satano HWID spoofer sur Windows PC",
+        "caption": "Carte Phoenix",
+        "captionDesc": "Rotation des ID disque, MAC et GPU."
+      },
+      {
+        "alt": "Marquage du spoofer Phoenix WH-Satano sur Windows PC",
+        "caption": "Phoenix WH",
+        "captionDesc": "Espace de travail spoofer utilisé sur chaque boutique."
+      }
+    ],
+    "overview": {
+      "title": "Flux de récupération HWID",
+      "paragraphs": [
+        "HWID Spoofer se concentre sur la rotation du profil matériel quand vous avez besoin d'un contexte machine propre avant de relancer DayZ après un signalement matériel.",
+        "Les formules mensuelles et à vie en USD utilisent le même tunnel de paiement que le reste de la gamme."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Quand l'utiliser"
+      },
+      {
+        "type": "p",
+        "text": "À utiliser lorsque de nouveaux comptes échouent sur un PC mais fonctionnent ailleurs — pas pour les bannissements de compte seuls. Associez-le à des préréglages de cheat conservateurs après vérification."
+      },
+      {
+        "type": "h2",
+        "text": "Forfaits"
+      },
+      {
+        "type": "p",
+        "text": "50 $ USD par mois (P31D) ou 150 $ USD à vie (P99Y)."
+      }
+    ],
+    "goodToKnow": "Les outils HWID modifient l'apparence de votre empreinte PC — ils ne lèvent pas à eux seuls un bannissement de compte. Suivez les guides du portail avant de relancer DayZ.",
+    "limitations": "Le spoofing comporte des risques techniques et peut enfreindre les conditions du jeu. Les résultats varient selon le type de sanctions et la configuration des pilotes. À utiliser uniquement sur les systèmes dont vous êtes propriétaire.",
+    "requirements": [
+      "Windows 10 ou 11 64 bits avec droits administrateur.",
+      "Créez un point de restauration avant d'exécuter les outils matériels.",
+      "Connexion Internet stable pour l'activation et la vérification."
+    ],
+    "features": [
+      "Spoofer matériel avec nettoyage",
+      "Rotation des numéros de série disque et MAC",
+      "Outils de profil d'identifiant GPU",
+      "Analyse de compatibilité",
+      "Liste de contrôle de vérification",
+      "Workflow pas à pas dans le portail",
+      "Support d'installation Discord"
+    ]
+  },
+  "ugc": {
+    "slides": [
+      {
+        "alt": "Aperçu de l'espace de travail UGC account recovery sur Windows PC",
+        "caption": "Récupération de compte",
+        "captionDesc": "Espace de travail pour les recours, partagé entre les boutiques."
+      },
+      {
+        "alt": "Bibliothèque de modèles de recours UGC sur Windows PC",
+        "caption": "Modèles de recours",
+        "captionDesc": "Parcours structurés et textes pour les contestations de bannissement."
+      },
+      {
+        "alt": "Tableau de bord de suivi des cas UGC sur Windows PC",
+        "caption": "Suivi des cas",
+        "captionDesc": "Listes de preuves et rappels de suivi au même endroit."
+      }
+    ],
+    "overview": {
+      "title": "Espace de travail UGC Account recovery",
+      "paragraphs": [
+        "UGC Account recovery aide à organiser les recours et les dossiers de récupération avec des modèles, des listes de preuves et des rappels de suivi.",
+        "Livraison numérique instantanée après paiement sécurisé, avec support Discord pour les questions d'installation."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Flux de recours"
+      },
+      {
+        "type": "p",
+        "text": "Créez des parcours de recours sur mesure, automatisez les étapes et suivez l'état des dossiers lorsque les comptes sont verrouillés ou restreints."
+      },
+      {
+        "type": "h2",
+        "text": "Forfaits"
+      },
+      {
+        "type": "p",
+        "text": "35 $ USD par mois (P31D) ou 150 $ USD à vie (P99Y)."
+      }
+    ],
+    "goodToKnow": "Rassemblez l'e-mail de commande, les détails du compte et les captures d'écran des restrictions avant d'ouvrir un ticket. UGC structure les recours — il ne contourne pas l'examen de la plateforme.",
+    "limitations": "UGC ne garantit pas la restauration du compte. Les résultats varient selon le type de dossier et la politique de la plateforme.",
+    "requirements": [
+      "Windows 10 ou 11 (64 bits).",
+      "Accès Internet pour la synchronisation des flux et les mises à jour.",
+      "Accès administrateur pour l'installation."
+    ],
+    "features": [
+      "Flux de recours personnalisés",
+      "Espace de travail de récupération multiplateforme",
+      "Bibliothèque de modèles",
+      "Automatisation des étapes répétitives",
+      "Tableau de bord de suivi des restrictions",
+      "Livraison sécurisée via le portail",
+      "Forfaits mensuels et à vie en USD"
+    ]
+  }
+}

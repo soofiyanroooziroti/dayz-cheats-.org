@@ -1,0 +1,108 @@
+{
+  "site": {
+    "title": "DayZ Cheats | 顶尖 Steam 辅助与作弊工具",
+    "description": "DayZ cheats for Steam on Windows PC with aimbot, player ESP, vehicle markers, and radar. Compare the cheat, HWID spoofer, and UGC recovery on dayz-cheats.org."
+  },
+  "pages": {
+    "/": {
+      "title": "DayZ cheats Windows PC | ESP, Aimbot & 价格",
+      "description": "Aimbot, player ESP, infected ESP, world ESP, and item ESP for DayZ on Windows PC. 价格与更新状态说明。每个产品单独结算。"
+    },
+    "/products/dayz-cheats/": {
+      "title": "Cheats for DayZ | Monthly and Lifetime 方案",
+      "description": "Cheats for DayZ on Steam: three Windows products share $35 monthly and $150 lifetime. Loader, HWID 工具，以及账号申诉为单独结算。"
+    },
+    "/products/dayz-cheats/dayz-cheats/": {
+      "title": "Steam Loader for Windows PC | 自瞄与雷达",
+      "description": "Steam loader 包含自瞄辅助、玩家透视、载具标记、2D地图和无后坐力工具。Monthly 30天起。Lifetime is $150."
+    },
+    "/products/dayz-cheats/hwid-spoofer/": {
+      "title": "HWID Spoofer 用于 DayZ Windows 硬件标志",
+      "description": "HWID spoofer 适用于面临硬件标记的 DayZ 玩家。在 Windows PC 上进行配置文件轮换和门户设置。它无法修复仅限账号的封禁。"
+    },
+    "/products/dayz-cheats/ugc/": {
+      "title": "UGC Account Recovery 针对 DayZ PC 上诉案件",
+      "description": "UGC account recovery 组织 DayZ 封禁申诉和恢复案件。将许可证与 Steam loader 以及 Windows PC 上的 HWID spoofer 分开。"
+    },
+    "/products/dayz-cheats/utilities/": {
+      "title": "比较 HWID 工具和账户申诉实用程序",
+      "description": "查看哪个 Windows 实用程序适合硬件标志，哪个适合账户申诉。两者都是来自 DayZ loader 的独立结账。"
+    },
+    "/blog/": {
+      "title": "DayZ PC 瞄准、ESP、战利品、菜单与 BattlEye 指南",
+      "description": "Steam loader 指南，涵盖 aimbot、玩家与丧尸 ESP、载具、战利品、作弊菜单、HWID 标记以及 BattlEye 封禁风险。"
+    },
+    "/blog/best-dayz-cheats-2026/": {
+      "title": "DayZ Cheats – $35 monthly 与 $150 lifetime 在 Steam 上的对比",
+      "description": "2026年商店规划预览：瞄准辅助、视觉透视、地图工具、封禁风险，以及 Steam 上的 $35 monthly 与 $150 lifetime对比。"
+    },
+    "/blog/how-to-download-dayz/": {
+      "title": "DayZ DMA 支付结算中心设置指南",
+      "description": "DayZ DMA 搜索通常涉及硬件卡。本指南介绍结账后的 Steam 软件 loader，而非第二个 PC。"
+    },
+    "/blog/dayz-anti-cheat/": {
+      "title": "BattlEye – DayZ Anticheat Notes Before You Queue",
+      "description": "DayZ anticheat on the live client is BattlEye. Read what a report can do, why a hardware flag is different, and why no page here promises a clean match."
+    },
+    "/blog/what-is-an-hwid-spoofer/": {
+      "title": "What an HWID Spoofer Changes on a PC",
+      "description": "A hardware flag follows the computer, not only the profile. This note explains what a spoofer changes and what it leaves alone."
+    },
+    "/blog/dayz-cheats-pricing/": {
+      "title": "Monthly $35 vs Lifetime $150 on This Store",
+      "description": "Lifetime: Compare 31-day access at $35 with the $150 long-term key. Each product is a separate checkout. The loader $150 tier does not add the spoofer."
+    },
+    "/blog/dayz-aimbot/": {
+      "title": "DayZ Aimbot – 屏幕辅助范围保持目标清晰",
+      "description": "针对 FOV 的 DayZ Aimbot 设置，支持平滑度、骨骼选择、可见性检查、预判以及屏幕辅助范围，让辅助效果一目了然。"
+    },
+    "/blog/dayz-esp/": {
+      "title": "DayZ ESP 玩家与载具透视",
+      "description": "DayZ ESP 提供方框、骨骼、血量、小队标签和载具类型显示，让您在 Steam 上的联合作战中掌控全局。"
+    },
+    "/blog/dayz-radar/": {
+      "title": "DayZ 2D Radar 雷达标记与距离缩放",
+      "description": "DayZ 2D Radar 雷达配备步兵图标、载具图标和距离滑块，使 2D 地图完美匹配您的实际游戏视野。"
+    },
+    "/blog/dayz-no-recoil/": {
+      "title": "无后坐力、无扩散与亮化设置",
+      "description": "提供无后坐力、无扩散、全亮、自定义准星以及配置保存功能，适用于Steam loader。以上所有功能均无法消除封禁风险。"
+    },
+    "/blog/dayz-season-2/": {
+      "title": "第二赛季 – 10月15日新增武器与载具",
+      "description": "10月15日的0.2.0更新添加了武器、载具和护甲重做。第三赛季定于11月12日上线，并伴随经济重置。"
+    },
+    "/blog/what-an-hwid-spoofer-does/": {
+      "title": "HWID Spoofer – 工具在被标记后的作用",
+      "description": "HWID spoofer：当新配置文件在一个PC上失效而在另一个上可用时，硬件工具属于独立产品。它无法撤销单纯针对账号的处罚。"
+    },
+    "/forum/": {
+      "title": "DayZ 社区论坛：安装、瞄准与服务方案",
+      "description": "关于 DayZ loader、瞄准与 ESP 选项、$35 monthly 和 $150 lifetime 方案以及 BattlEye 补丁日的论坛讨论。开发者回复已标记。"
+    },
+    "/faq/": {
+      "title": "常见问题 – 方案、安装与 BattlEye 结账前风险",
+      "description": "关于结账、BattlEye 更新、Windows 与 Steam 要求、硬件标记，以及 loader、spoofer 和账户工具的区别。"
+    },
+    "/support/": {
+      "title": "DayZ 支持：Loader、结账与 HWID PC",
+      "description": "Loader、结账和 DayZ 工具、HWID spoofer 以及账户申诉的门户帮助。请附上您的订单邮箱和确切的 loader。"
+    },
+    "/about/": {
+      "title": "关于此 DayZ 商店：交付、定价与封号风险",
+      "description": "商店说明：dayz-cheats.org 出售的内容、结账与门户交付流程，以及在 DayZ 上游玩 Windows PC 时使用第三方工具的风险。"
+    },
+    "/privacy/": {
+      "title": "关于分析、Cookie 与联系数据的隐私说明",
+      "description": "dayz-cheats.org 如何处理分析数据、Cookie 和联系信息。支付卡号保存在结账服务提供商处，本商店不予存储。"
+    },
+    "/terms/": {
+      "title": "许可条款、退款政策与使用规则",
+      "description": "通过 dayz-cheats.org 销售的 loader、HWID spoofer 以及账号找回服务的许可条款、使用规范和不支持退款的规则。"
+    },
+    "/status/": {
+      "title": "DayZ 状态与 BattlEye 补丁说明",
+      "description": "Windows loader 的模块和门户更新日志。在 Steam 上启动 DayZ 之前，请在每次 BattlEye 更新后检查状态。"
+    }
+  }
+}

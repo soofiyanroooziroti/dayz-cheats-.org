@@ -1,0 +1,1480 @@
+{
+  "site": {
+    "name": "DayZ cheats",
+    "domain": "dayz-cheats.org",
+    "title": "DayZ cheats",
+    "description": "Aimbot, player ESP, infected ESP, world ESP, item ESP, and config for DayZ on Windows PC.",
+    "discord": "/go/dayz/"
+  },
+  "nav": [
+    {
+      "href": "/",
+      "label": "Úvod"
+    },
+    {
+      "href": "/products/dayz-cheats/",
+      "label": "Produkty"
+    },
+    {
+      "href": "/products/dayz-cheats/dayz-cheats/#features",
+      "label": "Funkce"
+    },
+    {
+      "href": "/blog/",
+      "label": "Blog"
+    },
+    {
+      "href": "/forum/",
+      "label": "Fórum"
+    },
+    {
+      "href": "/faq/",
+      "label": "FAQ"
+    },
+    {
+      "href": "/support/",
+      "label": "Podpora"
+    }
+  ],
+  "headerNavLabels": {
+    "home": "Úvod",
+    "products": "Obchod",
+    "features": "Funkce",
+    "blog": "Blog",
+    "forum": "Fórum",
+    "faq": "FAQ",
+    "support": "Nápověda"
+  },
+  "navMore": "Více",
+  "navShort": {
+    "home": "Úvod",
+    "products": "Produkty",
+    "features": "Funkce",
+    "blog": "Blog",
+    "forum": "Fórum",
+    "faq": "FAQ",
+    "support": "Podpora"
+  },
+  "hero": {
+    "status": "DayZ — moduly online",
+    "eyebrow": "Steam · Windows PC",
+    "titleLine1": "DayZ Cheats pro Windows PC",
+    "titleLine2": "Cheaty",
+    "subtitle": "DayZ cheats pro Steam na Windows PC: aimbot, hráči ESP, nakažení ESP, svět ESP, předměty ESP a konfigurace, s okamžitým doručením a podporou Discord.",
+    "ctaPrimary": "Zobrazit produkty",
+    "ctaDiscord": "Koupit nyní",
+    "modesLabel": "Režimy",
+    "modes": [
+      "Přežití",
+      "PvP",
+      "Nájezdy na základny",
+      "Loot runy"
+    ],
+    "marqueeAria": "Funkce a podpora platformy",
+    "metrics": [
+      {
+        "label": "Anti-cheat",
+        "strong": "BattlEye"
+      },
+      {
+        "label": "Platforma",
+        "strong": "Windows PC"
+      },
+      {
+        "label": "Plány",
+        "strong": "$35 / $150"
+      },
+      {
+        "label": "Podpora",
+        "strong": "24/7"
+      }
+    ]
+  },
+  "features": {
+    "eyebrow": "Funkce",
+    "title": "Vše, co potřebuješ, v jednom balíčku",
+    "subtitle": "Menu loader: aimbot, ESP hráči, ESP infikovaní, ESP svět, ESP předměty, ostatní a nastavení.",
+    "items": [
+      {
+        "title": "Možnosti Aimbot",
+        "subtitle": "FOV, vzdálenost, kost, ignorování.",
+        "desc": "Přepínač, FOV, vzdálenost míření, ignorování hráčů, infikovaných nebo zvířat, kost, styl FOV a čára k cíli.",
+        "bullets": [
+          "Přepínač Aimbot",
+          "Přizpůsobitelná FOV a vzdálenost míření",
+          "Kost: nejbližší, hlava, krk, pánská"
+        ],
+        "tags": [
+          "aimbot",
+          "fov",
+          "bone"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-6"
+      },
+      {
+        "title": "Možnosti ESP hráčů",
+        "subtitle": "Rámeček, kostra, inventář.",
+        "desc": "Aktivace, přátelé, rámeček, vyplněný rámeček, tečka na hlavě, kostra, zdraví, jméno, vzdálenost, inventář, předmět v rukou, traces a maximální vzdálenost.",
+        "bullets": [
+          "Rámeček nebo rohový rámeček",
+          "Inventář a předmět v rukou",
+          "Maximální vzdálenost"
+        ],
+        "tags": [
+          "player esp",
+          "skeleton",
+          "inventory"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-6"
+      },
+      {
+        "title": "Možnosti ESP infikovaných",
+        "subtitle": "Zobrazení zombíků.",
+        "desc": "Aktivace, rámeček, vyplněný rámeček, tečka na hlavě, kostra, zdraví, jméno, vzdálenost, traces a maximální vzdálenost pro infikované.",
+        "bullets": [
+          "Aktivace a možnosti rámečku",
+          "Kostra, zdraví a vzdálenost",
+          "Maximální vzdálenost"
+        ],
+        "tags": [
+          "infected",
+          "zombie",
+          "esp"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-4"
+      },
+      {
+        "title": "Možnosti ESP světa",
+        "subtitle": "Zvířata, vozidla, pády vrtulníků.",
+        "desc": "Zvíře ESP, zdraví jako text nebo pruh, vozidlo ESP a značky míst pádů vrtulníků.",
+        "bullets": [
+          "Zvíře ESP",
+          "Vozidlo ESP",
+          "Pád vrtulníku"
+        ],
+        "tags": [
+          "world",
+          "vehicle",
+          "helicrash"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-4"
+      },
+      {
+        "title": "Možnosti ESP předmětů",
+        "subtitle": "Kvalita a bojový režim.",
+        "desc": "Kvalita předmětů, kvalita jako text nebo pruh, bojový režim a zobrazení pouze při najetí myší.",
+        "bullets": [
+          "Kvalita předmětů",
+          "Bojový režim",
+          "Zobrazit pouze při najetí"
+        ],
+        "tags": [
+          "items",
+          "quality"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-4"
+      },
+      {
+        "title": "Různé možnosti",
+        "subtitle": "No clip, den, tráva, zaměřovač.",
+        "desc": "No clip, stále den, místní pozice, odemknutí pohledu třetí osoby, odstranění trávy a zaměřovač.",
+        "bullets": [
+          "No clip a stále den",
+          "Odemknutí pohledu třetí osoby",
+          "Bez trávy a zaměřovač"
+        ],
+        "tags": [
+          "misc",
+          "crosshair"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-6"
+      },
+      {
+        "title": "Možnosti konfigurace",
+        "subtitle": "FPS, jazyk, uložení a načtení.",
+        "desc": "Omezení FPS, jazyk menu v angličtině nebo čínštině, uložení konfigu a načtení konfigu.",
+        "bullets": [
+          "Omezení FPS",
+          "Anglické nebo čínské menu",
+          "Uložení a načtení konfigurace"
+        ],
+        "tags": [
+          "config",
+          "fps"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-6"
+      }
+    ]
+  },
+  "whyUs": {
+    "eyebrow": "Proč mi",
+    "title": "Špičkové nástroje podpořené aktualizacemi – ne sliby",
+    "subtitle": "Jeden cheat produkt, jeden HWID spoofer a jeden obnovovací pracovního prostoru UGC ace. Cheat a UGC jsou $35 monthly nebo $150 lifetime; spoofer stojí 50 USD monthly nebo $150 lifetime. Ban je stále možný podle BattlEye.",
+    "usLabel": "DayZ cheats",
+    "otherLabel": "Běžný poskytovatel",
+    "rows": [
+      {
+        "title": "loader aktualizace v den vydání patche",
+        "desc": "Zkontrolujte dayz-cheats.org po aktualizaci DayZ nebo BattlEye, než otevřete loader."
+      },
+      {
+        "title": "Samostatné posuvníky pro míření",
+        "desc": "FOV, vzdálenost míření, ignorování a kost jsou samostatná nastavení aimbot. Změňte jedno po druhém a poté použijte Uložit konfiguraci."
+      },
+      {
+        "title": "Loader a nápověda ke konfiguraci",
+        "desc": "Otázky k nastavení pokrývají Windows loader, uložené konfigurace a to, který produkt odpovídá hardwarovému příznaku versus případu účtu."
+      },
+      {
+        "title": "Samostatné pokladny produktů",
+        "desc": "Cheat, HWID spoofer a obnova UGC zůstávají oddělenými nákupy. Lifetime na cheat nepřidává spoofer."
+      },
+      {
+        "title": "Uložené konfigurace",
+        "desc": "Uložit konfiguraci a Načíst konfiguraci zachovají nastavení aimbot, ESP, různé a jazyk menu pro příští spuštění."
+      },
+      {
+        "title": "HWID je samostatný produkt",
+        "desc": "Zařízení, na kterém selhávají nové účty, představuje případ spooferu. Omezení týkající se pouze účtu je případ UGC. Nic z toho není součástí klíče k cheatu."
+      }
+    ],
+    "metrics": [
+      {
+        "value": "BattlEye",
+        "title": "Zkontrolovat po záplatě",
+        "desc": "Znovu zkontrolujte web po aktualizaci DayZ nebo BattlEye, než hru spustíte."
+      },
+      {
+        "value": "2",
+        "title": "Plány na každé kartě",
+        "desc": "Cheat a UGC monthly je $35 na 31 dní. Spoofer monthly stojí 50 USD. Lifetime je $150 za produkt. Týdenní plán neexistuje."
+      },
+      {
+        "value": "3",
+        "title": "Samostatné produkty",
+        "desc": "DayZ cheats, HWID spoofer a obnova UGC. Každá položka má vlastní klíč."
+      }
+    ]
+  },
+  "setup": {
+    "eyebrow": "Průvodce nastavením",
+    "titleLead": "Od nákupu po první server za pouhé",
+    "titleHighlight": "tři jednoduché kroky",
+    "intro": "Začít je snadné: proběhne platba, portál loader a pak uložená konfigurace. Před spuštěním DayZ zkontrolujte web po aktualizaci BattlEye.",
+    "ctaPrimary": "Zobrazit produkty",
+    "ctaSecondary": "Časté dotazy k nastavení",
+    "ctaPrimaryHref": "/products/dayz-cheats/",
+    "ctaSecondaryHref": "/faq/",
+    "statusStrip": {
+      "aceStatusCta": "Zkontrolovat stav BattlEye",
+      "aceStatusHref": "/status/",
+      "perks": [
+        {
+          "icon": "instantDelivery",
+          "label": "Okamžité doručení"
+        },
+        {
+          "icon": "support247",
+          "label": "Podpora 24/7"
+        },
+        {
+          "icon": "refresh",
+          "label": "Aktualizace Lifetime"
+        }
+      ]
+    },
+    "steps": [
+      {
+        "step": "Krok 1",
+        "title": "Odemkněte portál a stáhněte loader",
+        "desc": "Dokončete nákup, otevřete svůj ovládací panel a stáhněte si nejnovější sestavení opravy loader pro Windows."
+      },
+      {
+        "step": "Krok 2",
+        "title": "Spusťte a nastavte moduly",
+        "desc": "Spusťte loader a postupně nastavte aimbot, hráče ESP, infikované ESP, svět ESP, položky ESP a další možnosti."
+      },
+      {
+        "step": "Krok 3",
+        "title": "Zkontrolujte stav a spusťte hru",
+        "desc": "Ověřte, že je web pro tohoto klienta aktuální, a poté otevřete DayZ s uloženou konfigurací."
+      }
+    ]
+  },
+  "compatibility": {
+    "eyebrow": "Podpora platformy",
+    "title": "Funguje na vašem železe.",
+    "subtitle": "Před spuštěním zkontrolujte web po aktualizaci DayZ nebo BattlEye.",
+    "items": [
+      "Windows 10 & 11",
+      "Intel nebo AMD",
+      "HVCI zapnuto",
+      "Core isolation zapnuto",
+      "TPM zapnuto",
+      "Secure boot zapnuto",
+      "Podpora Discord",
+      "Uložení konfigurace"
+    ]
+  },
+  "cheats": {
+    "eyebrow": "Herní cheat",
+    "title": "DayZ Cheats",
+    "subtitle": "Aimbot, hráč ESP, infikovaní ESP, svět ESP, předmět ESP a konfigurace.",
+    "viewAll": "Zobrazit podrobnosti",
+    "explore": "Prozkoumat",
+    "items": [
+      {
+        "badge": "Aktivní",
+        "tier": "Plná sada",
+        "name": "DayZ",
+        "title": "DayZ Cheats",
+        "desc": "DayZ Cheats pro Steam — aimbot, hráč ESP, infikovaní ESP, svět ESP, předmět ESP a konfigurace.",
+        "features": [
+          "Možnosti Aimbot",
+          "Možnosti hráče ESP",
+          "Možnosti infikovaných ESP",
+          "Možnosti světa ESP",
+          "Možnosti předmětů ESP",
+          "Různé možnosti",
+          "Konfigurační možnosti"
+        ],
+        "more": 0,
+        "href": "/products/dayz-cheats/dayz-cheats/",
+        "variant": "popular"
+      }
+    ]
+  },
+  "products": {
+    "eyebrow": "Produkty",
+    "title": "Produkty a ceny",
+    "subtitle": "DayZ Cheats a UGC: $35/mo nebo $150 lifetime. HWID spoofer: $50/mo nebo $150 lifetime.",
+    "viewAll": "Zobrazit podrobnosti",
+    "get": "Koupit nyní",
+    "explore": "Prozkoumat",
+    "items": [
+      {
+        "badge": "Aktivní",
+        "category": "HWID spoofer",
+        "title": "HWID Spoofer",
+        "subtitle": "Obnovení ID hardwaru",
+        "desc": "HWID spoofer s čističem — změňte ID disku, MAC a GPU před opětovným spuštěním po hardwarových příznacích.",
+        "features": [
+          "Hardware spoofer + čistič",
+          "Kontrola kompatibility",
+          "Ověřovací kroky",
+          "Pracovní postup portálu"
+        ],
+        "more": 4,
+        "href": "/products/dayz-cheats/hwid-spoofer/"
+      },
+      {
+        "badge": "Aktivní",
+        "category": "UGC Account recovery",
+        "title": "UGC Account recovery",
+        "subtitle": "Odvolání a obnova",
+        "desc": "UGC Account recovery pracoace — vlastní postupy pro odvolání, šablony a sledování omezení.",
+        "features": [
+          "Vlastní postupy odvolání",
+          "Multiplatformní profily",
+          "Knihovna šablon",
+          "Přehledový panel"
+        ],
+        "more": 4,
+        "href": "/products/dayz-cheats/ugc/"
+      }
+    ]
+  },
+  "blog": {
+    "eyebrow": "Blog",
+    "title": "Návody a aktualizace",
+    "subtitle": "Poznámky k nastavení, průvodci pro aimbot a ESP a odpovědi na ceny pro DayZ na Windows PC.",
+    "latestTitle": "Průvodci DayZ pro míření, ESP, loot, menu a BattlEye",
+    "latestSubtitle": "Zveřejněné poznámky k menu Steam loader, cenám tarifů, příznakům HWID a riziku banu BattlEye.",
+    "filterAll": "Všechny články",
+    "sortLabel": "Seřadit podle",
+    "sortNewest": "Od nejnovějších",
+    "sortOldest": "Od nejstarších",
+    "sortShortRead": "Nejrychlejší čtení",
+    "sortLongRead": "Nejdelší čtení",
+    "emptyFilter": "Tomuto filtru neodpovídají žádné články.",
+    "emptyCatalog": "V tomto zobrazení nejsou uvedeni žádní průvodci. Otevřete filtr témat nebo stránku produktu.",
+    "viewAll": "Zobrazit všechny články",
+    "read": "Číst",
+    "items": [],
+    "minRead": "min čtení",
+    "filterByTopicAria": "Filtrovat články podle tématu",
+    "continueReadingAria": "Pokračovat ve čtení",
+    "tagLabels": {
+      "Review": "Recenze",
+      "Install": "Instalace",
+      "Safety": "Zabezpečení",
+      "Plans": "Tarify",
+      "Aim": "Míření",
+      "ESP": "ESP",
+      "Loot": "Loot",
+      "Visuals": "Vizuály",
+      "Camera": "Kamera",
+      "Guide": "Průvodce",
+      "Features": "Funkce",
+      "Setup": "Nastavení"
+    }
+  },
+  "toolkit": {
+    "eyebrow": "Software",
+    "title": "Přehledné, snadno nastavitelné",
+    "subtitle": "Každý modul je seskupen pro rychlé ladění přímo během zápasu bez zmateného přepínání oken.",
+    "items": [
+      {
+        "num": "01",
+        "label": "Aimbot",
+        "title": "Aimbot Možnosti",
+        "desc": "Přepínač, FOV, vzdálenost míření, ignorovat hráče, infikované nebo zvířata, kost, styl FOV a čára k cíli."
+      },
+      {
+        "num": "02",
+        "label": "Hráči",
+        "title": "Možnosti hráčů ESP",
+        "desc": "Aktivovat, přátelé, rám, vyplněný rám, tečka na hlavě, kostra, zdraví, jméno, vzdálenost, inventář, předmět v rukou, tracey a maximální vzdálenost."
+      },
+      {
+        "num": "03",
+        "label": "Infikovaní",
+        "title": "Možnosti infikovaných ESP",
+        "desc": "Aktivovat, rám, kostra, zdraví, jméno, vzdálenost, tracey a maximální vzdálenost pro infikované."
+      },
+      {
+        "num": "04",
+        "label": "Svět",
+        "title": "Možnosti světa ESP",
+        "desc": "Zvíře ESP, zdraví jako text nebo pruh, vozidlo ESP a helihavárie."
+      },
+      {
+        "num": "05",
+        "label": "Předměty",
+        "title": "Možnosti předmětů ESP",
+        "desc": "Kvalita předmětu, kvalita jako text nebo pruh, bojový režim a zobrazit pouze při najetí."
+      },
+      {
+        "num": "06",
+        "label": "Různé",
+        "title": "Různá nastavení",
+        "desc": "Průchod zdmi, stále den, lokální pozice, odemčení pohledu třetí osoby, bez trávy a zaměřovač."
+      },
+      {
+        "num": "07",
+        "label": "Konfigurace",
+        "title": "Možnosti konfigurace",
+        "desc": "Omezení FPS, jazyk menu v angličtině nebo čínštině, uložení konfigurace a načtení konfigurace."
+      }
+    ]
+  },
+  "workflow": {
+    "eyebrow": "Jak to funguje",
+    "badge": "4 jednoduché kroky",
+    "titleBefore": "Od kontroly stavu po",
+    "titleHighlight": "uložený profil.",
+    "subtitle": "Přímá cesta od kontroly stavu k uložené konfiguraci DayZ.",
+    "ctaLabel": "Zobrazit produkty",
+    "ctaHref": "/products/dayz-cheats/",
+    "ctaSecondary": "Časté dotazy k nastavení",
+    "ctaSecondaryHref": "/faq/",
+    "items": [
+      {
+        "num": "01",
+        "phase": "Před nákupem",
+        "title": "Zkontrolovat stav BattlEye",
+        "desc": "Před nákupem nebo spuštěním si přečtěte dayz-cheats.org po aktualizaci klienta nebo BattlEye."
+      },
+      {
+        "num": "02",
+        "phase": "Pokladna",
+        "title": "Vybrat produkt",
+        "desc": "DayZ Cheats nebo UGC: $35 monthly nebo $150 lifetime. HWID Spoofer: $50 monthly nebo $150 lifetime. Samostatné klíče."
+      },
+      {
+        "num": "03",
+        "phase": "Loader",
+        "title": "Spustit a nastavit",
+        "desc": "Stáhněte z portálu. Nechte HVCI, izolaci jádra, TPM a secure boot zapnuté."
+      },
+      {
+        "num": "04",
+        "phase": "Ve hře",
+        "title": "Uložit profil",
+        "desc": "Když vám kužel střelby a štítky ESP přijdou v pořádku, uložte konfiguraci."
+      }
+    ]
+  },
+  "fieldNotes": {
+    "eyebrow": "Poznámky z terénu",
+    "title": "Vytvořeno pro DayZ na Windows PC.",
+    "items": [
+      {
+        "num": "01",
+        "title": "Kontrola v den aktualizace",
+        "desc": "Přečtěte si web po aktualizaci BattlEye nebo klienta. Včerejší banner neznamená aktuální sestavení."
+      },
+      {
+        "num": "02",
+        "title": "Jeden posuvník po druhém",
+        "desc": "Měňte FOV, vzdálenost míření nebo kost samostatně, abyste věděli, které nastavení způsobilo tah nebo zmatek na obrazovce."
+      },
+      {
+        "num": "03",
+        "title": "Samostatné produkty",
+        "desc": "Cheat, HWID spoofer a obnova UGC jsou tři různé nákupy. Aktivace Lifetime na jednom neodemkne ostatní."
+      }
+    ]
+  },
+  "support": {
+    "eyebrow": "Podpora",
+    "title": "DayZ podpora",
+    "subtitle": "Dej nám vědět, jak můžeme pomoci.",
+    "channels": [
+      {
+        "icon": "users",
+        "title": "Chat před platbou",
+        "desc": "Zeptej se na cheat, spoofer nebo UGC předtím, než zaplatíš.",
+        "linkLabel": "Zahájit platbu",
+        "href": "/go/dayz/"
+      },
+      {
+        "icon": "messageCircle",
+        "title": "Komunitní fórum",
+        "desc": "Nastavení, míření, ESP a dotazy k plánu s označenými odpověďmi vývojářů.",
+        "linkLabel": "Otevřít fórum",
+        "href": "/forum/"
+      },
+      {
+        "icon": "navFaq",
+        "title": "Přečti si FAQ",
+        "desc": "Kompatibilita, bany a nastavení — ještě než nakoupíš.",
+        "linkLabel": "Zobrazit všechny FAQ",
+        "href": "/faq/"
+      },
+      {
+        "icon": "clock",
+        "title": "Živí operátoři",
+        "desc": "Discord inženýři ve službě 24/7.",
+        "linkLabel": "Otevřít stránku kontaktů",
+        "href": "/support/"
+      }
+    ],
+    "ticketTitle": "Zahrň do svého ticketu",
+    "ticketItems": [
+      {
+        "title": "E-mail objednávky",
+        "desc": "Adresa použitá při placení na dayz-cheats.org."
+      },
+      {
+        "title": "Platforma",
+        "desc": "Windows 10 nebo 11 a zda jsou HVCI, core isolation, TPM a secure boot zapnuté."
+      },
+      {
+        "title": "Podrobnosti o chybě",
+        "desc": "Přesná zpráva loader, žádná parafráze."
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Jasné odpovědi před nákupem.",
+    "subtitle": "Kompatibilita, bany a přístup – žádné vágní sliby.",
+    "items": [
+      {
+        "id": "status",
+        "topic": "setup",
+        "icon": "faqStatus",
+        "q": "Kde ověřím, zda je loader aktuální?",
+        "a": "Přečtěte si dayz-cheats.org po aktualizaci DayZ nebo BattlEye. Banner ze včerejška neznamená aktuální sestavení. Nechávejte loader zavřenou, dokud stránka neodpovídá tomuto klientovi."
+      },
+      {
+        "id": "season-3",
+        "topic": "setup",
+        "icon": "faqStatus",
+        "q": "Aktualizace 1.30 je venku. Kdy mám otevřít loader?",
+        "a": "Aktualizace 1.30 a Badlands vyšly na Steamu 15. října 2026. Před spuštěním si po tomto klientovi a po každé další opravě přečtěte stavovou stránku. Uložená konfigurace ze staršího sestavení nepředstavuje aktuální kontrolu. Ban je stále možný.",
+        "aHtml": "Aktualizace 1.30 a Badlands vyšly na Steamu 15. října 2026. Před spuštěním si po tomto klientovi a po každé další opravě přečtěte <a href=\"/status/\">stavovou stránku</a>. Uložená konfigurace ze staršího sestavení nepředstavuje aktuální kontrolu. Ban je stále možný."
+      },
+      {
+        "id": "season-2",
+        "topic": "setup",
+        "icon": "faqStatus",
+        "q": "Co aktualizace 1.30 změnila v nabídce loader?",
+        "a": "Klient pro Steam přidal Nasdaru, modely Jana 50 a Enduro, elektronické zámky na kód, widget pro vylepšení základny a nové ikony inventáře. Zveřejněná nabídka loader se stále skládá z položek aimbot, hráč ESP, infikovaní ESP, svět ESP, předmět ESP, ostatní a konfigurace. Nová kola spadají pod vozidlo ESP. Nejsou to další přepínače na této stránce.",
+        "aHtml": "Klient pro Steam přidal Nasdaru, modely Jana 50 a Enduro, elektronické zámky na kód, widget pro vylepšení základny a nové ikony inventáře. Zveřejněná nabídka loader se stále skládá z položek aimbot, hráč ESP, infikovaní ESP, svět ESP, předmět ESP, ostatní a konfigurace. Nová kola spadají pod vozidlo ESP. Nejsou to další přepínače na této stránce. Poznámku <a href=\"/status/\">stavové stránky</a> je nutné si přečíst před spuštěním."
+      },
+      {
+        "id": "after-buy",
+        "topic": "setup",
+        "icon": "faqAfterBuy",
+        "q": "Co se stane po nákupu?",
+        "a": "Dokončení nákupu otevře portál s loader pro zakoupený produkt. Po vyladění si uložte konfiguraci. HVCI, izolace jádra, TPM a secure boot zůstávají zapnuté."
+      },
+      {
+        "id": "ban-risk",
+        "topic": "safety",
+        "icon": "faqBanRisk",
+        "q": "Můžu dostat ban?",
+        "a": "Ano. BattlEye může vůči účtu zasáhnout. Nic na této stránce negarantuje, že relace zůstane čistá."
+      },
+      {
+        "id": "hwid-ban-risk",
+        "topic": "safety",
+        "icon": "faqBanRisk",
+        "q": "Co je to příznak HWID a vyřeší ho cheat klíč?",
+        "a": "Hardwarový příznak se váže na PC. Nové účty na daném stroji mohou selhat, zatímco na jiném fungují. K tomu slouží <a href=\"/products/dayz-cheats/hwid-spoofer/\">HWID Spoofer</a>, který se prodává samostatně. Neodstraňuje omezení vázaná čistě na účet a lifetime na stránce <a href=\"/products/dayz-cheats/dayz-cheats/\">DayZ Cheats</a> jej neobsahuje."
+      },
+      {
+        "id": "platforms",
+        "topic": "setup",
+        "icon": "faqPlatforms",
+        "q": "Které PC jsou podporovány?",
+        "a": "Windows 10 nebo 11 na procesorech Intel či AMD, se zapnutou funkcí HVCI, izolací jádra, TPM a secure boot. Systémy macOS a Linux podporovány nejsou."
+      },
+      {
+        "id": "license-move",
+        "topic": "products",
+        "icon": "faqLicenseMove",
+        "q": "Mohu klíč přesunout na jiné PC?",
+        "a": "Otevřete podporu a uveďte e-mail z objednávky. Stroj, na kterém selhávají nové účty, vyžaduje zakoupení HWID Spoofer, nejde o bezplatný přesun cheat klíče."
+      },
+      {
+        "id": "products-page",
+        "topic": "products",
+        "icon": "faqProductsPage",
+        "q": "Co je v nabídce k prodeji?",
+        "a": "<a href=\"/products/dayz-cheats/dayz-cheats/\">DayZ Cheats</a>, <a href=\"/products/dayz-cheats/hwid-spoofer/\">HWID Spoofer</a> a <a href=\"/products/dayz-cheats/ugc/\">UGC Account recovery</a> najdete na <a href=\"/products/dayz-cheats/\">stránce produktů</a>. Cheat a UGC stojí $35 na 31 dní nebo $150 lifetime. Spoofer stojí 50 USD na 31 dní nebo $150 lifetime. Jedná se o tři samostatné nákupy."
+      },
+      {
+        "id": "plans-same-price",
+        "topic": "plans",
+        "icon": "faqComparePlans",
+        "q": "Zahrnuje $150 lifetime i spoofer?",
+        "a": "Ne. Lifetime na stránce DayZ Cheats se týká pouze daného produktu. HWID spoofer a obnova UGC jsou samostatné klíče s vlastními cenami monthly a lifetime. Počáteční monthly nezaručuje nárok na kredit vůči lifetime.",
+        "scopes": [
+          "dayz-cheats",
+          "hwid-spoofer",
+          "ugc"
+        ]
+      },
+      {
+        "id": "aim-vs-camera",
+        "topic": "esp",
+        "icon": "faqWhatIsEsp",
+        "q": "Co mění přizpůsobitelný prvek FOV?",
+        "a": "Určuje šířku kuželu míření. Toto nastavení se nachází v možnosti Aimbot Options. Styl položky FOV mění pouze to, zda se kužel vykresluje plnou barvou, nebo jako přechod.",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "esp-clutter",
+        "topic": "esp",
+        "icon": "faqWhatIsEsp",
+        "q": "Proč hráčské zobrazení ESP zakrývá boj?",
+        "a": "Možnosti hráče ESP zahrnují rámeček, vyplněný rámeček, tečku na hlavě, kostru, panel zdraví, jméno, vzdálenost, inventář, předmět v rukou a tracey. Vypněte popisky, které nesledujete, případně snižte maximální vzdálenost.",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "not-dma",
+        "topic": "scripts",
+        "icon": "faqExternalLoader",
+        "q": "Jedná se o kartu DMA?",
+        "a": "Ne. DayZ Cheats je Windows loader získaná při pokladně. Zařízení DMA je odlišný produkt a tento klíč jej neposkytuje. Nespouštějte soubory získané z výsledků vyhledávání.",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "ugc-scope",
+        "topic": "products",
+        "icon": "faqProductsPage",
+        "q": "K čemu slouží UGC Account recovery?",
+        "a": "<a href=\"/products/dayz-cheats/ugc/\">UGC Account recovery</a> představuje pracovní prostředí pro odvoláníace: šablony, seznamy důkazů a následné kroky. Nejedná se o garanci zrušení banu ani o HWID spoofer.",
+        "scopes": [
+          "ugc"
+        ]
+      },
+      {
+        "id": "spoofer-scope",
+        "topic": "products",
+        "icon": "faqProductsPage",
+        "q": "Kdy je správné zakoupit HWID spoofer?",
+        "a": "Použijte <a href=\"/products/dayz-cheats/hwid-spoofer/\">HWID Spoofer</a> tehdy, když nový účet selže na jednom zařízení PC, ale na jiném funguje. Nevyřeší to omezení vázané pouze na účet. V takovém případě si kupte <a href=\"/products/dayz-cheats/ugc/\">UGC Account recovery</a>.",
+        "scopes": [
+          "hwid-spoofer"
+        ]
+      },
+      {
+        "id": "stickiness-vs-smooth",
+        "topic": "scripts",
+        "icon": "faqExternalLoader",
+        "q": "Kam se uloží nabídka po provedení změn?",
+        "a": "Možnosti konfigurace obsahují položky pro uložení a načtení konfigurace. Omezení FPS a jazyk nabídky (angličtina nebo čínština) se nacházejí ve stejné skupině.",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "visible-check",
+        "topic": "scripts",
+        "icon": "faqWhatIsEsp",
+        "q": "Může aimbot přeskakovat infikované nebo zvířata?",
+        "a": "Možnost ignorování v sekci Aimbot Options umožňuje přeskakovat hráče, infikované, zvířata nebo jejich kombinaci. Volba kosti pak vybírá nejbližší bod, hlavu, krk nebo pánev.",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "ignore-knocked",
+        "topic": "esp",
+        "icon": "faqWhatIsEsp",
+        "q": "Co vybírá nastavení kosti?",
+        "a": "Kost v sekci Aimbot Options může být nejbližší, hlava, krk nebo pánev.",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "bone-and-filter",
+        "topic": "scripts",
+        "icon": "faqExternalLoader",
+        "q": "Co se nachází v možnostech světa ESP?",
+        "a": "Zvíře ESP, zdraví jako text nebo panel, vozidlo ESP a místa pádů vrtulníků.",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "controller-binds",
+        "topic": "setup",
+        "icon": "faqPlatforms",
+        "q": "Obsahuje nabídka přiřazení pro ovladač?",
+        "a": "Ne. Možnosti Aimbot zahrnují přepínač, FOV, vzdálenost míření, ignorování, kost, styl FOV a čáru k cíli.",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "squad-read",
+        "topic": "esp",
+        "icon": "faqWhatIsEsp",
+        "q": "Jak označit hráče bez všech popisků?",
+        "a": "Možnosti hráče ESP mohou využívat rohový nebo úplný rámeček, tečku na hlavě, kostru, jméno a vzdálenost. Přátelé představují samostatný přepínač. Inventář a předmět v rukou jsou volitelné.",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "loot-price-floor",
+        "topic": "esp",
+        "icon": "faqWhatIsEsp",
+        "q": "Jak fungují popisky předmětů?",
+        "a": "Možnosti předmětů ESP obsahují kvalitu předmětu, zobrazení kvality jako textu nebo panelu, bojový režim a zobrazení pouze při najetí kurzorem.",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "scale-and-crosshair",
+        "topic": "scripts",
+        "icon": "faqExternalLoader",
+        "q": "Kde najdu zaměřovač a přepínače pohledu třetí osoby?",
+        "a": "Ostatní možnosti obsahují zaměřovač a odemknutí pohledu třetí osoby, plus průchod zdmi (no clip), trvalý den, lokální pozici a odstranění trávy.",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "combat-mode",
+        "topic": "scripts",
+        "icon": "faqExternalLoader",
+        "q": "Vypíná bojový režim aimbot?",
+        "a": "Bojový režim se nachází v možnostech předmětů ESP, vedle volby zobrazení pouze při najetí. Přepínač Aimbot je samostatný prvek v možnostech Aimbot.",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "encryption-bypass",
+        "topic": "setup",
+        "icon": "faqStatus",
+        "q": "Co se nachází v ostatních možnostech?",
+        "a": "Průchod zdmi, trvalý den, lokální pozice, odemknutí pohledu třetí osoby, odstranění trávy a zaměřovač.",
+        "scopes": [
+          "dayz-cheats"
+        ]
+      },
+      {
+        "id": "blog-default-1",
+        "topic": "blog",
+        "icon": "faqBlogDefault1",
+        "q": "Jsou průvodce na blogu oficiální produktovou dokumentací?",
+        "a": "Články vysvětlují pracovní postupy a odkazují na DayZ Cheats. Seznam funkcí na této stránce je primárním zdrojem pro nákup.",
+        "aHtml": "Články vysvětlují pracovní postupy a odkazují na <a href=\"/products/dayz-cheats/dayz-cheats/\">DayZ Cheats</a>. Seznam funkcí na této stránce je primárním zdrojem pro nákup."
+      },
+      {
+        "id": "blog-default-2",
+        "topic": "blog",
+        "icon": "faqBlogDefault2",
+        "q": "Potřebujete pomoci s použitím tohoto návodu?",
+        "a": "Otevřete podporu a přiložte e-mail z objednávky spolu s názvem článku. Pokud něco selže, uveďte přesný text loader."
+      },
+      {
+        "id": "blog-default-3",
+        "topic": "blog",
+        "icon": "faqBlogDefault3",
+        "q": "Budou nastavení z tohoto článku fungovat i v příští záplatě?",
+        "a": "Zkontrolujte je znovu po každé aktualizaci DayZ nebo BattlEye. Místo kopírování starých hodnot posuvníků z příspěvku raději načtěte uloženou konfiguraci."
+      },
+      {
+        "id": "blog-plan-start",
+        "topic": "plans",
+        "icon": "faqComparePlans",
+        "q": "Jakým plánem mám začít?",
+        "a": "Začněte s 31denním klíčem, pokud si chcete produkt vyzkoušet před jednorázovou platbou. DayZ Cheats a UGC stojí $35 na 31 dní nebo $150 lifetime. HWID spoofer stojí 50 USD na 31 dní nebo $150 lifetime. 31denní nákup nezahrnuje kredit na lifetime a klíč lifetime pro jeden produkt nezahrnuje ostatní."
+      },
+      {
+        "id": "blog-plan-upgrade",
+        "topic": "plans",
+        "icon": "faqLicenseMove",
+        "q": "Mohu 31denní klíč povýšit na lifetime?",
+        "a": "Automatické povýšení neexistuje. Lifetime představuje samostatný nákup u stejného produktu. Již zaplacená částka $35 nebo 50 USD se nezapočítává jako kredit na cenu $150 lifetime."
+      },
+      {
+        "id": "blog-plan-expire",
+        "topic": "plans",
+        "icon": "faqAfterBuy",
+        "q": "Co se stane, když platnost plánu vyprší?",
+        "a": "Platnost 31denního klíče skončí uplynutím této doby. Chcete-li zachovat přístup, kupte si další 31denní klíč nebo klíč lifetime pro tento produkt. Lifetime se automaticky neobnovuje. Vypršený klíč nelze přenést na jiný produkt."
+      },
+      {
+        "id": "blog-plan-status",
+        "topic": "plans",
+        "icon": "faqStatus",
+        "q": "Kde ověřím aktuální stav loader?",
+        "a": "Před spuštěním si přečtěte stavovou stránku. Aktualizováno znamená, že poznámka byla obnovena. Nejde o záruku, že relace zůstane čistá.",
+        "aHtml": "Před spuštěním si přečtěte <a href=\"/status/\">stavovou stránku</a>. Aktualizováno znamená, že poznámka byla obnovena. Nejde o záruku, že relace zůstane čistá."
+      },
+      {
+        "id": "blog-plan-windows",
+        "topic": "plans",
+        "icon": "faqPlatforms",
+        "q": "Které verze Windows jsou podporovány?",
+        "a": "Windows 10 nebo 11 na procesorech Intel či AMD, se zapnutou funkcí HVCI, izolací jádra, TPM a secure boot. Systémy macOS a Linux podporovány nejsou."
+      },
+      {
+        "id": "blog-plan-support",
+        "topic": "plans",
+        "icon": "faqBlogDefault2",
+        "q": "Jak funguje podpora a vrácení peněz?",
+        "a": "Otevřete podporu a uveďte e-mail z objednávky. Po dokončení nákupu jsou prodeje konečné. Za nákupy rozmyšlené dodatečně, bans účtů a spuštění v době, kdy stavová stránka není aktuální, peníze nevracíme. Vrácení peněz nebo náprava se provádí pouze v případě, že potvrdíme chybu na naší straně. Pravidla jsou uvedena v podmínkách.",
+        "aHtml": "Otevřete <a href=\"/support/\">podporu</a> a uveďte e-mail z objednávky. Po dokončení nákupu jsou prodeje konečné. Za nákupy rozmyšlené dodatečně, bans účtů a spuštění v době, kdy stavová stránka není aktuální, peníze nevracíme. Vrácení peněz nebo náprava se provádí pouze v případě, že potvrdíme chybu na naší straně. Pravidla jsou uvedena v <a href=\"/terms/\">podmínkách</a>."
+      }
+    ],
+    "filterTopics": {
+      "all": "Vše",
+      "plans": "Plány",
+      "esp": "Map hack / ESP",
+      "scripts": "Skripty",
+      "safety": "Ochrana",
+      "products": "Produkty",
+      "blog": "Blog",
+      "setup": "Nastavení"
+    }
+  },
+  "footer": {
+    "tagline": "DayZ Cheats, HWID spoofer a obnova UGC pro Windows PC. dayz-cheats.org",
+    "explore": "Prozkoumat",
+    "exploreLinks": [
+      {
+        "href": "/products/dayz-cheats/dayz-cheats/#features",
+        "label": "Přehled funkcí",
+        "ariaLabel": "Features"
+      },
+      {
+        "href": "/products/dayz-cheats/dayz-cheats/",
+        "label": "DayZ Cheats",
+        "ariaLabel": "DayZ Cheats"
+      },
+      {
+        "href": "/products/dayz-cheats/",
+        "label": "Všechny produkty",
+        "ariaLabel": "Products"
+      },
+      {
+        "href": "/blog/",
+        "label": "Číst návody k aktualizacím",
+        "ariaLabel": "Blog"
+      },
+      {
+        "href": "/faq/",
+        "label": "Často kladené dotazy před nákupem",
+        "ariaLabel": "FAQ"
+      }
+    ],
+    "support": "Podpora",
+    "legal": "Právní informace",
+    "moreSites": "Další weby",
+    "privacy": "Zásady ochrany osobních údajů",
+    "terms": "Obchodní podmínky",
+    "about": "O nás",
+    "resourceLinks": [
+      {
+        "label": "Archiv blogu",
+        "ariaLabel": "Blog"
+      },
+      {
+        "label": "DayZ Cheats",
+        "ariaLabel": "DayZ Cheats"
+      },
+      {
+        "label": "Produkty a nástroje",
+        "ariaLabel": "Products"
+      }
+    ]
+  },
+  "legalPages": {
+    "about": {
+      "title": "O tomto obchodu DayZ: doručení portálu, ceny a riziko",
+      "description": "dayz-cheats.org prodává DayZ Cheats, HWID spoofer a UGC account recovery pro Windows PC, včetně pokynů k nastavení a poctivých informací o riziku banu.",
+      "sections": [
+        {
+          "heading": "Kdo jsme",
+          "paragraphs": [
+            "dayz-cheats.org je Windows PC obchod pro DayZ Cheats, HWID spoofer a UGC account recovery. Cheat je jeden produkt: aimbot, hráč ESP, infikovaní ESP, svět ESP, předmět ESP, různé a konfigurace. Nejedná se o stupnici verzí Lite, Pro a Elite a nejde o DMA kartu.",
+            "DayZ Cheats a UGC platba probíhá u $35 na 31 dní nebo $150 lifetime. HWID spoofer stojí 50 dolarů na 31 dní nebo $150 lifetime. Klíč lifetime k cheatům nezahrnuje spoofer ani práci na obnovení ace. Zakoupení na měsíc nezaručuje kredit na lifetime.",
+            "Názvy produktů na tomto webu označují to, co prodáváme. Nejedná se o tvrzení, že vydavatel hry software schvaluje. Doručení probíhá stažením z portálu pro Windows 10 nebo 11. Necháváte zapnuté HVCI, core isolation, TPM a secure boot a aplikaci loader otevíráte pouze tehdy, když web stále odpovídá aktuálnímu klientovi."
+          ]
+        },
+        {
+          "heading": "Co publikujeme",
+          "paragraphs": [
+            "Stránka [DayZ Cheats](/products/dayz-cheats/dayz-cheats/)) uvádí názvy menu a požadavky na Windows: Windows 10 nebo 11, Intel nebo AMD, se zapnutým HVCI, core isolation, TPM a secure boot. Na [stránce produktů](/products/dayz-cheats/)) můžete porovnat cheat, [HWID Spoofer](/products/dayz-cheats/hwid-spoofer/),) a [UGC Account recovery](/products/dayz-cheats/ugc/).)",
+            "Návody na [blogu](/blog/)) vysvětlují menu loader a to, proč je hardwarový příznak jiným nákupem než odvolání proti banu účtu. [Fórum](/forum/)) slouží pro stejné dotazy, přičemž odpovědi vývojářů jsou v diskuzi označeny. Před platbou si přečtěte [podmínky](/terms/)). Prodeje jsou konečné, včetně banů.",
+            "BattlEye může nadále zasáhnout proti účtu. Nic zde nezaručuje, že relace zůstane čistá po příští záplatě. Po aktualizaci klienta zkontrolujte tento web, než otevřete loader. Pokud stránka neodpovídá danému sestavení, nechte software zavřený.",
+            "Poznámky ke stavu na domovské stránce popisují, zda publikované sestavení stále odpovídá klientovi. Nejsou slibem, že BattlEye bude software ignorovat. Pokud si nejste jistí, nechte aplikaci loader zavřenou a před dalším hraním si přečtěte odpovídající návod na blogu."
+          ]
+        },
+        {
+          "heading": "Podpora",
+          "paragraphs": [
+            "Chyby Loader, klíč, který se nechce přesunout, a dotazy k platbě vyřizujte přes [stránku podpory](/support/).). Přiložte e-mail z objednávky, verzi Windows a přesný text loader. Nevypínejte HVCI, core isolation, TPM ani secure boot jen proto, že vám to někdo radil v chatu jiné hry."
+          ]
+        }
+      ]
+    },
+    "privacy": {
+      "title": "Zásady ochrany osobních údajů",
+      "description": "Jak dayz-cheats.org nakládá s analytikou, soubory cookie a kontaktními údaji.",
+      "sections": [
+        {
+          "heading": "Informace, které shromažďujeme",
+          "paragraphs": [
+            "Prostřednictvím služby Google Analytics můžeme shromažďovat standardní webové statistiky, jako jsou zobrazení stránek, typ zařízení, prohlížeč a přibližný region, pokud je tato služba povolená. Platby a doručování licencí probíhají na externích platebních stránkách. Data platebních karet na dayz-cheats.org neukládáme."
+          ]
+        },
+        {
+          "heading": "Jak používáme data",
+          "paragraphs": [
+            "Analytika nám pomáhá pochopit, které návody a produktové stránky jsou užitečné, abychom mohli zlepšovat obsah a opravovat nefunkční odkazy. V tiketech podpory můžeme uchovávat e-mailovou adresu a obsah zprávy, kterou poskytnete, dokud nebude problém vyřešen."
+          ]
+        },
+        {
+          "heading": "Soubory cookie",
+          "paragraphs": [
+            "Používáme minimální soubory cookie nezbytné pro analytiku. Soubory cookie můžete zablokovat v nastavení svého prohlížeče; hlavní obsah webu zůstane přístupný i bez nich."
+          ]
+        },
+        {
+          "heading": "Podpora",
+          "paragraphs": [
+            "V případě dotazů na ochranu osobních údajů využijte možnosti na stránce Podpory. Pravidla nákupů a vrácení peněz jsou uvedena v našich Podmínkách použití."
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "title": "Obchodní podmínky",
+      "description": "Podmínky nákupu, licencí, vrácení peněz a používání produktů prodávaných na dayz-cheats.org.",
+      "sections": [
+        {
+          "heading": "Souhlas",
+          "paragraphs": [
+            "Naposledy aktualizováno: Říjen 2026. Používáním dayz-cheats.org nebo dokončením objednávky jakéhokoli zde uvedeného produktu vyjadřujete souhlas s těmito Obchodními podmínkami a našimi Zásadami ochrany osobních údajů."
+          ]
+        },
+        {
+          "heading": "Co kupujete",
+          "paragraphs": [
+            "Prodáváme DayZ Cheats, HWID spoofer a UGC account recovery. Cheat a UGC jsou $35 na 31 dní nebo $150 lifetime; spoofer stojí 50 USD na 31 dní nebo $150 lifetime. Každý produkt představuje samostatnou licenci spravovanou přes portál na Windows PC.",
+            "Seznamy funkcí na stránce každého produktu popisují, co je součástí v době nákupu. Moduly se mohou měnit, když se DayZ nebo BattlEye aktualizuje. Klíč pro lifetime cheat nezahrnuje spoofer ani UGC."
+          ]
+        },
+        {
+          "heading": "Platba a doručení",
+          "paragraphs": [
+            "Zpracování plateb a doručení licencí probíhá na externích platebních stránkách. dayz-cheats.org nezpracovává ani neuchovává čísla platebních karet.",
+            "Po nákupu použijte portál ze své objednávky ke stažení aktuálního loader, než spustíte DayZ. Nechte zapnuté HVCI, izolaci jádra, TPM a secure boot."
+          ]
+        },
+        {
+          "heading": "Použití licence",
+          "paragraphs": [
+            "Licence jsou určeny výhradně pro vaše osobní použití. Nesdílejte loader soubory, přihlašovací údaje k portálu ani licenční klíče. Problém s hardwarovým ID vyžaduje nákup nového HWID Spoofer."
+          ]
+        },
+        {
+          "heading": "Vrácení peněz a nákupy",
+          "paragraphs": [
+            "Všechny prodeje jsou po dokončení objednávky konečné. Nevracíme peníze za nákupy z důvodu změny názoru, bany účtů, BattlEye tresty ani za problémy způsobené ignorováním pokynů k nastavení nebo spuštěním v době, kdy stránka není pro danou aktualizaci aktuální.",
+            "Pokud produkt nefunguje podle popisu na podporované sestavě – Windows 10 nebo 11 se zapnutou HVCI, izolací jádra, TPM a secure boot, a s aktuálním loader z portálu – kontaktujte nás prostřednictvím stránky Podpory. Připojte e-mail z objednávky, verzi Windows a přesný text chybové hlášení loader.",
+            "Můžeme dle vlastního uvážení nabídnout opravu, náhradní ace přístup nebo částečnou /full refundaci, jakmile potvrdíme chybu na naší straně. Nemáme povinnost schválit každou žádost."
+          ]
+        },
+        {
+          "heading": "Dostupnost a rizika",
+          "paragraphs": [
+            "Nástroje třetích stran pro DayZ mohou být v konfliktu s aktualizacemi her a BattlEye. Tento software používáte na vlastní nebezpečí, včetně možných postihů účtu.",
+            "Před každou relací zkontrolujte stavový banner na úvodní stránce. Nepřipojujte se na svůj hlavní server, pokud jsou moduly offline nebo rozladěné po vydání aktualizace."
+          ]
+        },
+        {
+          "heading": "Změny",
+          "paragraphs": [
+            "Tyto podmínky můžeme aktualizovat. Datum „Naposledy aktualizováno“ nahoře se v takovém případě změní. Další používání stránky po provedení změn znamená, že s upravenými podmínkami souhlasíte."
+          ]
+        },
+        {
+          "heading": "Podpora",
+          "paragraphs": [
+            "V případě dotazů ohledně podmínek, fakturace nebo loader využijte tlačítka na stránce Podpory. Informace o tom, jak nakládáme s daty stránek, najdete také v našich Zásadách ochrany osobních údajů."
+          ]
+        }
+      ]
+    },
+    "support": {
+      "title": "Podpora pro DayZ",
+      "description": "Loader, HWID spoofer, UGC a pomoc s placením pro dayz-cheats.org."
+    }
+  },
+  "productCatalog": {
+    "searchHeading": "Procházet produkty a plány",
+    "utilityCategory": "Nástroje",
+    "buyLoader": "Koupit loader",
+    "buyHwidSpoofer": "Koupit HWID spoofer",
+    "buyUgcRecovery": "Koupit obnovení UGC"
+  },
+  "utilitiesPage": {
+    "title": "Porovnat nástroje",
+    "subtitle": "HWID Spoofer a UGC Account recovery řeší různé problémy. Před platbou vyberte nástroj vhodný pro vaši PC nebo účet.",
+    "breadcrumb": "Porovnat nástroje",
+    "tableAria": "Porovnání nástrojů",
+    "columnUtility": "Nástroj",
+    "columnBestFor": "Nejlepší pro",
+    "columnProductPage": "Stránka produktu",
+    "includesLabel": "Obsahuje:",
+    "backToProducts": "Zpět na produkty",
+    "viewCategory": "Zobrazit {category}",
+    "viewDetailsFallback": "podrobnosti",
+    "schemaName": "Porovnat nástroje pro DayZ",
+    "useCases": {
+      "hwid-spoofer": "Nová PC nebo hardwarový příznak po banu – resetujte identitu svého zařízení před založením nového účtu.",
+      "ugc": "Strukturované odvolání a postupy pro obnovení účtu v případě omezení přístupu."
+    }
+  },
+  "sectionSearch": {
+    "blogHeading": "Filtrovat návody podle tématu",
+    "supportHeading": "Procházet témata nápovědy"
+  },
+  "ui": {
+    "skipLink": "Přejít na hlavní obsah",
+    "browseCheats": "Vyzkoušet",
+    "browseCheatsMobile": "Začít nákup",
+    "homeAria": "DayZ Cheats domů",
+    "checkoutAria": "Začít nákup",
+    "discordAria": "Koupit DayZ Cheats",
+    "menuOpen": "Otevřít nabídku",
+    "menuClose": "Zavřít nabídku",
+    "themeLight": "Přepnout do světlého režimu",
+    "themeDark": "Přepnout do tmavého režimu",
+    "searchPlaceholder": "Hledat produkty, průvodce, FAQ…",
+    "searchEmpty": "Začněte psát pro vyhledávání na webu.",
+    "searchNoResults": "Žádné výsledky. Zkuste jiný výraz.",
+    "searchCloseAria": "Zavřít vyhledávání",
+    "searchTitle": "Hledat",
+    "searchOpenAria": "Prohledat web",
+    "contactSupport": "Kontaktovat podporu",
+    "searchResultsAria": "Výsledky vyhledávání",
+    "searchHintNavigate": "navigovat",
+    "searchHintOpen": "otevřít",
+    "searchHintClose": "zavřít",
+    "searchKeyboardEnter": "Enter",
+    "searchKeyboardEsc": "Esc",
+    "primaryNavAria": "Primární",
+    "mobileNavAria": "Mobilní",
+    "shareNavAria": "Sdílet tuto stránku",
+    "shareOnX": "Sdílet na X",
+    "shareOnFacebook": "Sdílet na Facebooku",
+    "shareOnReddit": "Sdílet na Redditu",
+    "prevImage": "Předchozí obrázek",
+    "nextImage": "Následující obrázek",
+    "heroSlidesAria": "Hlavní snímky",
+    "slideLabel": "Snímek {n}",
+    "prevScreenshot": "Předchozí snímek obrazovky",
+    "nextScreenshot": "Následující snímek obrazovky",
+    "loading": "Načítání"
+  },
+  "language": {
+    "label": "Jazyk",
+    "selectAria": "Vybrat jazyk webu"
+  },
+  "exploreSection": {
+    "eyebrow": "Prozkoumat",
+    "title": "Všechno na webu, jen jedno kliknutí",
+    "titleAccent": "daleko",
+    "subtitle": "Přejděte na produkty, poznámky k aktualizacím, průvodce a nápovědu bez zdlouhavého hledání v menu.",
+    "badgeProduct": "PRODUKT",
+    "badgeActive": "Aktivní",
+    "cards": {
+      "cheats": {
+        "title": "DayZ cheats",
+        "desc": "Aimbot, hráč ESP, svět ESP, předmět ESP a konfigurace."
+      },
+      "spoofer": {
+        "title": "HWID Spoofer",
+        "desc": "Rotace hardwarového profilu po udělení zákazu zařízení."
+      },
+      "ugc": {
+        "title": "UGC Account Recovery",
+        "desc": "Pracovní postup odvolání pro zablokované herní účty."
+      },
+      "plans": {
+        "title": "Plány",
+        "desc": "Porovnejte monthly a lifetime na každé kartě produktu."
+      },
+      "features": {
+        "title": "Funkce",
+        "desc": "Nabídka loader na stránce DayZ Cheats."
+      },
+      "status": {
+        "title": "Stav",
+        "desc": "Poznámki k aktualizacím a upozornění na BattlEye aktualizace."
+      },
+      "faq": {
+        "title": "Časté dotazy",
+        "desc": "Plány, nastavení, riziko BattlEye a produkty."
+      },
+      "support": {
+        "title": "Podpora",
+        "desc": "Loader, platba a pomoc s portálem."
+      },
+      "blog": {
+        "title": "Blog",
+        "desc": "Průvodci pro míření, ESP a dny aktualizací."
+      },
+      "forum": {
+        "title": "Fórum",
+        "desc": "Vlákna s označenými odpověďmi vývojářů."
+      }
+    }
+  },
+  "pricing": {
+    "checkout": "Pokladna",
+    "purchaseOption": "Možnost nákupu",
+    "selectSubscription": "Vybrat předplatné",
+    "bestValue": "Nejvýhodnější",
+    "savePrefix": "Ušetřete",
+    "total": "Celkem",
+    "buyNow": "Koupit nyní",
+    "oneMonth": "1 Month",
+    "lifetime": "Lifetime",
+    "mostPopular": "Nejpopulárnější",
+    "plusMore": "+N dalších",
+    "monthlySuffix": " monthly",
+    "lifetimeSuffix": " lifetime",
+    "monthlyPlanNote": "31 dní přístupu · obnovení u pokladny",
+    "lifetimePlanNote": "Jednorázová platba · bez obnovování",
+    "plansSameFeaturesNote": "Stejné funkce u obou tarifů – mění se pouze doba přístupu.",
+    "selectPlanAria": "Vybrat délku tarifu"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Stránka nenalezena",
+    "description": "Tato URL adresa neexistuje nebo mohla být přesunuta. Vraťte se na úvodní stránku nebo prozkoumejte produkty.",
+    "metaDescription": "Požadovanou stránku nebylo na webu dayz-cheats.org možné najít.",
+    "metaTitleSuffix": "Stránka nenalezena",
+    "backHome": "Zpět domů",
+    "viewProducts": "Zobrazit produkty",
+    "openForum": "Otevřít fórum"
+  },
+  "status": {
+    "eyebrow": "Poznámky k aktualizacím",
+    "title": "Stav modulu DayZ",
+    "subtitle": "Zkontroluj po každé aktualizaci BattlEye nebo klienta před spuštěním.",
+    "pageDesc": "Aktualizace 1.30 a Badlands vyšly na Steamu 15. října 2026. Tuto stránku po každé změně BattlEye nebo klienta před spuštěním znovu zkontroluj. Stav Aktualizováno neznamená záruku nezaznamenatelnosti.",
+    "breadcrumb": "Stav",
+    "aceReminderLabel": "Upozornění BattlEye",
+    "aceReminder": "Zkontroluj tuto stránku po každé aktualizaci BattlEye před spuštěním.",
+    "recentTitle": "Nedávné aktualizace",
+    "activeLinePrefix": "Naposledy zkontrolováno",
+    "activeLineActive": "Aktivní",
+    "activeLineUpdated": "Aktualizováno {date}",
+    "storeLineup": "Nabídka obchodu",
+    "latestLabel": "Nejnovější",
+    "updates": [
+      {
+        "id": "update-130",
+        "title": "Aktualizace 1.30 a Badlands jsou na herním klientu Steam",
+        "when": "15. říjen 2026",
+        "summary": "Aktualizace 1.30 a rozšíření Badlands dorazily na Steam 15. října 2026. Klient přidal poušť Nasdara, motorky Jana 50 a Enduro, elektronické zámky, widget pro vylepšení základny a velkou úpravu ikon v inventáři. Jde o změny ve hře, nikoli o nové přepínače loader. Konfigurace uložená před tímto klientem neodpovídá aktuální kontrole. Než hru spustíš, přečti si tuto stránku a portál."
+      },
+      {
+        "id": "battleye-130",
+        "title": "Poznámky k BattlEye kolem verze 1.30",
+        "when": "15. říjen 2026",
+        "summary": "Veřejné poznámky popisují hlubší sledování na straně BattlEye, včetně spolupráce s Nitrado, aniž by byla zveřejněna samotná metoda. Pozdější zprávy hovoří o vlnách banů po vydání tohoto klienta. Tato stránka netvrdí, že tento loader byl přehlédnut nebo odhalen, ani nevysvětluje, jak se vyhnout kontrole. Zákaz hraní (ban) je stále možný. Nechávej loader zavřený, dokud tato poznámka neodpovídá sestavení, které se chystáš otevřít."
+      },
+      {
+        "id": "report-player",
+        "title": "Funkce hlášení hráčů na obrazovce po smrti ještě není plně aktivní",
+        "when": "15. říjen 2026",
+        "summary": "Na funkci hlášení hráčů (Report Player) na obrazovce po smrti se stále pracuje ve veřejných verzích, což zahrnuje i opatření k omezení falešných hlášení. Nejde o tlačítko, podle kterého by se dala plánovat herní seance, a tato stránka k němu nebude přistupovat jako k tématu obcházení."
+      },
+      {
+        "id": "after-130",
+        "title": "Co přijde po verzi 1.30",
+        "when": "5. listopad 2026",
+        "summary": "Aktualizace 1.31 nemá stanovené veřejné datum. Mohou se objevit ještě opravné hotfixy pro verzi 1.30 a každý z nich je důvodem pro opětovnou kontrolu této stránky. Nativní klient pro PS5 je samostatné sestavení, o kterém se mluví pro rok 2027. Tento klíč se týká Steam loader na Windows, nikoli tohoto konzolového klienta."
+      },
+      {
+        "id": "updated-label",
+        "title": "Označení Aktualizováno není tvrzením o neodhalitelnosti",
+        "when": "5. listopad 2026",
+        "summary": "Štítek Aktualizováno znamená, že tato poznámka byla obnovena. Neznamená to, že loader je skrytý před systémy, a neznamená to, že server zůstane čistý po další aktualizaci BattlEye nebo samotné hry."
+      },
+      {
+        "id": "plans",
+        "title": "Plány zůstávají na samostatných kartách",
+        "when": "5. listopad 2026",
+        "summary": "Cena za loader a UGC monthly je $35. Cena za HWID spoofer monthly je 50 USD. Lifetime je $150 na každé kartě. Klíč lifetime pro jeden produkt nezahrnuje ostatní."
+      }
+    ]
+  },
+  "forum": {
+    "eyebrow": "Komunita",
+    "title": "Fórum: Nastavení a plány komunity DayZ",
+    "subtitle": "Toto fórum se zabývá nastavením, aimem, ESP a dotazy ohledně plánů. Odpovědi vývojářů jsou označeny u každého vlákna.",
+    "breadcrumb": "Fórum",
+    "postsAria": "Příspěvky komunity",
+    "sortAria": "Řazení příspěvků",
+    "searchPlaceholder": "Hledat diskuze",
+    "searchAria": "Hledat diskuze",
+    "voteAria": "Hlasování v diskuzi",
+    "fromGuide": "Z průvodce:",
+    "comments": "komentáře",
+    "readDiscussion": "Přečíst diskuzi",
+    "readGuide": "Přečíst průvodce",
+    "basedOn": "Založeno na:",
+    "paginationAria": "Stránky diskuze",
+    "previousPage": "Předchozí",
+    "nextPage": "Další",
+    "exploreGuides": "Prozkoumat průvodce",
+    "sortPopular": "Populární",
+    "sortLatest": "Nejnovější",
+    "sortTop": "Nejdiskutovanější",
+    "filterAria": "Filtrovat diskuze podle tématu",
+    "allTopics": "Všechna témata",
+    "discussionOne": "diskuze",
+    "discussionMany": "diskuze",
+    "emptyFilter": "Žádné diskuze neodpovídají výběru. Zkuste jiné vyhledávání nebo téma.",
+    "previous": "Předchozí",
+    "next": "Další",
+    "sidebarAboutTitle": "Fórum: Komunita DayZ",
+    "sidebarAboutCopy": "Otázky ohledně cheatu, HWID spoofer a obnovy UGC. Odpovědi vývojářů zůstávají ve vlákně.",
+    "sidebarTopics": "témata",
+    "sidebarExploreGuides": "Prozkoumat všechny průvodce",
+    "sidebarCommunities": "Komunity",
+    "sidebarBrowseQa": "Procházet související vlákna",
+    "sidebarBrowseAll": "Procházet všechny komunity",
+    "sidebarGuidelines": "Pravidla komunity",
+    "guideline1": "Chovejte se přátelsky a konstruktivně",
+    "guideline2": "Zůstaňte u tématu a přidejte kontext",
+    "guideline3": "Označujte spoilery a citlivý obsah",
+    "sidebarReadGuidelines": "Přečíst kompletní pravidla",
+    "sidebarFootAbout": "O nás · Pravidla · Soukromí · Podmínky",
+    "upvoteAria": "Dát upvote této diskuzi",
+    "downvoteUnavailable": "Downvoting není k dispozici",
+    "showingRange": "Zobrazuje se {from}–{to} z {total}",
+    "zeroDiscussions": "0 diskuzí",
+    "developerFlair": "Vývojář",
+    "points": "bodů",
+    "previewDiscussion": "Náhled diskuze",
+    "postingUnavailable": "Zde není možné publikovat příspěvky ani hlasovat",
+    "commentsTitle": "Komentáře",
+    "commentsSubtitle": "Odpovědi vývojářů jsou označeny",
+    "detailInTopic": "v tomto tématu",
+    "detailBrowse": "Procházet diskuze",
+    "detailMoreTitle": "Další diskuze",
+    "detailViewAll": "Zobrazit všechny diskuze",
+    "colThread": "Vlákno",
+    "colReplies": "Odpovědi",
+    "colVotes": "Hlasy",
+    "colLastReply": "Poslední odpověď",
+    "closedThread": "Uzavřené vlákno"
+  },
+  "readingTools": {
+    "copyLink": "Kopírovat odkaz",
+    "backToTop": "Zpět nahoru",
+    "copied": "Zkopírováno",
+    "minutesLeft": "Zbývá {n} min",
+    "minuteLeft": "Zbývá 1 min"
+  },
+  "blogArticle": {
+    "viewProducts": "Zobrazit produkty",
+    "moreArticles": "Další články",
+    "imagePlaceholder": "Místo pro obacerázek",
+    "breadcrumbBlog": "Blog"
+  },
+  "breadcrumbs": {
+    "home": "Domů",
+    "products": "Produkty",
+    "blog": "Blog",
+    "forum": "Fórum",
+    "faq": "FAQ",
+    "status": "Stav"
+  },
+  "faqPage": {
+    "eyebrow": "Centrum nápovědy",
+    "title": "FAQ pro cheaty, produkty a návody",
+    "subtitle": "Předplatné, aim a možnosti ESP, HWID spoofer, obnova UGC a co zkontrolovat po aktualizaci BattlEye.",
+    "schemaName": "FAQ — DayZ Cheats a produkty",
+    "schemaDescription": "Odpovědi ohledně DayZ Cheats, HWID spoofer, obnovy UGC, rizika BattlEye a placení na dayz-cheats.org."
+  },
+  "siteFaqSection": {
+    "allTopicsEyebrow": "Všechna témata",
+    "allTopicsTitle": "Procházet podle kategorie",
+    "allTopicsSubtitle": "Předplatné, vizuály, loader, spoofer, UGC a nastavení.",
+    "contextualEyebrow": "FAQ",
+    "contextualTitle": "Otázky k této stránce",
+    "contextualSubtitle": "Odpovědi vázané na to, co právě čtete – navštivte stránku FAQ pro všechna témata."
+  },
+  "catalog": {
+    "viewDetails": "Zobrazit podrobnosti",
+    "buyNow": "Koupit nyní",
+    "mostPopular": "Nejpopulárnější",
+    "popular": "Populární",
+    "plusMore": "+{count} dalších",
+    "monthlySuffix": " monthly",
+    "lifetimeSuffix": " lifetime",
+    "monthlyPlanNote": "31 dní přístupu · obnova při platbě",
+    "lifetimePlanNote": "Jednorázová platba · bez obnovování",
+    "plansSameFeaturesNote": "Stejné funkce v obou tarifech – mění se pouze doba přístupu.",
+    "selectPlanAria": "Vybrat délku předplatného",
+    "utilityLabel": "Nástroj",
+    "experienceEyebrow": "Zážitek",
+    "inTheClient": "V klintu · Po zakoupení",
+    "experienceSubtitle": "Použijte snímky obrazovky výše pro {name} – níže je vysvětleno, co jednotlivé vrstvy znamenají a jak funguje přístup po pokladně.",
+    "utilityExperienceSubtitle": "Použijte snímky obrazovky výše pro {name} – každý náhled vysvětluje část hardwarového pracovního postupu a jak funguje přístup po pokladně.",
+    "inGameLayers": "Herní vrstvy",
+    "utilityPreviewLayers": "Náhledy produktu",
+    "layerLabel": "Vrstvy {label}",
+    "previewLabel": "Náhled",
+    "accessLabel": "Přístup"
+  },
+  "productUi": {
+    "detailsAria": "Podrobnosti o produktu",
+    "overview": "Přehled",
+    "systemRequirements": "Systémové požadavky",
+    "goodToKnow": "Dobré vědět",
+    "limitations": "Důležitá omezení",
+    "completeFeatureList": "Kompletní seznam funkcí",
+    "includedCapabilities": "Zahrnuté možnosti",
+    "totalFeatures": "Celkem {count}",
+    "popularBadge": "Oblíbené",
+    "limitedBadge": "Omezené",
+    "gameBadge": "DayZ",
+    "platformBadge": "Windows PC",
+    "systemReqPanel": {
+      "title": "Systémové požadavky",
+      "security": [
+        "HVCI ZAPNUTO",
+        "IZOLACE JÁDRA ZAPNUTA",
+        "TPM ZAPNUTO",
+        "SECURE BOOT ZAPNUTO"
+      ],
+      "operatingSystemLabel": "Operační systém",
+      "operatingSystemValue": "Podporovány jsou systémy Windows 10 a 11",
+      "cloudDmaTitle": "Cloud DMA",
+      "cloudDmaDesc": "Cloud DMA není součástí tohoto produktu. Tento klíč je Windows loader z pokladny – nikoliv DMA karta nebo cloudová DMA služba.",
+      "cloudDmaNote": "Možnosti konfigurace jsou Uložit konfiguraci a Načíst konfiguraci. V této nabídce není žádná služba DMA."
+    }
+  },
+  "comparePlans": {
+    "eyebrow": "Porovnat",
+    "title": "Porovnat všechny plány",
+    "subtitle": "Porovnání toho, co jednotlivé úrovně obsahují.",
+    "tableAria": "Porovnat všechny plány",
+    "featureColumn": "Funkce",
+    "included": "Zahrnuto",
+    "notIncluded": "Není zahrnuto"
+  },
+  "whyCompare": {
+    "tableAria": "DayZ Cheats v porovnání s běžným poskytovatelem",
+    "featureColumn": "Funkce",
+    "metricsAria": "Metriky platformy",
+    "statusDeliveryAria": "Stav a doručení v reálném čase"
+  },
+  "searchResultTypes": {
+    "product": "Produkt",
+    "blog": "Blog",
+    "forum": "Fórum",
+    "faq": "FAQ",
+    "status": "Stav",
+    "support": "Podpora",
+    "page": "Stránka"
+  },
+  "blogSidebar": {
+    "ariaLabel": "Postranní panel článku",
+    "inThisArticle": "V tomto článku",
+    "relatedGuides": "Související návody",
+    "ourProducts": "Naše produkty",
+    "productCheats": "DayZ Cheats",
+    "allProducts": "Všechny produkty",
+    "hwidSpoofer": "HWID Spoofer",
+    "ugcRecovery": "UGC Account recovery",
+    "tocAria": "Obsah",
+    "allArticles": "Všechny články",
+    "statusHeading": "Stav systému Loader",
+    "viewStatusPage": "Úplná stránka stavu",
+    "recentChanges": "Nedávné změny",
+    "getAlertsDiscord": "Dostávat upozornění na Discord",
+    "planFinderTitle": "Najít tarif",
+    "planFinderStep1": "Jak dlouho potřebujete přístup?",
+    "planFinderOptWeeks": "Několik týdnů",
+    "planFinderOptQuarter": "Asi 3 měsíce",
+    "planFinderOptLong": "Dlouhodobě",
+    "planFinderRecommendMonthly": "Monthly",
+    "planFinderRecommendQuarter": "3 měsíce",
+    "planFinderQuarterNote": "$35 za 31denní klíč při pokladně — obohatit na cca 90 dní",
+    "planFinderRecommendLifetime": "Lifetime",
+    "planFinderCheckout": "Pokračovat k pokladně",
+    "planFinderChange": "Změnit odpověď",
+    "planFinderMonthlyNote": "31 dní · zvolte 1 Month u pokladny",
+    "planFinderLifetimeNote": "Zaplatit jednou · bez obnovování",
+    "tocFallbackLabel": "Začátek článku",
+    "priceEstimatorTitle": "Odhad ceny",
+    "priceEstimatorHint": "Klepněte na období. Součty se sčítají.",
+    "priceEstimator30d": "31d",
+    "priceEstimatorLifetime": "Životní",
+    "priceEstimatorOff": "Sleva",
+    "priceEstimatorTotal": "Odhad. celkem",
+    "priceEstimatorProducts": "Produkty",
+    "priceEstimatorNote": "Pouze orientační odhad. Každý produkt kupte na jeho vlastní kartě.",
+    "utilityGuides": "Spoofer a UGC",
+    "moreGuides": "Další návody"
+  }
+}

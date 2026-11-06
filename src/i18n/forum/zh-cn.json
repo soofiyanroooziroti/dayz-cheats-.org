@@ -1,0 +1,315 @@
+{
+  "categories": {
+    "General": "综合讨论",
+    "Guides & Builds": "指南与配置",
+    "Patch Talk": "补丁讨论",
+    "Community": "社区"
+  },
+  "posts": {
+    "update-130-before-launch": {
+      "title": "更新 1.30 和 Badlands 已上线。我能在旧配置上打开 loader 吗？",
+      "excerpt": "Steam 客户端于 10 月 15 日进行了更改。我保存的配置是 Nasdara 和新摩托车推出之前的。",
+      "body": [
+        "Windows 上的 Steam。更新 1.30 和 Badlands 资料片于 10 月 15 日登陆。Nasdara、Jana 50、Enduro 以及新的密码锁已在客户端中。",
+        "我仍然保留着该补丁发布前的配置。旧的存档足够吗，还是我需要等待状态页面？"
+      ],
+      "flair": "❓ Question",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "请等待。在更新 1.30 之前保存的配置不适用于此客户端的检查。请阅读状态页面，然后查看门户，在说明与你即将打开的版本匹配之前，请保持 loader 关闭。已更新意味着说明已刷新，但这并不意味着会话会保持稳定。",
+          "replies": [
+            {
+              "author": "BadlandsWait",
+              "body": "我按住了队列。只有在状态行与此客户端匹配后，我才会打开它。"
+            }
+          ]
+        }
+      ]
+    },
+    "update-130-battleye-reports": {
+      "title": "1.30 BattlEye 更新后的封禁潮帖子。这在这里意味着什么？",
+      "excerpt": "公开说明谈到了更深入的 BattlEye 追踪。我想要查看状态，而不是绕过它。",
+      "body": [
+        "1.30 的说明提到了通过 BattlEye 进行更深入的追踪，但未公开具体方法。人们还在发布关于该客户端之后的封禁潮的帖子。",
+        "我不是在询问如何绕过它。我想知道本站会承诺什么，不会承诺什么。"
+      ],
+      "flair": "❓ Question",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "公开说明就是全部的声明：追踪机制发生了改变，且方法未公开。随后的报告描述了封禁潮。本页并未说明此 loader 是被漏掉还是被捕获了。封禁仍然是可能的。这里没有绕过教程。如果状态说明不适用于你已安装的版本，请保持 loader 关闭。",
+          "replies": []
+        }
+      ]
+    },
+    "nasdara-bikes-and-world-esp": {
+      "title": "Nasdara、Jana 50 和 Enduro 已经加入。菜单会增加新的切换开关吗？",
+      "excerpt": "世界 ESP 已经有了载具 ESP、动物 ESP 和直升机坠毁点。我不想要一个假的摩托车开关。",
+      "body": [
+        "Badlands 添加了 Nasdara 沙漠以及两辆摩托车：Jana 50 和 Enduro。它们可以倾斜，并且需要汽油和火花塞。",
+        "已发布的菜单仍将载具 ESP 列在世界 ESP 选项下。摩托车是它自己的独立开关，还是仅仅是一个载具？"
+      ],
+      "flair": "💬 Discussion",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "已发布的世界 ESP 组仍然是：动物 ESP、以文本或条形显示的生命值、载具 ESP 以及直升机坠毁点。Jana 50 和 Enduro 是游戏中的载具。它们不是此页面上的额外一行。Nasdara 也没有添加地图切换开关。如果在客户端更新后缺少某个标签，请将其视为状态检查，而不是新功能的名称。",
+          "replies": [
+            {
+              "author": "EnduroLine",
+              "body": "所以我保持载具 ESP 开启，并且不去寻找摩托车开关。明白了。"
+            }
+          ]
+        }
+      ]
+    },
+    "death-screen-report-button": {
+      "title": "死亡画面的“举报玩家”按钮在 1.30 中上线了吗？",
+      "excerpt": "我在 Nasdara 中死掉了，并没有看到新的举报控件。公开说明仍然称其尚未完成。",
+      "body": [
+        "公开说明称，正在制作死亡画面的举报玩家按钮，以避免虚假举报堆积。",
+        "我在 1.30 死后没有看到它。它是已经上线了，还是仍未加入客户端？"
+      ],
+      "flair": "❓ Question",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "请将其视为未完成。公开说明称团队仍在开发该控件，包括处理虚假举报的情况。不要围绕一个尚未加入客户端的按钮来规划游戏会话。本主题不会将其变成关于绕过的话题。",
+          "replies": []
+        }
+      ]
+    },
+    "update-131-and-ps5": {
+      "title": "1.31更新是什么时候，这个密钥包含PS5客户端吗？",
+      "excerpt": "目前没有公布1.31的日期。关于原生PS5版本的讨论指向了2027年。这个 PC 是Steam。",
+      "body": [
+        "我找不到Update 1.31的日期。针对1.30的热修仍然有可能推出。关于2027年推出原生PS5版本的讨论也在进行中。",
+        "我在Steam上为 Windows 游玩。lifetime 密钥是适用于主机客户端，还是仅适用于这个 PC loader？"
+      ],
+      "flair": "❓ 问题",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "目前没有1.31的公开日期。过去的发布间隔并不能作为保证。热修仍然可能会改变Steam客户端，因此请在每次启动前重新检查状态页面。本产品是适用于 Windows 的Steam loader。原生PS5版本是不同的客户端，不包含在内。",
+          "replies": [
+            {
+              "author": "RoadmapRead",
+              "body": "仅限 PC 密钥，我在热修后仍然需要等待状态更新。这就是我需要的部分。"
+            }
+          ]
+        }
+      ]
+    },
+    "BattlEye-status-before-launch": {
+      "title": "状态栏仍然显示已更新。在1.30热修之后这足够了吗？",
+      "excerpt": "Badlands之后推出了一次小型热修。页面显示的仍然是10月15日的说明。",
+      "body": [
+        "Windows 11，monthly 密钥，Steam客户端。Update 1.30之后紧接着发布了一次热修。状态页面读起来仍然像是10月15日的Badlands说明。",
+        "那个旧说明就够了，还是说我需要等到页面针对这次热修更新后再说？"
+      ],
+      "flair": "❓ 问题",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "请等待。在客户端或 BattlEye 更新后检查状态页面，而不是靠你对1.30发布时的横幅的记忆。热修也遵循同样的规则。这里没有任何内容能保证会话一直没有风险。如果说明不适用于此构建版本，请保持 loader 关闭。",
+          "replies": [
+            {
+              "author": "NightRaid",
+              "body": "忍住没排队 🙏 我会等到页面为此补丁更新后再开启。"
+            }
+          ]
+        },
+        {
+          "author": "ExtractLate",
+          "body": "同样的习惯 😭 我读了反作弊的帖子，所以我不再把绿色的横幅当成绝对的保证。",
+          "replies": []
+        }
+      ]
+    },
+    "aim-smooth-on-infantry": {
+      "title": "在近距离步兵战斗中自瞄会突然猛拽。我该调低什么？ 🎯",
+      "excerpt": "😵 FOV 范围很广，骨骼选的是头部。瞄准距离还是有点远。",
+      "body": [
+        "Steam构建版本，Aimbot 选项：切换、可自定义 FOV、可自定义瞄准距离、忽略、骨骼、FOV 风格，以及指向目标的连线。",
+        "在短时间探头时它会猛拽向头部。我只希望对已经看到的这个人起作用，而不是边缘的下一个。"
+      ],
+      "flair": "❓ 问题",
+      "comments": [
+        {
+          "author": "ScopeQuiet",
+          "body": "我把 FOV 调小了，直到锥形区域勉强覆盖我面前的人，并且我缩短了瞄准距离 🎯 头部骨骼就是猛拽的原因。",
+          "replies": [
+            {
+              "author": "DayZStaff",
+              "body": "一次只修改一个设置。更窄的可自定义 FOV 和更短的可自定义瞄准距离是通常的解决方法。测试时骨骼可以保持在最近，然后再移动到头部、颈部或骨盆。FOV 风格只会更改锥形区域绘制为纯色还是渐变色。请保存配置，以免下次启动时重置。"
+            }
+          ]
+        }
+      ]
+    },
+    "esp-too-many-labels": {
+      "title": "小队战斗中玩家 ESP 选项把屏幕都挡住了 👁️",
+      "excerpt": "📦 方框、骨骼、名字、物品栏和traces全都开着。我看不见准星了。",
+      "body": [
+        "玩家 ESP 选项叠得满满当当：方框、填充方框、头部圆点、骨骼、血条、名字、距离、物品栏、手持物品以及 traces。",
+        "我其实只需要知道谁还活着以及距离多远。大家平时到底留着哪些开着？"
+      ],
+      "flair": "💬 讨论",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "先从方框或骨骼、血条以及距离开始。只有在需要时才加上名字。物品栏和手持物品是可选的。降低最大距离，好让远处的玩家不显示。如果 traces 总是分散你的注意力，就把它作为最后一个关闭的开关。",
+          "replies": []
+        },
+        {
+          "author": "SquadNoise",
+          "body": "关掉了物品栏、手持物品和 traces ✨ 战斗画面终于又能看清了。",
+          "replies": []
+        }
+      ]
+    },
+    "vehicle-esp-or-radar": {
+      "title": "载具和直升机坠毁点都被标记了。哪个世界 ESP 开关对应哪个？ 🛡️",
+      "excerpt": "🚛 载具和直升机坠毁点同时显示在屏幕上。我分不清该看哪个世界 ESP 标签。",
+      "body": [
+        "世界 ESP 选项：动物 ESP、文本或条形血量、载具 ESP 以及直升机坠毁点。",
+        "一辆载具和一个坠毁点同时出现了。我当时两个开关都开着，标签叠在了一起。哪个是载具，哪个是坠毁点？"
+      ],
+      "flair": "❓ 问题",
+      "comments": [
+        {
+          "author": "ATRock",
+          "body": "我平时只开载具 ESP 用来找眼前的车，只有在找坠毁点时才把直升机坠毁点打开。",
+          "replies": [
+            {
+              "author": "DayZStaff",
+              "body": "它们在世界 ESP 选项中是独立的开关。载具 ESP 标记载具。直升机坠毁点标记坠毁点。动物 ESP 和血量（文本或条形）是该组中的另外两个。关闭其中一个并不会关闭其他的。"
+            }
+          ]
+        }
+      ]
+    },
+    "radar-blips-everywhere": {
+      "title": "世界 ESP 标签堆叠在一起了。我该如何精简它们？ 📡",
+      "excerpt": "✨ 动物 ESP、载具 ESP 和直升机坠毁点全开着。我分不清它们了。",
+      "body": [
+        "世界 ESP 选项里动物 ESP、血量、载具 ESP 和直升机坠毁点全开着。",
+        "我主要想要载具。动物和直升机坠毁点的标签把视野都挡住了。"
+      ],
+      "flair": "💬 讨论",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "只保留你当前需要查看的世界 ESP 开关，把其他的关掉。载具 ESP、动物 ESP 和直升机坠毁点是互相独立的。玩家标签存放在玩家 ESP 选项中，它们有自己的最大距离设置。",
+          "replies": []
+        },
+        {
+          "author": "MapRing",
+          "body": "关掉了动物 ESP 和直升机坠毁点。载具 ESP 是我唯一保持开启的世界标签。",
+          "replies": []
+        }
+      ]
+    },
+    "lifetime-next-update": {
+      "title": "$150 lifetime 密钥是否包含 1.31 更新和热修复补丁？",
+      "excerpt": "1.30 已经发布。我正在犹豫是在下一个客户端推出前再买一个月还是 lifetime。",
+      "body": [
+        "1.30 更新已在 Steam 上线。1.31 暂无公开日期。Monthly 为 $35，且 lifetime 在作弊卡片上为 $150。",
+        "如果我本周购买 lifetime，该密钥是否包含之后的 PC 版本，还是说客户端更新时我需要重新付费？"
+      ],
+      "flair": "❓ 问题",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Lifetime 适用于 Windows 的 Steam 上的此作弊产品。在密钥有效期间，会发布后续的 PC 版本，包括热修复补丁发布之后。这并不意味着 loader 在 1.31 更新或热修复上线的那个小时就已准备就绪。请检查状态页面，并保持 loader 关闭，直到该提示与新客户端相匹配。Lifetime 不会添加 HWID spoofer、UGC 或主机客户端，并且仍然存在被封禁的可能。",
+          "replies": [
+            {
+              "author": "WipeWatch",
+              "body": "所以密钥保留在 PC 上，并且在下一个客户端发布后我仍然需要等待状态页面。这就是我需要了解的部分。"
+            }
+          ]
+        },
+        {
+          "author": "SeasonHold",
+          "body": "我对第 2 赛季的理解也是如此。补丁说明发布的当晚我没有打开它。我一直等到状态栏变动。",
+          "replies": []
+        }
+      ]
+    },
+    "lifetime-includes-spoofer": {
+      "title": "$150 lifetime 密钥是否包含 HWID spoofer？🔑",
+      "excerpt": "💸 我正在使用 $35 月度套餐。我想知道作弊软件上的 lifetime 是否也解锁了硬件特征修改器（spoofer）。",
+      "body": [
+        "DayZ Cheats 和 UGC 是 $35 31 天或 $150 lifetime。HWID spoofer 售价 50 美元 monthly 或在单独的卡片上为 $150 lifetime。",
+        "如果我在作弊软件上购买 lifetime，我也会得到特征修改器吗，还是需要另外结账？"
+      ],
+      "flair": "❓ 问题",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "这是两个独立的产品。DayZ Cheats 上的 Lifetime 不包含 HWID Spoofer 或 UGC Account recovery。每一个都是独立的密钥。从 monthly 开始并不能保证获得用于 lifetime 的额度。特征修改器 monthly 售价 50 美元；作弊软件和 UGC monthly 为 $35。Lifetime 在每张卡片上都是 $150，而不是一个捆绑包。",
+          "replies": [
+            {
+              "author": "PlanMath",
+              "body": "明白了。我将保留作弊软件的月度套餐，只有在 PC 出现标记问题时才购买特征修改器。"
+            }
+          ]
+        }
+      ]
+    },
+    "when-to-buy-hwid": {
+      "title": "全新账号在这个 PC 上阵亡，但在笔记本电脑上却能正常运行。这是 HWID 吗？💻",
+      "excerpt": "🆕 游戏账号是新的。第二台机器可以正常进入。我不确定购买特征修改器是否正确。",
+      "body": [
+        "两个 PC。新账号在台式机上失败，在笔记本电脑上可以玩。我已经拥有作弊软件的月度时长。",
+        "HWID spoofer 是针对台式机的吗，还是我需要 UGC 申诉工作区 ace 替代方案？"
+      ],
+      "flair": "❓ 问题",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "如果一个新账号在一台机器上失败而在另一台机器上正常工作，这种模式正是特征修改器所针对的硬件 ID 情况。UGC 是针对账号本身的申诉工作区 ace。特征修改器无法撤销仅针对账号的限制，并且它不包含在作弊密钥中。",
+          "replies": []
+        }
+      ]
+    },
+    "is-cloud-dma-included": {
+      "title": "loader中包含DMA卡吗？☁️",
+      "excerpt": "👀 搜索 DayZ DMA 让我想知道下载内容里是不是包含 DMA 卡。我只买 Windows loader。",
+      "body": [
+        "配置选项有限制帧率、菜单语言、保存配置和加载配置。搜索 DayZ DMA 让我想知道下载里是不是包含 DMA 设置。",
+        "我买了 Windows loader。我没有 DMA 卡。这个硬件是包含在激活码里还是不包含？"
+      ],
+      "flair": "❓ 问题",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "不包含。保存配置和加载配置用于存储菜单，以便稍后加载相同的布局。它们不是 DMA 卡，本产品是结账时的 Windows loader。DMA 设备是不同的硬件，激活码中不包含该设备。请勿运行来自搜索结果或私信的文件。",
+          "replies": [
+            {
+              "author": "ReadThePage",
+              "body": "所以保存配置就是预设，大家争论的那张卡并不在下载里。明白了。"
+            }
+          ]
+        }
+      ]
+    },
+    "steam-only-client": {
+      "title": "Loader 找不到游戏。这只能在 Steam 上用吗？🎮",
+      "excerpt": "🛑 DayZ 已安装，但不是通过 Steam。产品页面写着仅限 Steam，我在修改 Windows 之前停下来了。",
+      "body": [
+        "Windows 11，英特尔。这台 PC 上的游戏不是 Steam 安装的版本。功能列表写着仅限 Steam。",
+        "另一个聊天室里有人说要关闭安全功能才能启动 loader。我还没有动过那些设置。"
+      ],
+      "flair": "❓ 问题",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "此构建版本仅限 Steam。如果 DayZ 不是 Steam 版本，那么这个 loader 就不适用于该安装。请保持 Windows 安全功能不变。不要按照叫你关闭它们的帖子去做。如果 Steam 版本仍然无法打开，请通过客服发送订单邮件和准确的 loader 文本。",
+          "replies": []
+        }
+      ]
+    }
+  }
+}

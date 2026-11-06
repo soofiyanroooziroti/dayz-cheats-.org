@@ -1,0 +1,315 @@
+{
+  "categories": {
+    "General": "General",
+    "Guides & Builds": "Guides & Builds",
+    "Patch Talk": "Patch Talk",
+    "Community": "Community"
+  },
+  "posts": {
+    "update-130-before-launch": {
+      "title": "Update 1.30 and Badlands are live. Do I open the loader on the old config?",
+      "excerpt": "The Steam client changed on October 15. My saved config is from before Nasdara and the new bikes.",
+      "body": [
+        "Steam on Windows. Update 1.30 and the Badlands expansion landed on October 15. Nasdara, the Jana 50, the Enduro, and the new code locks are in the client.",
+        "I still have a config from before that patch. Is the old save enough, or do I wait for the status page?"
+      ],
+      "flair": "❓ Question",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Wait. A config saved before Update 1.30 is not a check for this client. Read the status page, then the portal, and leave the loader closed until that note matches the build you are about to open. Updated means the note was refreshed. It does not mean a session stays clean.",
+          "replies": [
+            {
+              "author": "BadlandsWait",
+              "body": "Held the queue. I will only open it after the status line matches this client."
+            }
+          ]
+        }
+      ]
+    },
+    "update-130-battleye-reports": {
+      "title": "Ban-wave posts after the 1.30 BattlEye update. What does that mean here?",
+      "excerpt": "Public notes talk about deeper BattlEye tracking. I want the status read, not a bypass.",
+      "body": [
+        "The 1.30 notes mention deeper tracking with BattlEye and do not publish the method. People are also posting about ban waves after that client.",
+        "I am not asking how to get around it. I want to know what this site will and will not claim."
+      ],
+      "flair": "❓ Question",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "The public note is the whole claim: tracking changes were made, and the method was not published. Later reports describe ban waves. This page does not say this loader was missed or caught. A ban is still possible. There is no bypass write-up here. If the status note is not for the build you have installed, leave the loader closed.",
+          "replies": []
+        }
+      ]
+    },
+    "nasdara-bikes-and-world-esp": {
+      "title": "Nasdara, the Jana 50, and the Enduro are in. Does the menu grow a new toggle?",
+      "excerpt": "World ESP already has vehicle ESP, animal ESP, and helicrash. I do not want a fake motorcycle switch.",
+      "body": [
+        "Badlands added the Nasdara desert and two motorcycles, the Jana 50 and the Enduro. They lean, and they need gasoline and a spark plug.",
+        "The published menu still lists Vehicle ESP under World ESP Options. Is a motorcycle its own toggle, or is it just a vehicle?"
+      ],
+      "flair": "💬 Discussion",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "The published World ESP group is still Animal ESP, Health as text or a bar, Vehicle ESP, and Helicrash. The Jana 50 and Enduro are vehicles in the game. They are not an extra row on this page. Nasdara does not add a map toggle either. If a label is missing after the client update, treat that as a status check, not as a new feature name.",
+          "replies": [
+            {
+              "author": "EnduroLine",
+              "body": "So I leave Vehicle ESP on and I do not go looking for a bike switch. Clear."
+            }
+          ]
+        }
+      ]
+    },
+    "death-screen-report-button": {
+      "title": "Is the death-screen Report Player button live on 1.30?",
+      "excerpt": "I died in Nasdara and there was no new report control. Public notes still call it unfinished.",
+      "body": [
+        "Public notes say a Report Player button for the death screen is being worked on so false reports do not pile up.",
+        "I did not see it after a death on 1.30. Is it live, or still not in the client?"
+      ],
+      "flair": "❓ Question",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Treat it as unfinished. The public note says the team is still working on that control, including false-report cases. Do not plan a session around a button that is not in the client. This thread will not turn it into a bypass topic.",
+          "replies": []
+        }
+      ]
+    },
+    "update-131-and-ps5": {
+      "title": "When is Update 1.31, and does this key cover the PS5 client?",
+      "excerpt": "No date is posted for 1.31. A native PS5 build is being talked about for 2027. This PC is Steam.",
+      "body": [
+        "I cannot find a date for Update 1.31. Hotfixes for 1.30 are still possible. There is also talk of a native PS5 version in 2027.",
+        "I play on Steam for Windows. Does the lifetime key follow a console client, or only this PC loader?"
+      ],
+      "flair": "❓ Question",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "There is no public date for 1.31. A past release gap is not a promise. Hotfixes can still change the Steam client, so re-check the status page before each launch. This product is the Steam loader on Windows. A native PS5 build is a different client and is not included.",
+          "replies": [
+            {
+              "author": "RoadmapRead",
+              "body": "PC key only, and I still wait on status after a hotfix. That is the part I needed."
+            }
+          ]
+        }
+      ]
+    },
+    "BattlEye-status-before-launch": {
+      "title": "The status line still says Updated. Is that enough after a 1.30 hotfix?",
+      "excerpt": "A small hotfix landed after Badlands. The page still shows the October 15 note.",
+      "body": [
+        "Windows 11, monthly key, Steam client. A hotfix followed Update 1.30. The status page still reads like the October 15 Badlands note.",
+        "Is that older note enough, or do I wait until the page is updated for this hotfix?"
+      ],
+      "flair": "❓ Question",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Wait. Check the status page after the client or BattlEye update, not the banner you remember from the 1.30 launch. A hotfix is the same rule. Nothing here is a promise that a session stays clean. If the note is not for this build, leave the loader closed.",
+          "replies": [
+            {
+              "author": "NightRaid",
+              "body": "Held the queue 🙏 I will only open it after the page is updated for this patch."
+            }
+          ]
+        },
+        {
+          "author": "ExtractLate",
+          "body": "Same habit 😭 I read the anti-cheat post so I stop treating a green banner as a guarantee.",
+          "replies": []
+        }
+      ]
+    },
+    "aim-smooth-on-infantry": {
+      "title": "Aim assist snaps in a close infantry fight. What do I turn down? 🎯",
+      "excerpt": "😵 FOV is wide and bone is head. Aim distance is still long.",
+      "body": [
+        "Steam build, Aimbot Options: toggle, customizable FOV, customizable aim distance, ignore, bone, FOV style, and a line to the target.",
+        "On a short peek it yanks to the head. I only want help on the person I am already looking at, not the next one at the edge."
+      ],
+      "flair": "❓ Question",
+      "comments": [
+        {
+          "author": "ScopeQuiet",
+          "body": "I cut FOV until the cone barely covered the person in front of me, and I shortened aim distance 🎯 Head bone was the yank.",
+          "replies": [
+            {
+              "author": "DayZStaff",
+              "body": "Change one setting at a time. A tighter Customizable FOV and a shorter Customizable Aim Distance is the usual fix. Bone can stay on nearest while you test, then move to head, neck, or pelvis. FOV Style only changes whether the cone draws as a solid or a gradient. Save Config so the next launch does not reset it."
+            }
+          ]
+        }
+      ]
+    },
+    "esp-too-many-labels": {
+      "title": "Player ESP covers the screen in a squad fight 👁️",
+      "excerpt": "📦 Box, skeleton, name, inventory, and traces are all on. I cannot see the crosshair.",
+      "body": [
+        "Player ESP Options is stacked: box, filled box, head dot, skeleton, health bar, name, distance, inventory, item in hands, and traces.",
+        "I only need who is up and how far. What do people actually leave on?"
+      ],
+      "flair": "💬 Discussion",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Start with box or skeleton, health bar, and distance. Add name only when you need it. Inventory and item in hands are optional. Lower Max Distance so far players drop off. Traces are the last toggle if they pull your eye off the box.",
+          "replies": []
+        },
+        {
+          "author": "SquadNoise",
+          "body": "Dropped inventory, item in hands, and traces ✨ The fight is readable again.",
+          "replies": []
+        }
+      ]
+    },
+    "vehicle-esp-or-radar": {
+      "title": "A vehicle and a helicrash are both marked. Which World ESP toggle is which? 🛡️",
+      "excerpt": "🚛 A vehicle and a helicrash site are both on screen. I cannot tell which World ESP label I should read.",
+      "body": [
+        "World ESP Options: animal ESP, health as text or a bar, vehicle ESP, and helicrash.",
+        "A vehicle and a crash site showed up together. I had both toggles on and the labels stacked. Which one is the vehicle, and which one is the helicrash?"
+      ],
+      "flair": "❓ Question",
+      "comments": [
+        {
+          "author": "ATRock",
+          "body": "I leave vehicle ESP on for the vehicle in front of me, and I only turn helicrash on when I am looking for a crash site.",
+          "replies": [
+            {
+              "author": "DayZStaff",
+              "body": "They are separate toggles in World ESP Options. Vehicle ESP marks vehicles. Helicrash marks crash sites. Animal ESP and Health (text or bar) are the other two in that group. Turning one off does not turn the others off."
+            }
+          ]
+        }
+      ]
+    },
+    "radar-blips-everywhere": {
+      "title": "World ESP labels are stacked. How do I cut them back? 📡",
+      "excerpt": "✨ Animal ESP, vehicle ESP, and helicrash are all on. I cannot tell them apart.",
+      "body": [
+        "World ESP Options has animal ESP, health, vehicle ESP, and helicrash all on.",
+        "I mostly want vehicles. The animal and helicrash labels are covering the same view."
+      ],
+      "flair": "💬 Discussion",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Leave the World ESP toggle you are reading and turn the others off. Vehicle ESP, animal ESP, and helicrash are separate. Player labels stay in Player ESP Options, with their own Max Distance.",
+          "replies": []
+        },
+        {
+          "author": "MapRing",
+          "body": "Turned animal ESP and helicrash off. Vehicle ESP is the only world label I leave on.",
+          "replies": []
+        }
+      ]
+    },
+    "lifetime-next-update": {
+      "title": "Does the $150 lifetime key cover Update 1.31 and the hotfixes?",
+      "excerpt": "1.30 is already out. I am deciding between another month and lifetime before the next client.",
+      "body": [
+        "Update 1.30 is on Steam. Update 1.31 has no public date. Monthly is $35 and lifetime is $150 on the cheat card.",
+        "If I buy lifetime this week, does that key include later PC builds, or do I pay again when the client updates?"
+      ],
+      "flair": "❓ Question",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Lifetime is for this cheat product on Steam for Windows. Later PC builds ship while the key is active, including after a hotfix. It does not mean the loader is ready the hour Update 1.31 or a hotfix goes live. Check the status page and leave the loader closed until that note matches the new client. Lifetime does not add the HWID spoofer, UGC, or a console client, and a ban is still possible.",
+          "replies": [
+            {
+              "author": "WipeWatch",
+              "body": "So the key stays on PC, and I still wait on the status page after the next client. That is the part I needed."
+            }
+          ]
+        },
+        {
+          "author": "SeasonHold",
+          "body": "Same read on Season 2. I did not open it the night the patch notes dropped. I waited until the status line moved.",
+          "replies": []
+        }
+      ]
+    },
+    "lifetime-includes-spoofer": {
+      "title": "Does the $150 lifetime key include the HWID spoofer? 🔑",
+      "excerpt": "💸 I am on the $35 month. I want to know if lifetime on the cheat also unlocks the spoofer.",
+      "body": [
+        "DayZ Cheats and UGC are $35 for 31 days or $150 lifetime. The HWID spoofer is $50 monthly or $150 lifetime on its own card.",
+        "If I buy lifetime on the cheat, do I also get the spoofer, or is that another checkout?"
+      ],
+      "flair": "❓ Question",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Separate products. Lifetime on DayZ Cheats does not include HWID Spoofer or UGC Account recovery. Each one is its own key. Starting on monthly does not promise a credit toward lifetime. The spoofer monthly is $50; cheat and UGC monthly are $35. Lifetime is $150 on each card—not one bundle.",
+          "replies": [
+            {
+              "author": "PlanMath",
+              "body": "Clear. I will keep the month on the cheat and buy the spoofer only if the PC is the thing that is flagged."
+            }
+          ]
+        }
+      ]
+    },
+    "when-to-buy-hwid": {
+      "title": "Fresh accounts die on this PC and work on a laptop. Is that HWID? 💻",
+      "excerpt": "🆕 The game account is new. A second machine gets in. I am not sure the spoofer is the right buy.",
+      "body": [
+        "Two PCs. New accounts fail on the desktop and play on the laptop. I already own the cheat month.",
+        "Is the HWID spoofer for the desktop, or do I need the UGC appeal workspace instead?"
+      ],
+      "flair": "❓ Question",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "If a new account fails on one machine and works on another, that pattern is the hardware-ID case the spoofer is for. UGC is the appeal workspace for the account itself. The spoofer does not undo an account-only restriction, and it is not included with the cheat key.",
+          "replies": []
+        }
+      ]
+    },
+    "is-cloud-dma-included": {
+      "title": "Is a DMA card included with the loader? ☁️",
+      "excerpt": "👀 A search for DayZ DMA made me think the download included a DMA card. I only bought the Windows loader.",
+      "body": [
+        "Config Options has Limit FPS, menu language, Save Config, and Load Config. A search for DayZ DMA made me think the download included a DMA setup.",
+        "I bought the Windows loader. I do not own a DMA card. Is that hardware part of this key or not?"
+      ],
+      "flair": "❓ Question",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "No. Save Config and Load Config store the menu so you can load the same layout later. They are not a DMA card, and this product is the Windows loader from checkout. A DMA device is different hardware and is not included with the key. Do not run a file that arrived from a search result or a direct message.",
+          "replies": [
+            {
+              "author": "ReadThePage",
+              "body": "So Save Config is the preset, and the card people argue about is not in the download. Got it."
+            }
+          ]
+        }
+      ]
+    },
+    "steam-only-client": {
+      "title": "Loader will not see the game. Is this Steam only? 🎮",
+      "excerpt": "🛑 DayZ is installed, but not through Steam. The product page says Steam Only and I stopped before changing Windows.",
+      "body": [
+        "Windows 11, Intel. The game on this PC is not the Steam install. The feature list says Steam Only.",
+        "Someone in another chat said to turn security features off so a loader would start. I have not touched those settings."
+      ],
+      "flair": "❓ Question",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "This build is Steam Only. If DayZ is not the Steam copy, this loader is not for that install. Leave Windows security features as they are. Do not follow a post that tells you to turn them off. If the Steam copy still fails to open, send the order email and the exact loader text through support.",
+          "replies": []
+        }
+      ]
+    }
+  }
+}

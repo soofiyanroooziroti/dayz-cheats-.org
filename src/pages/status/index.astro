@@ -1,0 +1,91 @@
+---
+import { getLocaleFromAstro, getTranslations } from '../../i18n';
+const locale = getLocaleFromAstro(Astro);
+const t = getTranslations(locale);
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { resolvePageSeo } from '../../config/seo';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import SectionHeader from '../../components/SectionHeader.astro';
+import { STATUS_LAST_UPDATED } from '../../data/status';
+import { formatActiveStatusLine, getStatusPageContent } from '../../data/status-locale';
+import { breadcrumbSchema, webPageSchema } from '../../utils/schema';
+
+const seo = resolvePageSeo('/status/');
+const status = getStatusPageContent(locale);
+const breadcrumbs = [
+  { name: t.breadcrumbs?.home ?? 'Home', path: '/' },
+  { name: status.breadcrumb, path: '/status/' },
+];
+const statusLine = formatActiveStatusLine(locale, STATUS_LAST_UPDATED);
+---
+
+<BaseLayout
+  title={seo.title}
+  description={seo.description}
+  noindex={true}
+  jsonLd={[
+    webPageSchema({
+      name: seo.title,
+      description: seo.description,
+      url: '/status/',
+    }),
+    breadcrumbSchema(breadcrumbs),
+  ]}
+>
+  <section class="status-page border-b border-border bg-muted/10 py-8 md:py-12">
+    <div class="mx-auto max-w-6xl px-5">
+      <Breadcrumbs items={breadcrumbs} />
+      <div class="mt-6">
+        <SectionHeader
+          eyebrow={status.eyebrow}
+          title={status.title}
+          desc={status.pageDesc}
+          titleId="status-page-title"
+          heading="h1"
+          wide
+        />
+      </div>
+
+      <article
+        class="status-page-card mx-auto mt-10 max-w-3xl overflow-hidden rounded-2xl border border-primary/35 bg-card shadow-md ring-1 ring-primary/15"
+        aria-labelledby="status-card-heading"
+      >
+        <div class="status-page-card__bar h-1 bg-primary/60" aria-hidden="true"></div>
+        <div class="space-y-6 px-5 py-6 md:px-7 md:py-7">
+          <header class="space-y-2">
+            <h2 id="status-card-heading" class="text-lg font-semibold text-foreground">
+              {status.storeLineup}
+            </h2>
+            <p class="flex flex-wrap items-center gap-2 text-sm font-medium text-foreground">
+              <span class="deployment-status-dot" aria-hidden="true"></span>
+              <span>{statusLine}</span>
+            </p>
+            <p class="text-sm leading-relaxed text-muted-foreground">{status.aceReminder}</p>
+          </header>
+
+          <div>
+            <h3 class="text-xs font-semibold uppercase tracking-wider text-muted-foreground">
+              {status.recentTitle}
+            </h3>
+            <ol class="status-page-updates mt-4 space-y-4" role="list">
+              {
+                status.updates.map((entry, i) => (
+                  <li class="status-page-updates__item border-l-2 border-primary/35 pl-4">
+                    <p class="text-sm font-semibold text-foreground">
+                      {entry.title}
+                      <span class="font-normal text-muted-foreground"> · {entry.when}</span>
+                    </p>
+                    <p class="mt-1 text-sm leading-relaxed text-muted-foreground">{entry.summary}</p>
+                    {i === 0 ? (
+                      <p class="mt-2 text-xs font-medium text-primary/90">{status.latestLabel}</p>
+                    ) : null}
+                  </li>
+                ))
+              }
+            </ol>
+          </div>
+        </div>
+      </article>
+    </div>
+  </section>
+</BaseLayout>
