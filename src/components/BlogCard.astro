@@ -42,6 +42,8 @@ const readLabel = formatBlogReadTime(post.readTime, locale, (t.blog as { minRead
 const tagLabels = (t.blog as { tagLabels?: Record<string, string> }).tagLabels;
 const tagLabel = tagLabels?.[post.tag] ?? post.tag;
 const tagIcon: IconName = blogTagIcons[post.tag] ?? 'tag';
+/** Distinct accessible name per card — avoids repeated "Read" anchor text sitewide. */
+const readCtaLabel = `${t.blog.read}: ${post.title}`;
 ---
 
 <Card
@@ -154,7 +156,7 @@ const tagIcon: IconName = blogTagIcons[post.tag] ?? 'tag';
         <Icon name="clock" size={14} class="blog-card__footer-icon" aria-hidden="true" />
         <span>{readLabel}</span>
       </p>
-      <Button as="a" href={href} variant="outline" size="sm" class="blog-card__read shrink-0">
+      <Button as="a" href={href} variant="outline" size="sm" class="blog-card__read shrink-0" aria-label={readCtaLabel}>
         {t.blog.read}
         <Icon name="arrowRight" size={16} />
       </Button>

@@ -60,10 +60,11 @@ function slugify(text: string): string {
     .replace(/^-|-$/g, '');
 }
 const published = getBlogPublicationIso(post);
+const h1Text = post.h1Title ?? post.title;
 ---
 
 <BaseLayout
-  title={pageTitle(post.seoTitle ?? post.title)}
+  title={pageTitle(post.seoTitle ?? post.title, null)}
   description={post.desc}
   ogType="article"
   ogImage={socialShareImage(post.image)}
@@ -72,7 +73,7 @@ const published = getBlogPublicationIso(post);
   articleModifiedTime={published}
   jsonLd={[
     articleSchema({
-      name: post.title,
+      name: h1Text,
       description: post.desc,
       url: postPath,
       image: post.image,
@@ -111,7 +112,7 @@ const published = getBlogPublicationIso(post);
 
           <div data-blog-reading-article>
           <header class="blog-article__header">
-            <h1 class="blog-article__title">{post.title}</h1>
+            <h1 class="blog-article__title">{h1Text}</h1>
             <p class="blog-article__lead">{post.desc}</p>
             {
               post.author && (

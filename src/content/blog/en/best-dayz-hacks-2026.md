@@ -2,11 +2,12 @@
 {
   "tag": "Review",
   "title": "Best DayZ Hacks Review & Comparison 2026: Features, Safety & Value",
+  "h1Title": "Best DayZ Hacks 2026: plans, features, risk & value",
   "seoTitle": "DayZ hacks in 2026: plans, features, and risk",
   "slug": "best-dayz-hacks-2026",
   "image": "/images/gameplay/dayz-esp-village-town-labels.webp",
   "imageAlt": "DayZ ESP overlay with player marker and loot labels in a village",
-  "desc": "A 2026 comparison of this store only: the Steam loader, the HWID tool, and UGC appeals. Monthly and lifetime prices, menu groups, and ban risk. No star scores.",
+  "desc": "Dayz Hacks: A 2026 comparison of this store only: the Steam loader, the HWID tool, and UGC appeals. Monthly and lifetime prices, menu groups, and ban risk.",
   "date": "Sep 4, 2026",
   "dateIso": "2026-09-04",
   "readTime": "5 min read",

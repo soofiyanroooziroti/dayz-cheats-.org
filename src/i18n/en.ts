@@ -46,7 +46,7 @@ export const en: Translations = {
   hero: {
     status: 'DayZ — modules online',
     eyebrow: 'Steam · Windows PC',
-    titleLine1: 'DayZ Cheats for Windows PC',
+    titleLine1: 'DayZ Cheats for Windows PC — aimbot & pricing',
     titleLine2: 'Cheats',
     subtitle:
       'DayZ cheats for Steam on Windows PC: aimbot, player ESP, infected ESP, world ESP, item ESP, and config, with instant delivery and Discord support.',

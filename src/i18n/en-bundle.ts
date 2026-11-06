@@ -177,7 +177,7 @@ export function buildEnBundle(): Translations {
     },
     faqPage: {
       eyebrow: 'Help center',
-      title: 'FAQ for cheats, products & guides',
+      title: 'FAQ: plans, setup, BattlEye risk before checkout — cheats & guides',
       subtitle:
         'Plans, aim and ESP options, the HWID spoofer, UGC recovery, and what to check after an BattlEye update.',
       schemaName: 'FAQ — DayZ Cheats & Products',

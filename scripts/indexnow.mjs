@@ -1,10 +1,13 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { resolveDistDir } from './dist-dir.mjs';
+import { getSiteOrigin } from './site-origin.mjs';
 
 const dist = resolveDistDir();
 const key = process.env.INDEXNOW_KEY?.trim();
-const host = process.env.INDEXNOW_HOST?.trim() || 'dayz-cheats.org';
+const origin = getSiteOrigin();
+const host =
+  process.env.INDEXNOW_HOST?.trim() || new URL(origin).hostname;
 
 if (!key) {
   console.log('IndexNow: skipped (INDEXNOW_KEY not set).');

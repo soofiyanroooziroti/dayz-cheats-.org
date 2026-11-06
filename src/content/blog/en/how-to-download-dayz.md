@@ -2,6 +2,7 @@
 {
   "tag": "Setup",
   "title": "What you download after checkout (not DMA hardware)",
+  "h1Title": "After checkout: loader, portal, card & hacks software (not DMA hardware)",
   "seoTitle": "DayZ loader download: portal, not a DMA card",
   "slug": "how-to-download-dayz",
   "image": "/images/gameplay/dayz-loot-esp-player-box.webp",

@@ -52,6 +52,8 @@ export interface ProductCard {
 export interface BlogPost {
   tag: string;
   title: string;
+  /** When set, shown as <h1> instead of title (SEO alignment with seoTitle) */
+  h1Title?: string;
   slug: string;
   image: string;
   imageAlt?: string;

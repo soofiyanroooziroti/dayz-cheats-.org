@@ -6,7 +6,7 @@
   "pages": {
     "/": {
       "title": "DayZ Cheats for Windows PC | ESP, Aimbot & Pricing",
-      "description": "Aimbot, player ESP, infected ESP, world ESP, and item ESP for DayZ on Windows PC. Prices and a dated status note. Each product checks out on its own."
+      "description": "Aimbot, player ESP, infected ESP, world ESP, and item ESP for DayZ on Windows PC. Prices and a dated status note."
     },
     "/products/dayz-cheats/": {
       "title": "Cheats for DayZ | Monthly and Lifetime Plans",
@@ -82,7 +82,7 @@
     },
     "/faq/": {
       "title": "FAQ – Plans, Setup, and BattlEye Risk Before Checkout",
-      "description": "Answers on checkout, BattlEye updates, Windows and Steam requirements, hardware flags, and how the loader, spoofer, and account tool differ."
+      "description": "Faq: Answers on checkout, BattlEye updates, Windows and Steam requirements, hardware flags, and how the loader, spoofer, and account tool differ."
     },
     "/support/": {
       "title": "DayZ Support: Loader, Checkout, and HWID PC",

@@ -8,10 +8,11 @@ import {
   CHECKOUT_URLS,
   resolveCheckoutPathRedirect,
 } from '../src/config/checkout-redirects.mjs';
+import { getSiteOrigin } from './site-origin.mjs';
 
 const root = path.join(path.dirname(fileURLToPath(import.meta.url)), '..');
 const dist = resolveDistDir();
-const SITE = 'https://dayz-cheats.org';
+const SITE = getSiteOrigin();
 const errors = [];
 const reports = [];
 
@@ -121,8 +122,9 @@ function checkRobots() {
   }
   const text = fs.readFileSync(robotsPath, 'utf8');
   if (!/Disallow:\s*\/go\//i.test(text)) fail('robots.txt missing Disallow: /go/');
-  if (!/Sitemap:\s*https:\/\/hackfordayz\.com\/sitemap/i.test(text)) {
-  if (!/Sitemap:\s*https:\/\/dayz-cheats\.org\/sitemap/i.test(text)) {
+  const expectedSitemap = `Sitemap: ${SITE}/sitemap.xml`;
+  if (!text.includes(expectedSitemap)) {
+    fail(`robots.txt Sitemap line must list ${SITE}/sitemap.xml`);
   }
 }
 
@@ -384,8 +386,7 @@ function isHomePath(pathname) {
 
 function isEnglishPath(pathname) {
   return !pathname.match(/^\/(?:ru|zh-cn|fr|tr|pt-br|es|de|pl|th)(\/|$)/);
-  const seg = pathname.split('/').filter(Boolean)[0]?.toLowerCase() ?? '';
-  return !nonDefaultShipLocales.includes(seg);
+}
 
 function checkKeywords() {
   const homeKw = 'windows pc';

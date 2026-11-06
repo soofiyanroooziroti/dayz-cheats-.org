@@ -11,5 +11,7 @@ export interface BlogPostFull extends BlogPost {
   featured?: boolean;
   author?: string;
   seoTitle?: string;
+  /** Visible <h1> when different from title */
+  h1Title?: string;
   body: BlogBlock[];
 }

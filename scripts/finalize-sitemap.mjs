@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { resolveDistDir } from './dist-dir.mjs';
+import { getSiteOrigin } from './site-origin.mjs';
 
 const dist = resolveDistDir();
 const source = path.join(dist, 'sitemap-0.xml');
@@ -37,10 +38,12 @@ function formatUrlset(xml) {
     .replace(/<\/priority>/g, '</priority>\n');
 }
 
-const CANONICAL_ORIGIN = 'https://dayz-cheats.org';
+const CANONICAL_ORIGIN = getSiteOrigin();
 
 function canonicalizeHosts(xml) {
-  return xml.replace(/https?:\/\/(?:www\.)?cheatsfordeltaforce\.com/g, CANONICAL_ORIGIN);
+  let out = xml.replace(/https?:\/\/(?:www\.)?cheatsfordeltaforce\.com/g, CANONICAL_ORIGIN);
+  out = out.replace(/https:\/\/dayz-cheats\.org(?=\/|$)/g, CANONICAL_ORIGIN);
+  return out;
 }
 
 function dedupeUrlset(xml) {
@@ -77,5 +80,12 @@ const indexXml = `<?xml version="1.0" encoding="UTF-8"?>
 </sitemapindex>
 `;
 fs.writeFileSync(path.join(dist, 'sitemap-index.xml'), indexXml, 'utf8');
+
+const robotsPath = path.join(dist, 'robots.txt');
+if (fs.existsSync(robotsPath)) {
+  let robotsText = fs.readFileSync(robotsPath, 'utf8');
+  robotsText = robotsText.replace(/^Sitemap:\s*.*$/m, `Sitemap: ${CANONICAL_ORIGIN}/sitemap.xml`);
+  fs.writeFileSync(robotsPath, robotsText, 'utf8');
+}
 
 console.log(`Sitemap finalized: ${uniqueCount} URLs → ${relDist}/sitemap.xml`);

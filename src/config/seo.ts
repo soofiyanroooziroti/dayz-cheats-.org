@@ -49,9 +49,15 @@ function sliceKeywordForTitle(keyword: string, maxCodePoints: number): string {
   return chars.slice(0, maxCodePoints).join('').trimEnd();
 }
 
-export function pageTitle(keyword: string, brand = 'hacks'): string {
-  const suffix = ` | ${brand}`;
+/** @param brand Pass `null` to omit `| brand` (blog seoTitle already reads as a full title). */
+export function pageTitle(keyword: string, brand: string | null = 'hacks'): string {
   const max = 60;
+  if (brand === null) {
+    const k = keyword.trim();
+    if (k.length <= max) return k;
+    return sliceKeywordForTitle(k, max).trim();
+  }
+  const suffix = ` | ${brand}`;
   if (`${keyword}${suffix}`.length <= max) return `${keyword}${suffix}`;
   const trimmed = sliceKeywordForTitle(keyword, Math.max(20, max - suffix.length - 1)).trim();
   return `${trimmed}${suffix}`;

@@ -9,8 +9,14 @@ const SITE_BUILD_ID =
   process.env.SITE_BUILD_ID ??
   new Date().toISOString().replace(/[:.]/g, '-').slice(0, 19);
 
+const SITE_URL =
+  (process.env.PUBLIC_SITE_URL || process.env.SITE_URL || 'https://dayz-cheats.org').trim().replace(
+    /\/$/,
+    '',
+  );
+
 export default defineConfig({
-  site: 'https://dayz-cheats.org',
+  site: SITE_URL,
   trailingSlash: 'always',
   i18n: {
     defaultLocale: 'en',
