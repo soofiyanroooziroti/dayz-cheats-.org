@@ -18,12 +18,13 @@ import Icon from '../../../components/icons/Icon.astro';
 import { blogTagIcons } from '../../../data/sectionIcons';
 import type { IconName } from '../../../components/icons/types';
 import { Button } from '@/components/starwind/button';
-import { localizedPath, localizedRoutes } from '../../../utils/path';
+import { localizedPath, localizedRoutes, blogPostPath } from '../../../utils/path';
 
 const locale = Astro.params.locale!;
 const routes = localizedRoutes(locale);
 const t = getTranslations(locale);
 const blogPosts = getBlogPostsForLocale(locale);
+const allBlogPostsForLinks = blogPosts;
 
 const seo = resolvePageSeo('/blog/', locale);
 const breadcrumbs = [
@@ -144,6 +145,20 @@ const tagIcon = (tag: string): IconName => blogTagIcons[tag] ?? 'tag';
       </div>
     </div>
   </section>
+
+  {
+    hasPosts && allBlogPostsForLinks.length > 0 && (
+      <nav class="sr-only" aria-hidden="true">
+        <ul>
+          {allBlogPostsForLinks.map((p) => (
+            <li>
+              <a href={blogPostPath(p.slug, locale)}>{p.title}</a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+    )
+  }
 
   {
     hasPosts && (

@@ -3,7 +3,7 @@ import { getLocaleFromAstro, getTranslations } from '../../i18n';
 const locale = getLocaleFromAstro(Astro);
 const t = getTranslations(locale);
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import { blogPosts, getBlogTags } from '../../data/blog';
+import { blogPosts, getBlogPostsForLocale, getBlogTags } from '../../data/blog';
 import { resolvePageSeo } from '../../config/seo';
 import { breadcrumbSchema, collectionPageSchema } from '../../utils/schema';
 import { CARD_IMAGE_WIDTHS, webpSrc } from '../../utils/responsiveImage';
@@ -14,7 +14,7 @@ import Icon from '../../components/icons/Icon.astro';
 import { blogTagIcons } from '../../data/sectionIcons';
 import type { IconName } from '../../components/icons/types';
 import { Button } from '@/components/starwind/button';
-import { ROUTES } from '../../utils/path';
+import { ROUTES, blogPostPath } from '../../utils/path';
 
 const seo = resolvePageSeo('/blog/');
 const breadcrumbs = [
@@ -23,6 +23,7 @@ const breadcrumbs = [
 ];
 
 const gridPosts = blogPosts;
+const allBlogPostsForLinks = getBlogPostsForLocale(locale);
 const tags = getBlogTags();
 const lcpSource = blogPosts[0]?.image;
 const lcpImage = lcpSource ? webpSrc(lcpSource, CARD_IMAGE_WIDTHS[0]) : undefined;
@@ -131,6 +132,20 @@ const tagIcon = (tag: string): IconName => blogTagIcons[tag] ?? 'tag';
       </div>
     </div>
   </section>
+
+  {
+    hasPosts && allBlogPostsForLinks.length > 0 && (
+      <nav class="sr-only" aria-hidden="true">
+        <ul>
+          {allBlogPostsForLinks.map((p) => (
+            <li>
+              <a href={blogPostPath(p.slug, locale)}>{p.title}</a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+    )
+  }
 
   {
     hasPosts && (
