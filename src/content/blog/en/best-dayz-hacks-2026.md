@@ -3,7 +3,7 @@
   "tag": "Review",
   "title": "Best DayZ Hacks Review & Comparison 2026: Features, Safety & Value",
   "h1Title": "Best DayZ Hacks 2026: plans, features, risk & value",
-  "seoTitle": "DayZ hacks in 2026: plans, features, and risk",
+  "seoTitle": "Dayz Hacks – monthly & lifetime prices, menus, ban risk",
   "slug": "best-dayz-hacks-2026",
   "image": "/images/gameplay/dayz-esp-village-town-labels.webp",
   "imageAlt": "DayZ ESP overlay with player marker and loot labels in a village",
